@@ -1,0 +1,22 @@
+{
+  "name": "Phoenix Happenings",
+  "short_name": "Happenings",
+  "description": "Your weekly guide to community events across the Valley.",
+  "start_url": "/phoenix-happenings/",
+  "scope": "/phoenix-happenings/",
+  "display": "standalone",
+  "background_color": "#fcf2ea",
+  "theme_color": "#7e2c06",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
