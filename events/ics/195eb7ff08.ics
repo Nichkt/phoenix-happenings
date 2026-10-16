@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:195eb7ff08-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261017T170000Z
+DTEND:20261017T220000Z
+SUMMARY:5th Annual Desert Foothills Book Festival
+LOCATION:Holland Community Center\, 34250 N. 60th St. Bldg B\, Scottsdale\,
+  AZ
+DESCRIPTION:📚This free\, family-friendly event brings together nearly 90
+  Arizona authors spanning every genre for book signings and raffles.\n\nht
+ tps://azparenting.com/event/5th-annual-desert-foothills-book-festival/
+URL:https://azparenting.com/event/5th-annual-desert-foothills-book-festival
+ /
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c4e4302214-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261120T160000Z
+DTEND:20261120T200000Z
+SUMMARY:Carefree Friday Farmers Market
+LOCATION:101 Easy St\, Carefree\, AZ 85377\, USA
+DESCRIPTION:Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/ev
+ ents
+URL:https://www.carefree.org/events
+END:VEVENT
+END:VCALENDAR

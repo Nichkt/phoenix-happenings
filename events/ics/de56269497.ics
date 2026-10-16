@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de56269497-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261219T065900Z
+DTEND:20261219T075900Z
+SUMMARY:Holiday Pies and Cookies
+LOCATION:Musical Instrument Museum\, 4725 E. Mayo Blvd.\, Phoenix\, AZ\, 85
+ 050
+DESCRIPTION:https://mim.org/events/holiday-pies-and-cookies/
+URL:https://mim.org/events/holiday-pies-and-cookies/
+END:VEVENT
+END:VCALENDAR

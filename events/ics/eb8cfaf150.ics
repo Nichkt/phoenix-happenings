@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb8cfaf150-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261018T180000Z
+DTEND:20261018T184500Z
+SUMMARY:Fiesta Mexicana
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Come experience the beauty and joy of traditional folk dances f
+ rom Mexico\, Central America and South America with a performance by Fiest
+ a Mexicana Dance…\n\nhttps://childrensmuseumofphoenix.org/event/fiesta-m
+ exicana/
+URL:https://childrensmuseumofphoenix.org/event/fiesta-mexicana/
+END:VEVENT
+END:VCALENDAR

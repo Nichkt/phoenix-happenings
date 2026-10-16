@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:102d32fe32-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261128T170000Z
+DTEND:20261128T230000Z
+SUMMARY:Kiwanis Christmas for the Kids
+LOCATION:101 Easy St\, Carefree\, AZ 85377\, USA
+DESCRIPTION:https://www.carefree.org/events
+URL:https://www.carefree.org/events
+END:VEVENT
+END:VCALENDAR

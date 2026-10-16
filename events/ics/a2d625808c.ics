@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a2d625808c-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Scottsdale Sparkle Halloween Event
+LOCATION:Arizona Boardwalk\, 9500 E. Via de Ventura\, AZ
+DESCRIPTION:Hours: 10 AM–4 PM\n\nCelebrate fall with over 60 talented ven
+ dors and shop for your favorite items\, collectibles\, and toys at this fe
+ stive arts\, crafts\, and gifts event.\n\nhttps://azparenting.com/event/sc
+ ottsdale-sparkle-halloween-event-4/2026-10-17/
+URL:https://azparenting.com/event/scottsdale-sparkle-halloween-event-4/2026
+ -10-17/
+END:VEVENT
+END:VCALENDAR

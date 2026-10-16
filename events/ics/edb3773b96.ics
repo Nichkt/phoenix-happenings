@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:edb3773b96-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261121T160000Z
+DTEND:20261121T190000Z
+SUMMARY:Touch-A-Truck
+LOCATION:Litchfield Elementary School (parking lot on south\, Litchfield El
+ ementary School (parking lot on south 255 W Wigwam Blvd Litchfield Park AZ
+  85340
+DESCRIPTION:https://www.litchfieldpark.gov/calendar.aspx?EID=2956\n\nhttps:
+ //www.litchfieldpark.gov/calendar.aspx?EID=2956
+URL:https://www.litchfieldpark.gov/calendar.aspx?EID=2956
+END:VEVENT
+END:VCALENDAR

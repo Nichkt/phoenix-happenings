@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe15620778-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261030T000000Z
+DTEND:20261030T020000Z
+SUMMARY:Halloween Carnival at Playa Margarita
+LOCATION:Playa Margarita Park: 3615 W Roeser Rd\, Playa Margarita Park: 361
+ 5 W Roeser Rd\, Phoenix\, AZ 85041
+DESCRIPTION:https://www.phoenix.gov/calendar/parks-events/halloween-carniva
+ l-at-playa-margarita-.html
+URL:https://www.phoenix.gov/calendar/parks-events/halloween-carnival-at-pla
+ ya-margarita-.html
+END:VEVENT
+END:VCALENDAR

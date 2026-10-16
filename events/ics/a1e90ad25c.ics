@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a1e90ad25c-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:Community Fest 2026
+LOCATION:6895 E Cave Creek Rd\, Cave Creek\, AZ 85331\, USA
+DESCRIPTION:The third annual Community Fest —a lively evening of music\, 
+ food and philanthropy—will be held Tuesday\, October 27\, from 5–8 p.m
+ .\n\nhttps://www.carefree.org/events
+URL:https://www.carefree.org/events
+END:VEVENT
+END:VCALENDAR

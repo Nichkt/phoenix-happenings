@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4e52975a35-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261022T000000Z
+DTEND:20261022T030000Z
+SUMMARY:Agritopia Farm Night
+LOCATION:West side of Barnone at Agritopia\, AZ
+DESCRIPTION:Agritopia Farm Night connects urban dwellers with our Certified
+  Organic produce\, offering a beautiful space where people can learn\, sha
+ re\, and build community…\n\nhttps://www.discovergilbert.com/events/farm
+ -night/
+URL:https://www.discovergilbert.com/events/farm-night/
+END:VEVENT
+END:VCALENDAR

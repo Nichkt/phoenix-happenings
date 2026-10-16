@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2707b84d5f-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261213T020000Z
+DTEND:20261213T040000Z
+SUMMARY:Movie in the Park - The Santa Clause 2
+LOCATION:Flatiron Community Park\, Flatiron Community Park - 100 N Apache T
+ rail Apache Junction AZ 85119
+DESCRIPTION:Bring your blanket or lawn chair and enjoy a nice evening outsi
+ de watching a classic - The Santa Clause 2!\n\nhttps://www.apachejunctiona
+ z.gov/calendar.aspx?EID=2554
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2554
+END:VEVENT
+END:VCALENDAR

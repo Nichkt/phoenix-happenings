@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:42a2ee0a33-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261205T220000Z
+DTEND:20261206T030000Z
+SUMMARY:Holiday Event & Light Parade
+LOCATION:Flatiron Community Park\, Flatiron Community Park - 100 N. Apache 
+ Trail Apache Junction AZ 85119
+DESCRIPTION:The City of Apache Junction Parks and Recreation will be hostin
+ g our annual Holiday Program & Light Parade on Saturday\, December 5th\, 2
+ 026!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2556
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2556
+END:VEVENT
+END:VCALENDAR

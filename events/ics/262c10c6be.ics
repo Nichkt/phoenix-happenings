@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:262c10c6be-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261018T000000Z
+DTEND:20261018T020000Z
+SUMMARY:Slopetacular Trunk or Treat
+LOCATION:Sunnyslope Community Center: 802 E Vogel Ave\, Sunnyslope Communit
+ y Center: 802 E Vogel Ave\, Phoenix\, AZ 85020
+DESCRIPTION:https://www.phoenix.gov/calendar/parks-events/slopetacular-trun
+ k-or-treat.html
+URL:https://www.phoenix.gov/calendar/parks-events/slopetacular-trunk-or-tre
+ at.html
+END:VEVENT
+END:VCALENDAR

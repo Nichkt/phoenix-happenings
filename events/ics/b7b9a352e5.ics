@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7b9a352e5-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261115T020000Z
+DTEND:20261115T040000Z
+SUMMARY:Movie in the Park - Back to the Future
+LOCATION:Flatiron Community Park\, Flatiron Community Park - 100 N Apache T
+ rail Apache Junction AZ 85119
+DESCRIPTION:Bring your blanket or lawn chair and enjoy a nice evening outsi
+ de watching a classic - Back to the Future!\n\nhttps://www.apachejunctiona
+ z.gov/calendar.aspx?EID=2553
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2553
+END:VEVENT
+END:VCALENDAR

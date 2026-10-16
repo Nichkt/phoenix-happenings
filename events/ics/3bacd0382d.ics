@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3bacd0382d-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261024T003000Z
+DTEND:20261024T023000Z
+SUMMARY:YMCA x Carefree Trunk or Treat
+LOCATION:101 Easy St\, Carefree\, AZ 85377\, USA
+DESCRIPTION:Carefree is getting spooky again!\n\nhttps://www.carefree.org/e
+ vents
+URL:https://www.carefree.org/events
+END:VEVENT
+END:VCALENDAR

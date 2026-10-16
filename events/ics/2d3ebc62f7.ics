@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d3ebc62f7-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261017T180000Z
+DTEND:20261018T000000Z
+SUMMARY:Oktoberfest at the Park
+LOCATION:O.H.S.O Brewery\, AZ
+DESCRIPTION:Oktoberfest is back at The Park with local beer\, German eats\,
+  live music\, contests and plenty of fun.\n\nhttps://www.discovergilbert.c
+ om/events/oktoberfest-at-the-park-2/
+URL:https://www.discovergilbert.com/events/oktoberfest-at-the-park-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ec5615664-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261017T230000Z
+DTEND:20261018T040000Z
+SUMMARY:Family Fright Night: Movie in the Park
+LOCATION:Washington Activity Center - 2240 W Citrus Way\, Washington Activi
+ ty Center - 2240 W Citrus Way\, Phoenix\, AZ 85015
+DESCRIPTION:https://www.phoenix.gov/calendar/parks-events/family-fright-nig
+ ht--movie-in-the-park-.html
+URL:https://www.phoenix.gov/calendar/parks-events/family-fright-night--movi
+ e-in-the-park-.html
+END:VEVENT
+END:VCALENDAR

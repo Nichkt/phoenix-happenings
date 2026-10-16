@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b8bf226321-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261025
+TRANSP:TRANSPARENT
+SUMMARY:22nd Annual Sedona Plein Air Festival 2026
+LOCATION:Sedona Arts Center\, 15 Art Barn Rd\, Sedona\, AZ\, 86336
+DESCRIPTION:Hours: 10 AM–5 PM\n\nSedona Plein Air Festival October 16\, 2
+ 026 – October 24\, 2026 Experience the  22nd Annual Sedona Plein Air Fe
+ stival \, an immersive celebration of art set…\n\nhttps://sedonaartscent
+ er.org/event/22nd-annual-sedona-plein-air-festival-2026/
+URL:https://sedonaartscenter.org/event/22nd-annual-sedona-plein-air-festiva
+ l-2026/
+END:VEVENT
+END:VCALENDAR

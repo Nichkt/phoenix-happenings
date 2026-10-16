@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:651b4a9e20-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261024T233000Z
+DTEND:20261025T013000Z
+SUMMARY:Kids Club – Halloween Parade
+LOCATION:Walton Park\, 301 W. Holly St.\, Phoenix\, AZ\, 85003
+DESCRIPTION:More details to come\n\nhttps://willophx.com/event/kids-club-ha
+ lloween-parade/
+URL:https://willophx.com/event/kids-club-halloween-parade/
+END:VEVENT
+END:VCALENDAR

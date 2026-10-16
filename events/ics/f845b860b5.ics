@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f845b860b5-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261030T013000Z
+DTEND:20261030T033000Z
+SUMMARY:Gilbert Concert in the Park
+LOCATION:Heritage Park\, 45 W Page Ave\, Gilbert\, AZ\, 85296
+DESCRIPTION:Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30
+ PM Grab a blanket or your favorite lawn chair and join us this Fall for li
+ ve music during…\n\nhttps://www.discovergilbert.com/events/gilbert-conce
+ rt-in-the-park/
+URL:https://www.discovergilbert.com/events/gilbert-concert-in-the-park/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a8678ff71b-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Event
+LOCATION:Apache Junction
+DESCRIPTION:https://www.apachejunctionaz.gov/calendar.aspx?EID=2586\n\nhttp
+ s://www.apachejunctionaz.gov/calendar.aspx?EID=2586
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2586
+END:VEVENT
+END:VCALENDAR

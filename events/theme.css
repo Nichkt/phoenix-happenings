@@ -1,0 +1,39 @@
+/* Phoenix's colours, from the landing page: desert terracotta with a turquoise sky. */
+:root {
+  --brand: #9e421d;
+  --brand-strong: #7e2c06;
+  --brand-deep: #3a1609;
+  --brand-soft: #f8e1d5;
+  --on-brand: #ffffff;
+  --accent: #ffc45c;
+  --accent-2: #f47c5b;
+  --sky: #90f3eb;
+  --ink: #1f1b16;
+  --muted: #66544a;
+  --bg: #fcf2ea;
+  --bg-deep: #f1e6df;
+  --card: #fff8f4;
+  --line: rgba(31, 27, 22, 0.14);
+  --shadow: 0 10px 30px rgba(89, 49, 29, 0.09);
+  --new: #c2410c;
+  --star: #d97706;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --brand: #f4a582;
+    --brand-strong: #fcd2bd;
+    --brand-deep: #3a1609;
+    --brand-soft: #4a2414;
+    --on-brand: #2a1006;
+    --ink: #f3ebe5;
+    --muted: #c0aea3;
+    --bg: #1a1310;
+    --bg-deep: #120d0b;
+    --card: #251b16;
+    --line: rgba(243, 235, 229, 0.14);
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    --new: #f47c5b;
+    --star: #ffc45c;
+  }
+}

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce6260e930-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261205T000000Z
+DTEND:20261205T040000Z
+SUMMARY:Open for FREE First Friday Night
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:The Museum is open from 5pm-9pm free of charge\, on the first F
+ riday of each month.\n\nhttps://childrensmuseumofphoenix.org/event/open-fo
+ r-free-first-friday-night/2026-12-04/
+URL:https://childrensmuseumofphoenix.org/event/open-for-free-first-friday-n
+ ight/2026-12-04/
+END:VEVENT
+END:VCALENDAR

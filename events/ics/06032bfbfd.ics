@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06032bfbfd-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261212
+TRANSP:TRANSPARENT
+SUMMARY:Chanukah in Carefree
+LOCATION:101 Easy St\, Carefree\, AZ 85377\, USA
+DESCRIPTION:Hours: 5:30 PM\n\nhttps://www.carefree.org/events
+URL:https://www.carefree.org/events
+END:VEVENT
+END:VCALENDAR

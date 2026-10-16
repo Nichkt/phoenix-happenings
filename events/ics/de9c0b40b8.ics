@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de9c0b40b8-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Chiles & Chocolate Festival
+LOCATION:Desert Botanical Garden\, 1201 N. Galvin Parkway\, Phoenix\, AZ\, 
+ 85008
+DESCRIPTION:Hours: 11 AM–5 PM\n\nFrom sweet indulgences to fiery favorite
+ s\, Chiles & Chocolate Festival is a celebration of flavor\, discovery and
+  the deliciously unexpected.\n\nhttps://dbg.org/events/chiles-chocolate-fe
+ stival/2026-11-13/
+URL:https://dbg.org/events/chiles-chocolate-festival/2026-11-13/
+END:VEVENT
+END:VCALENDAR

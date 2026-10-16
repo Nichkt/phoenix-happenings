@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bddbd62841-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:Celebrate Sedona! December 4\, 2026 / 4-6pm
+LOCATION:Sedona Arts Center\, 15 Art Barn Rd\, Sedona\, AZ\, 86336
+DESCRIPTION:December 4 th \, 2026 4PM – 6PM! Live Music: TBD SAC Ceramics
+  Department:  Demos and Ceramics Sale Exhibition Opening:  Holiday Marke
+ t Celebrate Sedona engages…\n\nhttps://sedonaartscenter.org/event/celebr
+ ate-sedona-december-4-2026-4-6pm/
+URL:https://sedonaartscenter.org/event/celebrate-sedona-december-4-2026-4-6
+ pm/
+END:VEVENT
+END:VCALENDAR

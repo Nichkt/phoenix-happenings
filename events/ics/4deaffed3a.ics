@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4deaffed3a-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261107T170000Z
+DTEND:20261107T230000Z
+SUMMARY:Willo Art Walk
+LOCATION:Willo Neighborhood\, 301 W. Holly Street\, Phoenix\, AZ\, 85003
+DESCRIPTION:Please visit the Willo Art Walk website for more details.\n\nht
+ tps://willophx.com/event/willo-art-walk/
+URL:https://willophx.com/event/willo-art-walk/
+END:VEVENT
+END:VCALENDAR

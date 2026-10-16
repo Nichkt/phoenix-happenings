@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c0f7866211-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261017T010000Z
+DTEND:20261017T030000Z
+SUMMARY:Halloween Monster Bash
+LOCATION:Desert West Park - 6602 W Encanto Blvd.\, Desert West Park - 6602 
+ W Encanto Blvd.\, Phoenix\, AZ 85035
+DESCRIPTION:https://www.phoenix.gov/calendar/parks-events/halloween-monster
+ -bash-.html
+URL:https://www.phoenix.gov/calendar/parks-events/halloween-monster-bash-.h
+ tml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa7eaeb788-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Music in the Garden: Concert Series
+LOCATION:Desert Botanical Garden\, 1201 N. Galvin Parkway\, Phoenix\, AZ\, 
+ 85008
+DESCRIPTION:Enjoy a stunning Garden backdrop as you experience local bands 
+ during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-th
+ e-garden-concert-series/2026-11-06/
+URL:https://dbg.org/events/music-in-the-garden-concert-series/2026-11-06/
+END:VEVENT
+END:VCALENDAR

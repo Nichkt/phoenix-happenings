@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f219da6a52-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261206T190000Z
+DTEND:20261206T220000Z
+SUMMARY:Bubble Fest
+LOCATION:Arizona Boardwalk\, 9500 E. Via de Ventura\, AZ
+DESCRIPTION:This is a one-of-a-kind\, multi-layered\, highly interactive fa
+ mily event based around a bubble theme.\n\nhttps://azparenting.com/event/b
+ ubble-fest-4/2026-12-06/
+URL:https://azparenting.com/event/bubble-fest-4/2026-12-06/
+END:VEVENT
+END:VCALENDAR

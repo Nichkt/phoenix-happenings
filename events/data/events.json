@@ -1,0 +1,3025 @@
+{
+ "version": 1,
+ "app": "Phoenix Happenings",
+ "area": "Phoenix",
+ "zone": "America/Phoenix",
+ "generatedAt": "2026-10-16T07:58:53Z",
+ "since": "2026-10-16T07:58:53Z",
+ "from": "2026-10-16",
+ "until": "2027-01-08",
+ "regions": [
+  {
+   "id": "PHOENIX",
+   "label": "Phoenix",
+   "on": true
+  },
+  {
+   "id": "EAST_VALLEY",
+   "label": "East Valley: Tempe to Queen Creek",
+   "on": true
+  },
+  {
+   "id": "NORTH",
+   "label": "North: Scottsdale to Cave Creek",
+   "on": true
+  },
+  {
+   "id": "WEST_VALLEY",
+   "label": "West Valley: Glendale to Buckeye",
+   "on": true
+  },
+  {
+   "id": "FARTHER",
+   "label": "Farther out: Tucson, Prescott, Sedona…",
+   "on": false
+  }
+ ],
+ "categories": [
+  {
+   "id": "NIGHT_MARKET",
+   "label": "Night & pop-up markets",
+   "short": "Market",
+   "on": true
+  },
+  {
+   "id": "CULTURAL",
+   "label": "Cultural festivals",
+   "short": "Cultural",
+   "on": true
+  },
+  {
+   "id": "COMMUNITY",
+   "label": "Street fairs & parades",
+   "short": "Community",
+   "on": true
+  },
+  {
+   "id": "SEASONAL",
+   "label": "Seasonal & holiday",
+   "short": "Seasonal",
+   "on": true
+  },
+  {
+   "id": "FOOD",
+   "label": "Food & drink festivals",
+   "short": "Food & drink",
+   "on": true
+  },
+  {
+   "id": "ARTS",
+   "label": "Art walks & art fairs",
+   "short": "Arts",
+   "on": true
+  },
+  {
+   "id": "OUTDOOR",
+   "label": "Free outdoor concerts & movies",
+   "short": "Outdoors",
+   "on": false
+  },
+  {
+   "id": "FARMERS",
+   "label": "Farmers markets",
+   "short": "Farmers market",
+   "on": false
+  }
+ ],
+ "sources": [
+  {
+   "name": "Arizona Parenting",
+   "events": 19
+  },
+  {
+   "name": "azmatsuri.org",
+   "events": 1
+  },
+  {
+   "name": "Children's Museum of Phoenix",
+   "events": 6
+  },
+  {
+   "name": "City of Apache Junction",
+   "events": 7
+  },
+  {
+   "name": "City of Litchfield Park",
+   "events": 6
+  },
+  {
+   "name": "City of Phoenix",
+   "events": 17
+  },
+  {
+   "name": "Desert Botanical Garden",
+   "events": 10
+  },
+  {
+   "name": "Discover Gilbert",
+   "events": 9
+  },
+  {
+   "name": "Musical Instrument Museum",
+   "events": 1
+  },
+  {
+   "name": "Sedona Arts Center",
+   "events": 3
+  },
+  {
+   "name": "Town of Carefree",
+   "events": 19
+  },
+  {
+   "name": "Willo Historic District",
+   "events": 2
+  }
+ ],
+ "events": [
+  {
+   "id": "c9aac2b975",
+   "series": "fcd88d6794",
+   "title": "Great Fall Kickoff Festival",
+   "start": "2026-10-14",
+   "end": "2026-10-18",
+   "startMinute": 420,
+   "endMinute": 1320,
+   "dates": "Oct 14–18",
+   "time": "7 AM–10 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "url": "https://dbg.org/events/great-fall-kickoff-festival/2026-10-14/",
+   "image": "https://dbg.org/wp-content/uploads/2026/07/kickoff-feature.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-14",
+    "end": "2026-10-19",
+    "notes": "Hours: 7 AM–10 PM\n\nhttps://dbg.org/events/great-fall-kickoff-festival/2026-10-14/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-14",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 14–Nov 15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-14/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-14",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-14/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "2a24b567ed",
+   "series": "2f34a24954",
+   "title": "Old MacDonald’s Pumpkin Patch",
+   "start": "2026-10-15",
+   "end": "2026-10-18",
+   "dates": "Oct 15–18",
+   "place": "The Great Arizona Puppet Theater, Phoenix",
+   "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "$10.00 – $15.00",
+   "free": false,
+   "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
+   "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
+   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-15/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-15",
+    "end": "2026-10-19",
+    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-15/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "7c7072a4ce",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Oct 16",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-16T16:00:00Z",
+    "end": "2026-10-16T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b8bf226321",
+   "series": "3ca764ca12",
+   "title": "22nd Annual Sedona Plein Air Festival 2026",
+   "start": "2026-10-16",
+   "end": "2026-10-24",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Oct 16–24",
+   "time": "10 AM–5 PM",
+   "place": "Sedona Arts Center",
+   "placeLines": "Sedona Arts Center\n15 Art Barn Rd, Sedona, AZ, 86336",
+   "region": "FARTHER",
+   "category": "COMMUNITY",
+   "summary": "Sedona Plein Air Festival October 16, 2026 – October 24, 2026 Experience the  22nd Annual Sedona Plein Air Festival , an immersive celebration of art set…",
+   "description": "Sedona Plein Air Festival\n\nOctober 16, 2026 – October 24, 2026\n\nExperience the 22nd Annual Sedona Plein Air Festival, an immersive celebration of art set against the extraordinary red rock landscapes of Sedona and the surrounding Verde Valley.\n\nAs one of the longest-running plein air festivals in the Southwest, this annual event brings accomplished artists from across the country to paint on location throughout the week, capturing Sedona’s changing light, color, landscape, and atmosphere in real time.\n\nVisitors can watch artists at work throughout the region and experience a week of paint-outs, artist demonstrations, special events, awards, and the always-popular Artist Games. From works taking shape outdoors to opportunities to meet the artists and experience their creative process firsthand, the festival offers a unique opportunity to see plein air painting as it happens.\n\nThis years SPAF Artists are:\n\nOlena Babak, Lorie Batson, Ed Buonvecchio, Casey Cheuvront, Bill Cramer, Lauren Davis, Carol Douglas, Robert Goldman, Bruce Gómez, Meisha Grichuhin, Michelle Held, Michael Chesley Johnson, Laura Martinez-Bianco, Betsy Menand, Barbara Mulleneaux, Anton Nowels, Bill Perkins, Hadley Rampton, Robin Roberts, Julia Robinson, Paula Swain, Barbara Tapp, Carol Tarzier, Stewart White, Tara Will\n\nThis years SPAF Judges are:\n\nBetty Carr & Kelly Kane\n\nPublic Event Dates: October 19 – October 24, 2026\n\n• Saturday, Oct 17: Artist Demos at Sedona Art Center: Olena Babak, Carol Douglas…",
+   "url": "https://sedonaartscenter.org/event/22nd-annual-sedona-plein-air-festival-2026/",
+   "image": "https://sedonaartscenter.org/wp-content/uploads/2026/07/SPAF2026_banner-1-768x308.jpg",
+   "imageCredit": "Sedona Arts Center",
+   "sources": [
+    "Sedona Arts Center"
+   ],
+   "map": "Sedona Arts Center, 15 Art Barn Rd, Sedona, AZ, 86336",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-10-25",
+    "notes": "Hours: 10 AM–5 PM\n\nSedona Plein Air Festival October 16, 2026 – October 24, 2026 Experience the  22nd Annual Sedona Plein Air Festival , an immersive celebration of art set…\n\nhttps://sedonaartscenter.org/event/22nd-annual-sedona-plein-air-festival-2026/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "a742e28d1c",
+   "series": "debaeb8fbf",
+   "title": "Festival of Frights",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Fri, Oct 16",
+   "time": "5–8 PM",
+   "place": "South Mountain Activity Complex - 10401 S. Central Ave., Phoenix",
+   "placeLines": "South Mountain Activity Complex - 10401 S. Central Ave., Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/festival-of-frights-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "South Mountain Activity Complex - 10401 S. Central Ave., South Mountain Activity Complex - 10401 S. Central Ave., Phoenix, AZ 85042",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T00:00:00Z",
+    "end": "2026-10-17T03:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/festival-of-frights-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "c0f7866211",
+   "series": "759f1573d5",
+   "title": "Halloween Monster Bash",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "startMinute": 1080,
+   "endMinute": 1200,
+   "dates": "Fri, Oct 16",
+   "time": "6–8 PM",
+   "place": "Desert West Park - 6602 W Encanto Blvd., Phoenix",
+   "placeLines": "Desert West Park - 6602 W Encanto Blvd., Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/halloween-monster-bash-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Desert West Park - 6602 W Encanto Blvd., Desert West Park - 6602 W Encanto Blvd., Phoenix, AZ 85035",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T01:00:00Z",
+    "end": "2026-10-17T03:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/halloween-monster-bash-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "11ab0ead5e",
+   "series": "66c2d43a55",
+   "title": "Music in the Garden: Concert Series",
+   "start": "2026-10-16",
+   "end": "2026-10-16",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Oct 16",
+   "time": "6–9 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "OUTDOOR",
+   "summary": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.",
+   "url": "https://dbg.org/events/music-in-the-garden-concert-series/2026-10-16/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/mig-trailside-tunes.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T01:00:00Z",
+    "end": "2026-10-17T04:00:00Z",
+    "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-10-16/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "483eb8c397",
+   "series": "6fa3c0b398",
+   "title": "Gilbert Art Walk – Heritage District",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Sat, Oct 17",
+   "time": "8 AM–6 PM",
+   "place": "Gilbert Farmers Market",
+   "placeLines": "Gilbert Farmers Market",
+   "region": "EAST_VALLEY",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
+   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
+   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Gilbert Farmers Market, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T15:00:00Z",
+    "end": "2026-10-18T01:00:00Z",
+    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "df6fd6e229",
+   "series": "a4a8eb9124",
+   "title": "Santa Maria Park Skate Plaza Ribbon Cutting",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 540,
+   "endMinute": 600,
+   "dates": "Sat, Oct 17",
+   "time": "9–10 AM",
+   "place": "Santa Maria Park, Phoenix",
+   "placeLines": "Santa Maria Park, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/pierce-park-grand-reopening-/santa-maria-park--skate-plaza-ribbon-cutting-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Santa Maria Park, Santa Maria Park - 3425 S 71st Ave Phoenix, AZ 85043",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T16:00:00Z",
+    "end": "2026-10-17T17:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/pierce-park-grand-reopening-/santa-maria-park--skate-plaza-ribbon-cutting-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "195eb7ff08",
+   "series": "eb99c26724",
+   "title": "5th Annual Desert Foothills Book Festival",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 600,
+   "endMinute": 900,
+   "dates": "Sat, Oct 17",
+   "time": "10 AM–3 PM",
+   "place": "Holland Community Center, Scottsdale",
+   "placeLines": "Holland Community Center, Scottsdale\n34250 N. 60th St. Bldg B, Scottsdale, AZ",
+   "region": "NORTH",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "📚This free, family-friendly event brings together nearly 90 Arizona authors spanning every genre for book signings and raffles.",
+   "description": "📚This free, family-friendly event brings together nearly 90 Arizona authors spanning every genre for book signings and raffles. To celebrate the 5-year milestone, the first 100 attendees will receive a free book and curated gift box courtesy of Once Upon a Book Club. Visitors can also enjoy local eats from Dee-Lites food truck, Aaron’s Vegan Bakery, and Reckon Coffee Company.\n\n⭐The biggest story here is about community impact: net proceeds from the festival’s raffles directly fund vital youth literacy programs like “Creative Kids – Tell Me A Story,” which teaches children how to write and publish their very own books.",
+   "url": "https://azparenting.com/event/5th-annual-desert-foothills-book-festival/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/08/Book-Festival.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Holland Community Center, 34250 N. 60th St. Bldg B, Scottsdale, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T17:00:00Z",
+    "end": "2026-10-17T22:00:00Z",
+    "notes": "📚This free, family-friendly event brings together nearly 90 Arizona authors spanning every genre for book signings and raffles.\n\nhttps://azparenting.com/event/5th-annual-desert-foothills-book-festival/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "a2d625808c",
+   "series": "bcb55c4b25",
+   "title": "Scottsdale Sparkle Halloween Event",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Oct 17–18",
+   "time": "10 AM–4 PM",
+   "place": "Arizona Boardwalk",
+   "placeLines": "Arizona Boardwalk\n9500 E. Via de Ventura, AZ",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Celebrate fall with over 60 talented vendors and shop for your favorite items, collectibles, and toys at this festive arts, crafts, and gifts event.",
+   "description": "Celebrate fall with over 60 talented vendors and shop for your favorite items, collectibles, and toys at this festive arts, crafts, and gifts event. Kids can enjoy face painting, costumed characters, candy and more! Dress your best for a thrilling costume contest with big prizes up for grabs for the most creative and impressive costumes.",
+   "url": "https://azparenting.com/event/scottsdale-sparkle-halloween-event-4/2026-10-17/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/10/ScottsdaleSparkle.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Arizona Boardwalk, 9500 E. Via de Ventura, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-17",
+    "end": "2026-10-19",
+    "notes": "Hours: 10 AM–4 PM\n\nCelebrate fall with over 60 talented vendors and shop for your favorite items, collectibles, and toys at this festive arts, crafts, and gifts event.\n\nhttps://azparenting.com/event/scottsdale-sparkle-halloween-event-4/2026-10-17/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "2d3ebc62f7",
+   "series": "e359924fe6",
+   "title": "Oktoberfest at the Park",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 660,
+   "endMinute": 1020,
+   "dates": "Sat, Oct 17",
+   "time": "11 AM–5 PM",
+   "place": "O.H.S.O Brewery",
+   "placeLines": "O.H.S.O Brewery",
+   "region": "EAST_VALLEY",
+   "category": "FOOD",
+   "summary": "Oktoberfest is back at The Park with local beer, German eats, live music, contests and plenty of fun.",
+   "description": "Oktoberfest is back at The Park with local beer, German eats, live music, contests and plenty of fun. Grand Canyon Brewing, Desert Monks Brewing Co., FuzzBot Brewing, Goldwater Brewing Co., Sacred Hand Brewing and O.H.S.O. will be pouring throughout the day.",
+   "url": "https://www.discovergilbert.com/events/oktoberfest-at-the-park-2/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/10/f0177a36-2354-4167-a66a-5f2f4c2215b4.avif",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "O.H.S.O Brewery, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T18:00:00Z",
+    "end": "2026-10-18T00:00:00Z",
+    "notes": "Oktoberfest is back at The Park with local beer, German eats, live music, contests and plenty of fun.\n\nhttps://www.discovergilbert.com/events/oktoberfest-at-the-park-2/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "0062594ce3",
+   "series": "2e078cd1b2",
+   "title": "Harvest Home",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 840,
+   "endMinute": 960,
+   "dates": "Sat, Oct 17",
+   "time": "2–4 PM",
+   "place": "Fiddler’s Dream, Phoenix",
+   "placeLines": "Fiddler’s Dream, Phoenix\n1702 E. Glendale Ave., Phoenix, 85020",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Families can enjoy live fiddle and guitar music, Native flute, stories, seasonal traditions, and participatory music and dance.",
+   "description": "Families can enjoy live fiddle and guitar music, Native flute, stories, seasonal traditions, and participatory music and dance. Arvel is a four-time Indiana State Fiddle Champion, toured with Glen Campbell, and has performed from the Grand Ole Opry to Royal Albert Hall and the Smithsonian.\n\n🍂FREE — donations welcome\n🍁All ages welcome",
+   "url": "https://azparenting.com/event/harvest-home/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/10/Fiddlers-Dream-Arvel-Bird-Concert-5-1-1.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Fiddler’s Dream, 1702 E. Glendale Ave., Phoenix, 85020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T21:00:00Z",
+    "end": "2026-10-17T23:00:00Z",
+    "notes": "Families can enjoy live fiddle and guitar music, Native flute, stories, seasonal traditions, and participatory music and dance.\n\nhttps://azparenting.com/event/harvest-home/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "1ec5615664",
+   "series": "faac6786c5",
+   "title": "Family Fright Night: Movie in the Park",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 960,
+   "endMinute": 1260,
+   "dates": "Sat, Oct 17",
+   "time": "4–9 PM",
+   "place": "Washington Activity Center - 2240 W Citrus Way, Phoenix",
+   "placeLines": "Washington Activity Center - 2240 W Citrus Way, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/family-fright-night--movie-in-the-park-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Washington Activity Center - 2240 W Citrus Way, Washington Activity Center - 2240 W Citrus Way, Phoenix, AZ 85015",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-17T23:00:00Z",
+    "end": "2026-10-18T04:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/family-fright-night--movie-in-the-park-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "262c10c6be",
+   "series": "2629db7038",
+   "title": "Slopetacular Trunk or Treat",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 1020,
+   "endMinute": 1140,
+   "dates": "Sat, Oct 17",
+   "time": "5–7 PM",
+   "place": "Sunnyslope Community Center: 802 E Vogel Ave, Phoenix",
+   "placeLines": "Sunnyslope Community Center: 802 E Vogel Ave, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "url": "https://www.phoenix.gov/calendar/parks-events/slopetacular-trunk-or-treat.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Sunnyslope Community Center: 802 E Vogel Ave, Sunnyslope Community Center: 802 E Vogel Ave, Phoenix, AZ 85020",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-18T00:00:00Z",
+    "end": "2026-10-18T02:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/slopetacular-trunk-or-treat.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "d1271f3fe2",
+   "series": "fa25ddff34",
+   "title": "Fall-o-Ween at Deer Valley Park",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "startMinute": 1080,
+   "endMinute": 1200,
+   "dates": "Sat, Oct 17",
+   "time": "6–8 PM",
+   "place": "Deer Valley Park - 2001 W Wahalla Ln., Phoenix",
+   "placeLines": "Deer Valley Park - 2001 W Wahalla Ln., Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/fall-o-ween-at-deer-valley-park.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Deer Valley Park - 2001 W Wahalla Ln., Deer Valley Park - 2001 W Wahalla Ln., Phoenix AZ 85027",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-18T01:00:00Z",
+    "end": "2026-10-18T03:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/fall-o-ween-at-deer-valley-park.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "eb8cfaf150",
+   "series": "154f541ea7",
+   "title": "Fiesta Mexicana",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "startMinute": 660,
+   "endMinute": 705,
+   "dates": "Sun, Oct 18",
+   "time": "11–11:45 AM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "CULTURAL",
+   "kids": true,
+   "summary": "Come experience the beauty and joy of traditional folk dances from Mexico, Central America and South America with a performance by Fiesta Mexicana Dance…",
+   "description": "Come experience the beauty and joy of traditional folk dances from Mexico, Central America and South America with a performance by Fiesta Mexicana Dance Company, the official folkloric group for the City of Phoenix. ¡Sé valiente y baila!",
+   "url": "https://childrensmuseumofphoenix.org/event/fiesta-mexicana/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-18T18:00:00Z",
+    "end": "2026-10-18T18:45:00Z",
+    "notes": "Come experience the beauty and joy of traditional folk dances from Mexico, Central America and South America with a performance by Fiesta Mexicana Dance…\n\nhttps://childrensmuseumofphoenix.org/event/fiesta-mexicana/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "163041d0de",
+   "series": "55aea39e85",
+   "title": "Meet the Spooky Pets",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "startMinute": 720,
+   "endMinute": 840,
+   "dates": "Sun, Oct 18",
+   "time": "12–2 PM",
+   "place": "Petsmart",
+   "placeLines": "Petsmart\nVarious Locations, AZ",
+   "category": "SEASONAL",
+   "summary": "Snakes, spiders, death-feigning beetles oh my!",
+   "description": "Snakes, spiders, death-feigning beetles oh my! This creature feature introduces families to specialty pets while learning about their daily care and activities from PetSmart associates.\n\n🐍Featured pets may vary by store.",
+   "url": "https://azparenting.com/event/meet-the-spooky-pets/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/10/TricksforTreats.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Petsmart, Various Locations, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-18T19:00:00Z",
+    "end": "2026-10-18T21:00:00Z",
+    "notes": "Snakes, spiders, death-feigning beetles oh my!\n\nhttps://azparenting.com/event/meet-the-spooky-pets/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "23b727a418",
+   "series": "6af21f453d",
+   "title": "Spooky Trees",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Oct 19–25",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Make a 3-dimensional spooky tree to celebrate this fall season.",
+   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-19/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-19",
+    "end": "2026-10-26",
+    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-19/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "4e52975a35",
+   "series": "92bf9349ef",
+   "title": "Agritopia Farm Night",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Wed, Oct 21",
+   "time": "5–8 PM",
+   "place": "West side of Barnone at Agritopia",
+   "placeLines": "West side of Barnone at Agritopia",
+   "region": "EAST_VALLEY",
+   "category": "FARMERS",
+   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
+   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
+   "url": "https://www.discovergilbert.com/events/farm-night/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "West side of Barnone at Agritopia, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-22T00:00:00Z",
+    "end": "2026-10-22T03:00:00Z",
+    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "a9492aab1f",
+   "series": "805a2783d6",
+   "title": "Boo to Bloom",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Wed, Oct 21",
+   "time": "5–8 PM",
+   "place": "Tempe Marketplace, Tempe, AZ",
+   "placeLines": "Tempe Marketplace, Tempe, AZ\n2000 E Rio Salado Pkwy, Tempe, AZ, 85281",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Halloween meets a celebration of Día de los Muertos with trick-or-treating throughout The District, a costume contest, face painting, arts and crafts,…",
+   "description": "Halloween meets a celebration of Día de los Muertos with trick-or-treating throughout The District, a costume contest, face painting, arts and crafts, giveaways and raffles benefiting Make-A-Wish.",
+   "url": "https://azparenting.com/event/boo-to-bloom/",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Tempe Marketplace, 2000 E Rio Salado Pkwy, Tempe, AZ, 85281",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-22T00:00:00Z",
+    "end": "2026-10-22T03:00:00Z",
+    "notes": "Halloween meets a celebration of Día de los Muertos with trick-or-treating throughout The District, a costume contest, face painting, arts and crafts,…\n\nhttps://azparenting.com/event/boo-to-bloom/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "785a01b935",
+   "series": "2f34a24954",
+   "title": "Old MacDonald’s Pumpkin Patch",
+   "start": "2026-10-22",
+   "end": "2026-10-25",
+   "dates": "Oct 22–25",
+   "place": "The Great Arizona Puppet Theater, Phoenix",
+   "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "$10.00 – $15.00",
+   "free": false,
+   "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
+   "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
+   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-22/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-22",
+    "end": "2026-10-26",
+    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-22/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "4c28f61745",
+   "series": "46aaea80da",
+   "title": "Strange Garden",
+   "start": "2026-10-22",
+   "end": "2026-10-31",
+   "startMinute": 420,
+   "endMinute": 1320,
+   "dates": "Oct 22–31",
+   "time": "7 AM–10 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
+   "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
+   "url": "https://dbg.org/events/strange-garden/2026-10-22/",
+   "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-22",
+    "end": "2026-11-01",
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-22/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "5a94dee93f",
+   "series": "2e2af05f83",
+   "title": "Gilbert Concert in the Park",
+   "start": "2026-10-22",
+   "end": "2026-10-22",
+   "startMinute": 1110,
+   "endMinute": 1230,
+   "dates": "Thu, Oct 22",
+   "time": "6:30–8:30 PM",
+   "place": "Heritage Park, Gilbert",
+   "placeLines": "Heritage Park, Gilbert\n45 W Page Ave, Gilbert, AZ, 85296",
+   "region": "EAST_VALLEY",
+   "category": "OUTDOOR",
+   "cost": "Free",
+   "free": true,
+   "summary": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…",
+   "description": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during our FREE Concerts in the Park. Our concert series showcases some of the Valley’s best bands performing a variety of music genres. Enjoy some tasty takeout from one of the many Gilbert…",
+   "url": "https://www.discovergilbert.com/events/gilbert-concert-in-the-park/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/08/638566502992500000.jpeg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert",
+    "Arizona Parenting"
+   ],
+   "map": "Heritage Park, 45 W Page Ave, Gilbert, AZ, 85296",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-23T01:30:00Z",
+    "end": "2026-10-23T03:30:00Z",
+    "notes": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…\n\nhttps://www.discovergilbert.com/events/gilbert-concert-in-the-park/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "d0cc9ba6ea",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Oct 23",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-23T16:00:00Z",
+    "end": "2026-10-23T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "350297454a",
+   "series": "6c8dbc0e64",
+   "title": "Spooktacular Hot Air Balloon Festival",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "startMinute": 1020,
+   "endMinute": 1260,
+   "dates": "Oct 23–25",
+   "time": "5–9 PM",
+   "place": "Salt River Fields, Scottsdale",
+   "placeLines": "Salt River Fields, Scottsdale\n7555 N. Pima Rd., Scottsdale, AZ",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Price varies",
+   "kids": true,
+   "summary": "This fun and safe trick-or-treating event has something for everyone in the family to enjoy.",
+   "description": "This fun and safe trick-or-treating event has something for everyone in the family to enjoy. Check out 20+ glowing hot air balloons, costume contests, 4000 pounds of candy for trick or treating, kids’ zone, live music, vendors and more. Ticket pricing varies by age and date, check online for more details. Children 2 years and under are free. Tethered hot air balloon rides are sold separately.",
+   "url": "https://azparenting.com/event/spooktacular-hot-air-balloon-festival-4/2026-10-23/",
+   "image": "https://azparenting.com/wp-content/uploads/2022/11/Spooktacular-Hot-Air-Balloon-Festival-e1759519360744.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Salt River Fields, 7555 N. Pima Rd., Scottsdale, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-23",
+    "end": "2026-10-26",
+    "notes": "Hours: 5–9 PM\n\nThis fun and safe trick-or-treating event has something for everyone in the family to enjoy.\n\nhttps://azparenting.com/event/spooktacular-hot-air-balloon-festival-4/2026-10-23/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "3bacd0382d",
+   "series": "e0a7adffce",
+   "title": "YMCA x Carefree Trunk or Treat",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "startMinute": 1050,
+   "endMinute": 1170,
+   "dates": "Fri, Oct 23",
+   "time": "5:30–7:30 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Carefree is getting spooky again!",
+   "description": "Carefree is getting spooky again!\n\nLast year’s first YMCA Trunk or Treat in Carefree Town Center was a huge hit, and we’re so excited to welcome families back for an even another night of FREE Halloween fun!\n\nJoin us Friday, Oct. 23 at 5:30 PM along Easy Street and at the Sanderson Lincoln Pavilion for an evening packed with decorated trunks, trick-or-treating, music, games, face painting and plenty of festive surprises.\n\nCome dressed in your Halloween best...\n\n• Bring your costumed four-legged friends\n\n• Grab your candy bag and trick-or-treat through Town Center\n\n• Visit local vendors and nonprofits for games, treats and activities\n\n• Explore Carefree’s shops and restaurants while you’re here!\n\nWe can’t wait to see Carefree Town Center filled with costumes, candy and families once again. Join us for what promises to be our biggest and best Trunk or Treat yet!\n\nWant to host a trunk? If you’re interested in joining the fun and decorating a trunk, contact Deb with the YMCA at dcallison@vosymca.org.\n\nMore Info: https://visitcarefree.com/trunk-or-treat",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T00:30:00Z",
+    "end": "2026-10-24T02:30:00Z",
+    "notes": "Carefree is getting spooky again!\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "5b35219d3f",
+   "series": "dbbd3432bd",
+   "title": "Movie Night at Aguila Park",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Oct 23",
+   "time": "6–9 PM",
+   "place": "Aguila Park - 7858 S. 35th Ave., Phoenix",
+   "placeLines": "Aguila Park - 7858 S. 35th Ave., Phoenix",
+   "region": "PHOENIX",
+   "category": "OUTDOOR",
+   "url": "https://www.phoenix.gov/calendar/parks-events/movie-night-at-aguila-park-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Aguila Park - 7858 S. 35th Ave., Aguila Park - 7858 S. 35th Ave., Phoenix AZ, 85339",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T01:00:00Z",
+    "end": "2026-10-24T04:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/movie-night-at-aguila-park-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "a45176f657",
+   "series": "9422f04259",
+   "title": "Tempe’s Family Boo Bash",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Fri, Oct 23",
+   "time": "6–10 PM",
+   "place": "Kiwanis Park, Tempe",
+   "placeLines": "Kiwanis Park, Tempe\n101 West Baseline Road, Tempe, AZ, 85283",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Get EEK-cited to gather for a bewitching good time!",
+   "description": "Get EEK-cited to gather for a bewitching good time! Be sure to join for free family fun. Activities include train rides, face painting, and a dance party. Dress up and take part in the costume contest and parade. Bring your blankets and settle in for the featured flick, Toy Story 5 (PG). 6pm to 10pm. Admission is free. Food and carnival games will be hosted by non-profits and will be available at a cost.",
+   "url": "https://azparenting.com/event/tempes-family-boo-bash-2/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/09/2024-tempe-boo-bash-e1790959127617.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Kiwanis Park, 101 West Baseline Road, Tempe, AZ, 85283",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T01:00:00Z",
+    "end": "2026-10-24T05:00:00Z",
+    "notes": "Get EEK-cited to gather for a bewitching good time!\n\nhttps://azparenting.com/event/tempes-family-boo-bash-2/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "ea4ab31d03",
+   "series": "ca99b9e898",
+   "title": "Día de los Muertos Festival",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "dates": "Oct 24–25",
+   "place": "Mesa Arts Center",
+   "placeLines": "Mesa Arts Center\n1 E. Main St., Mesa, AZ",
+   "region": "EAST_VALLEY",
+   "category": "CULTURAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Celebrate the rich traditions of Día de los Muertos at Mesa Arts Center’s 20th Annual Día de los Muertos Festival, bringing the community together for a…",
+   "description": "Celebrate the rich traditions of Día de los Muertos at Mesa Arts Center’s 20th Annual Día de los Muertos Festival, bringing the community together for a vibrant weekend of culture, music and family-friendly fun. Enjoy live entertainment, traditional dance, hands-on art activities, local artists and vendors, delicious food and cultural experiences for all ages. Families can also contribute photos and mementos to the Community Altar honoring loved ones who have passed. On Saturday evening, the celebration expands into a lively street party on First Avenue following the lighting of the altar, featuring free performances by QVLN (Quetzal Guerrero) at 7 p.m. , GRAMMY, and Latin GRAMMY Award-winning artist Lila Downs at 8 p.m.",
+   "url": "https://azparenting.com/event/dia-de-los-muertos-festival-3/2026-10-24/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/09/diadelosmuertos.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Mesa Arts Center, 1 E. Main St., Mesa, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-24",
+    "end": "2026-10-26",
+    "notes": "Celebrate the rich traditions of Día de los Muertos at Mesa Arts Center’s 20th Annual Día de los Muertos Festival, bringing the community together for a…\n\nhttps://azparenting.com/event/dia-de-los-muertos-festival-3/2026-10-24/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "c79a222c08",
+   "series": "c87f9066d5",
+   "title": "Pumpkin Splash",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "dates": "Sat, Oct 24",
+   "place": "Stapley Aquatic Complex, Mesa",
+   "placeLines": "Stapley Aquatic Complex, Mesa\n3250 E Hermosa Vista Dr, Mesa, 85213",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "$10.00",
+   "free": false,
+   "summary": "Take a dip in a floating pumpkin patch and pick out your perfect pumpkin… right from the pool!",
+   "description": "Take a dip in a floating pumpkin patch and pick out your perfect pumpkin… right from the pool! Enjoyfun Halloween carnival games, prizes, and tons of festive fun for all ages. Don’t miss the lifeguard costume contest — you’ve never seen a superhero or spooky ghost quite like this!\n\nCome in costume, bring your swimsuit, and get ready for a Halloween celebration that’s anything but ordinary.",
+   "url": "https://azparenting.com/event/pumpkin-splash/2026-10-24/1/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/09/pumpkin-dunk.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Stapley Aquatic Complex, 3250 E Hermosa Vista Dr, Mesa, 85213",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-24",
+    "end": "2026-10-25",
+    "notes": "Take a dip in a floating pumpkin patch and pick out your perfect pumpkin… right from the pool!\n\nhttps://azparenting.com/event/pumpkin-splash/2026-10-24/1/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "19385dcf39",
+   "series": "c3a5585bdf",
+   "title": "Candie’s Halloween Character Carnival",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 600,
+   "endMinute": 780,
+   "dates": "Sat, Oct 24",
+   "time": "10 AM–1 PM",
+   "place": "Arizona Boardwalk",
+   "placeLines": "Arizona Boardwalk\n9500 E. Via de Ventura, AZ",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Experience a magical day of fun, fantasy, and Halloween cheer at the Family Fall Festival!",
+   "description": "Experience a magical day of fun, fantasy, and Halloween cheer at the Family Fall Festival! Enjoy exciting character meet-and-greets with Police Pup, Space Ranger, Jack Skellington, Cinderella, Spider Man, and many more magical guests! There will be whimsical face painting, a toddler soft play zone, trick-or-treating with local vendors (don’t forget your candy bags!), family-friendly music from a live DJ, unique shopping from amazing local vendors, and delicious food from local restaurants.",
+   "url": "https://azparenting.com/event/candies-halloween-character-carnival-2/",
+   "image": "https://azparenting.com/wp-content/uploads/2025/11/candies.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Arizona Boardwalk, 9500 E. Via de Ventura, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T17:00:00Z",
+    "end": "2026-10-24T20:00:00Z",
+    "notes": "Experience a magical day of fun, fantasy, and Halloween cheer at the Family Fall Festival!\n\nhttps://azparenting.com/event/candies-halloween-character-carnival-2/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "41dbc7a57b",
+   "series": "13e46bfffe",
+   "title": "Acacia Library Historic Preservation Celebration",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 660,
+   "endMinute": 720,
+   "dates": "Sat, Oct 24",
+   "time": "11 AM–12 PM",
+   "place": "Acacia Library",
+   "placeLines": "Acacia Library",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "url": "https://www.phoenix.gov/calendar/phoenix-public-library/acacia-library-historic-preservation-celebration.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Acacia Library, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T18:00:00Z",
+    "end": "2026-10-24T19:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/phoenix-public-library/acacia-library-historic-preservation-celebration.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b97941bcbb",
+   "series": "51f5e00818",
+   "title": "Pumpkin Patch Plunge",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 660,
+   "endMinute": 750,
+   "dates": "Sat, Oct 24",
+   "time": "11 AM–12:30 PM",
+   "place": "Superstition Shadows Aquatic Center, Apache Junction",
+   "placeLines": "Superstition Shadows Aquatic Center, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "Come plunge into our floating pumpkin patch at Superstition Shadows Aquatic Center.",
+   "description": "Come plunge into our floating pumpkin patch at Superstition Shadows Aquatic Center. Pick out the perfect pumpkin and carve or paint it onsite. Preregistration is required!\n\nCost to participate is $5 per child which includes your pumpkin. 1 pumpkin per child. Register down below! https://secure.rec1.com/AZ/apache-junction-parks-recreation-az/catalog?filter=c2VhcmNoPTQzMDI1NDM= https://www.apachejunctionaz.gov/calendar.aspx?EID=2615",
+   "url": "https://secure.rec1.com/AZ/apache-junction-parks-recreation-az/catalog?filter=c2VhcmNoPTQzMDI1NDM=",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Superstition Shadows Aquatic Center, Superstition Shadows Aquatic Center - 1091 W. Southern Ave Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T18:00:00Z",
+    "end": "2026-10-24T19:30:00Z",
+    "notes": "Come plunge into our floating pumpkin patch at Superstition Shadows Aquatic Center.\n\nhttps://secure.rec1.com/AZ/apache-junction-parks-recreation-az/catalog?filter=c2VhcmNoPTQzMDI1NDM="
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "054b8a2969",
+   "series": "afb97deaae",
+   "title": "Halloween Festival",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 960,
+   "endMinute": 1200,
+   "dates": "Sat, Oct 24",
+   "time": "4–8 PM",
+   "place": "Superstition Shadows Park, Apache Junction",
+   "placeLines": "Superstition Shadows Park, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Halloween is coming up and the City of Apache Junction Parks and Recreation wants to make your night spook-ta-cular!",
+   "description": "Halloween is coming up and the City of Apache Junction Parks and Recreation wants to make your night spook-ta-cular! We will be hosting our annual Halloween Festival from 4:00-8:00pm on Saturday, October 24th, 2026. The event will take place at Superstition Shadows Park, located at 1091 W Southern Ave. This event is free to the community and is offered as a safe alternative to the traditional neighborhood trick or treating.\n\nThere will be lots of activities throughout the night for the whole family including costume contests, pumpkin carving contest, inflatables, kid's games, Trunk or Treat sponsored by Lost Dutchman Realty, and much more!\n\nLocal non-profit organizations will be on site hosting game and activities for families. This is a great way to let your kids have fun and support our community at the same time! https://www.apachejunctionaz.gov/calendar.aspx?EID=2555",
+   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2555",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Superstition Shadows Park, Superstition Shadows Park - 1091 W. Southern Ave Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T23:00:00Z",
+    "end": "2026-10-25T03:00:00Z",
+    "notes": "Halloween is coming up and the City of Apache Junction Parks and Recreation wants to make your night spook-ta-cular!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2555"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "651b4a9e20",
+   "series": "5b9a707398",
+   "title": "Kids Club – Halloween Parade",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 990,
+   "endMinute": 1110,
+   "dates": "Sat, Oct 24",
+   "time": "4:30–6:30 PM",
+   "place": "Walton Park, Phoenix",
+   "placeLines": "Walton Park, Phoenix\n301 W. Holly St., Phoenix, AZ, 85003",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "More details to come",
+   "url": "https://willophx.com/event/kids-club-halloween-parade/",
+   "sources": [
+    "Willo Historic District"
+   ],
+   "map": "Walton Park, 301 W. Holly St., Phoenix, AZ, 85003",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T23:30:00Z",
+    "end": "2026-10-25T01:30:00Z",
+    "notes": "More details to come\n\nhttps://willophx.com/event/kids-club-halloween-parade/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "73e86398b0",
+   "series": "8601113277",
+   "title": "BooFest",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Sat, Oct 24",
+   "time": "6–9 PM",
+   "place": "Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Phoenix",
+   "placeLines": "Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/boofest.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Phoenix, AZ 85027",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-25T01:00:00Z",
+    "end": "2026-10-25T04:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/boofest.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "1535b69e07",
+   "series": "da5bd52641",
+   "title": "Paradise Valley Community Center: Trunk Or Treat",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 1080,
+   "endMinute": 1230,
+   "dates": "Sat, Oct 24",
+   "time": "6–8:30 PM",
+   "place": "Paradise Valley Community Center: 17402 N 40th St, Phoenix",
+   "placeLines": "Paradise Valley Community Center: 17402 N 40th St, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "url": "https://www.phoenix.gov/calendar/parks-events/paradise-valley-community-center--trunk-or-treat-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Paradise Valley Community Center: 17402 N 40th St, Paradise Valley Community Center: 17402 N 40th St, Phoenix, AZ 85032",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-25T01:00:00Z",
+    "end": "2026-10-25T03:30:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/paradise-valley-community-center--trunk-or-treat-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b69b873744",
+   "series": "ceb76aae43",
+   "title": "Movie in the Park",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 1110,
+   "endMinute": 1439,
+   "dates": "Sat, Oct 24",
+   "time": "6:30–11:59 PM",
+   "place": "Jackie Robinson Ballfield, Litchfield Park",
+   "placeLines": "Jackie Robinson Ballfield, Litchfield Park",
+   "region": "WEST_VALLEY",
+   "category": "OUTDOOR",
+   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2975",
+   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2975",
+   "sources": [
+    "City of Litchfield Park"
+   ],
+   "map": "Jackie Robinson Ballfield, Jackie Robinson Ballfield 14451 W Camelback Rd Litchfield Park AZ 85340",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-25T01:30:00Z",
+    "end": "2026-10-25T06:59:00Z",
+    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2975\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2975"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "3cfada750f",
+   "series": "d0472dd08d",
+   "title": "Inspiration becomes Influence",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 1140,
+   "endMinute": 1260,
+   "dates": "Sat, Oct 24",
+   "time": "7–9 PM",
+   "place": "North Canyon High School, Phoenix",
+   "placeLines": "North Canyon High School, Phoenix\n1700 E Union Hills, Phoenix, 85024",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "cost": "$10.00",
+   "free": false,
+   "summary": "Explore some of the favorite pieces that reflect new inspiration in music.",
+   "description": "Explore some of the favorite pieces that reflect new inspiration in music. Hummel took a note from his mentor, Haydn, in composing the second truly chromatic trumpet concerto, Trumpet Concerto in E major. Brahms celebrated his honorary Doctorate in Music with his Academic Festival Overture, and Britten describes the inner workings of the orchestra in his Young Person’s Guide to the Orchestra. A great concert to kick off the season and recognize World Teachers Day!",
+   "url": "https://azparenting.com/event/inspiration-becomes-influence/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/08/inspiration.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "North Canyon High School, 1700 E Union Hills, Phoenix, 85024",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-25T02:00:00Z",
+    "end": "2026-10-25T04:00:00Z",
+    "notes": "Explore some of the favorite pieces that reflect new inspiration in music.\n\nhttps://azparenting.com/event/inspiration-becomes-influence/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "e4ac300b81",
+   "series": "09eea164b6",
+   "title": "Dia de los Muertos Skulls",
+   "start": "2026-10-25",
+   "end": "2026-11-01",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Oct 25–Nov 1",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "CULTURAL",
+   "kids": true,
+   "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
+   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-25/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-25",
+    "end": "2026-11-02",
+    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-25/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b333f7e46f",
+   "series": "121f5ff5a9",
+   "title": "Pumpkin Whack",
+   "start": "2026-10-26",
+   "end": "2026-10-26",
+   "startMinute": 780,
+   "endMinute": 900,
+   "dates": "Mon, Oct 26",
+   "time": "1–3 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "It’s National Pumpkin Day!",
+   "description": "It’s National Pumpkin Day! Stop by and work on some hand eye coordination by hitting some tees into pumpkins. It’s more satisfying than you would think!",
+   "url": "https://childrensmuseumofphoenix.org/event/pumpkin-whack-2/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-26T20:00:00Z",
+    "end": "2026-10-26T22:00:00Z",
+    "notes": "It’s National Pumpkin Day!\n\nhttps://childrensmuseumofphoenix.org/event/pumpkin-whack-2/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "a1e90ad25c",
+   "series": "c6d2462fae",
+   "title": "Community Fest 2026",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Tue, Oct 27",
+   "time": "5–8 PM",
+   "place": "Cave Creek",
+   "placeLines": "6895 E Cave Creek Rd, Cave Creek, AZ 85331, USA",
+   "region": "NORTH",
+   "category": "COMMUNITY",
+   "summary": "The third annual Community Fest —a lively evening of music, food and philanthropy—will be held Tuesday, October 27, from 5–8 p.m.",
+   "description": "The third annual Community Fest—a lively evening of music, food and philanthropy—will be held Tuesday, October 27, from 5–8 p.m. outdoors at the iconic Harold’s Corral Stage ‘35. This year’s event promises an unforgettable night of entertainment, fellowship and support for local nonprofits.\n\nFor just $25 per ticket, guests will enjoy fiesta-style fare, live music by Mark Edward and the Usual Suspects, bourbon tasting by Carefree Spirits Distillery, tequila tasting by Bajarriba Tequila, plus games, raffles and more. More than half of every ticket sold will directly benefit participating nonprofits.\n\nThis year, an e-bike donated by Grind ‘n Gears Bike Shop in Carefree will also be auctioned off.\n\nCommunity Fest is presented by Darrell Doepke, REALTOR® with Compass Real Estate, along with Tech4Life, Harold’s Corral and The UPS Store in Carefree. Building on the success of previous years, which drew hundreds of attendees, other sponsors have joined the cause, including Karsten’s Ace Hardware, Desert State Roofing, Carefree Spirits Distillery, Desert Car Care, Black Mountain Cooling, Bajarriba Tequila, Black Mountain Guitar, Allstate Insurance, and the towns of Cave Creek and Carefree.\n\n“It just feels right to celebrate these nonprofits at a place like Harold’s, which has always stood for community involvement and generosity,” said Darrell Doepke, founder of Community Fest. “I’m thrilled we get to bring people together here again to support the organizations that make this…",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "6895 E Cave Creek Rd, Cave Creek, AZ 85331, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-28T00:00:00Z",
+    "end": "2026-10-28T03:00:00Z",
+    "notes": "The third annual Community Fest —a lively evening of music, food and philanthropy—will be held Tuesday, October 27, from 5–8 p.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "1c320eff7a",
+   "series": "5dd59d6055",
+   "title": "Spooky Slime",
+   "start": "2026-10-28",
+   "end": "2026-10-31",
+   "dates": "Oct 28–31",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Come put a spooky twist on one of our most loved programs!",
+   "description": "Come put a spooky twist on one of our most loved programs! Stop by and design, mix, and take home your own slime.",
+   "url": "https://childrensmuseumofphoenix.org/event/spooky-slime/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-28",
+    "end": "2026-11-01",
+    "notes": "Come put a spooky twist on one of our most loved programs!\n\nhttps://childrensmuseumofphoenix.org/event/spooky-slime/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "5dbaab90cd",
+   "series": "2f34a24954",
+   "title": "Old MacDonald’s Pumpkin Patch",
+   "start": "2026-10-29",
+   "end": "2026-11-01",
+   "dates": "Oct 29–Nov 1",
+   "place": "The Great Arizona Puppet Theater, Phoenix",
+   "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "$10.00 – $15.00",
+   "free": false,
+   "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
+   "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
+   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-29/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-29",
+    "end": "2026-11-02",
+    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-29/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "fe15620778",
+   "series": "990366c0ce",
+   "title": "Halloween Carnival at Playa Margarita",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "startMinute": 1020,
+   "endMinute": 1140,
+   "dates": "Thu, Oct 29",
+   "time": "5–7 PM",
+   "place": "Playa Margarita Park: 3615 W Roeser Rd, Phoenix",
+   "placeLines": "Playa Margarita Park: 3615 W Roeser Rd, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/halloween-carnival-at-playa-margarita-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Playa Margarita Park: 3615 W Roeser Rd, Playa Margarita Park: 3615 W Roeser Rd, Phoenix, AZ 85041",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-30T00:00:00Z",
+    "end": "2026-10-30T02:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/halloween-carnival-at-playa-margarita-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "67a3857016",
+   "series": "44ee2e7c2d",
+   "title": "Longview Neighborhood Recreation Center: Trunk Or Treat",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "startMinute": 1080,
+   "endMinute": 1200,
+   "dates": "Thu, Oct 29",
+   "time": "6–8 PM",
+   "place": "Longview Neighborhood Recreation Center: 4040 N 14th St, Phoenix",
+   "placeLines": "Longview Neighborhood Recreation Center: 4040 N 14th St, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "url": "https://www.phoenix.gov/calendar/parks-events/longview-neighborhood-recreation-center--trunk-or-treat.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Longview Neighborhood Recreation Center: 4040 N 14th St, Longview Neighborhood Recreation Center: 4040 N 14th St, Phoenix, AZ 85014",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-30T01:00:00Z",
+    "end": "2026-10-30T03:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/longview-neighborhood-recreation-center--trunk-or-treat.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "f845b860b5",
+   "series": "2e2af05f83",
+   "title": "Gilbert Concert in the Park",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "startMinute": 1110,
+   "endMinute": 1230,
+   "dates": "Thu, Oct 29",
+   "time": "6:30–8:30 PM",
+   "place": "Heritage Park, Gilbert",
+   "placeLines": "Heritage Park, Gilbert\n45 W Page Ave, Gilbert, AZ, 85296",
+   "region": "EAST_VALLEY",
+   "category": "OUTDOOR",
+   "cost": "Free",
+   "free": true,
+   "summary": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…",
+   "description": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during our FREE Concerts in the Park. Our concert series showcases some of the Valley’s best bands performing a variety of music genres. Enjoy some tasty takeout from one of the many Gilbert…",
+   "url": "https://www.discovergilbert.com/events/gilbert-concert-in-the-park/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/08/638566502992500000.jpeg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert",
+    "Arizona Parenting"
+   ],
+   "map": "Heritage Park, 45 W Page Ave, Gilbert, AZ, 85296",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-30T01:30:00Z",
+    "end": "2026-10-30T03:30:00Z",
+    "notes": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…\n\nhttps://www.discovergilbert.com/events/gilbert-concert-in-the-park/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "46e0504ea5",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Oct 30",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-30T16:00:00Z",
+    "end": "2026-10-30T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "6b8313f990",
+   "series": "f565843bad",
+   "title": "Itty Bitty Pumpkin Hunt Halloween Event",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "startMinute": 570,
+   "endMinute": 660,
+   "dates": "Fri, Oct 30",
+   "time": "9:30–11 AM",
+   "place": "Pecos Community Center - 17010 S 48th St, Phoenix",
+   "placeLines": "Pecos Community Center - 17010 S 48th St, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-pumpkin-hunt-halloween-event.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Pecos Community Center - 17010 S 48th St, Pecos Community Center - 17010 S 48th St, Phoenix, AZ 85048",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-30T16:30:00Z",
+    "end": "2026-10-30T18:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-pumpkin-hunt-halloween-event.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "d56009feec",
+   "series": "66c2d43a55",
+   "title": "Music in the Garden: Concert Series",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Oct 30",
+   "time": "6–9 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "OUTDOOR",
+   "summary": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.",
+   "url": "https://dbg.org/events/music-in-the-garden-concert-series/2026-10-30/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/mig-trailside-tunes.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-31T01:00:00Z",
+    "end": "2026-10-31T04:00:00Z",
+    "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-10-30/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b3bbd5b47c",
+   "series": "e8216fd741",
+   "title": "Itty Bitty Boo Bash",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "startMinute": 600,
+   "endMinute": 720,
+   "dates": "Sat, Oct 31",
+   "time": "10 AM–12 PM",
+   "place": "South Mountain Community Center - 212 E. Alta Vista Rd, Phoenix",
+   "placeLines": "South Mountain Community Center - 212 E. Alta Vista Rd, Phoenix",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-boo-bash-.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "South Mountain Community Center - 212 E. Alta Vista Rd, South Mountain Community Center - 212 E. Alta Vista Rd, Phoenix, Arizona 85042",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-31T17:00:00Z",
+    "end": "2026-10-31T19:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-boo-bash-.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b3db9de565",
+   "series": "92bf9349ef",
+   "title": "Agritopia Farm Night",
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Wed, Nov 4",
+   "time": "5–8 PM",
+   "place": "West side of Barnone at Agritopia",
+   "placeLines": "West side of Barnone at Agritopia",
+   "region": "EAST_VALLEY",
+   "category": "FARMERS",
+   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
+   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
+   "url": "https://www.discovergilbert.com/events/farm-night/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "West side of Barnone at Agritopia, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-05T00:00:00Z",
+    "end": "2026-11-05T03:00:00Z",
+    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b7e632a464",
+   "series": "d2d6d03431",
+   "title": "Día de Muertos Festival",
+   "start": "2026-11-06",
+   "end": "2026-11-09",
+   "startMinute": 420,
+   "endMinute": 1320,
+   "dates": "Nov 6–9",
+   "time": "7 AM–10 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "CULTURAL",
+   "summary": "For four days, The Garden transforms into a vibrant celebration of memory and connection.",
+   "description": "For four days, The Garden transforms into a vibrant celebration of memory and connection. Return to a world of bright marigolds, radiant altars and festive trails, where art and tradition come together under the desert sky.",
+   "url": "https://dbg.org/events/dia-de-muertos-festival/",
+   "image": "https://dbg.org/wp-content/uploads/2026/07/dia-3-768x482.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-06",
+    "end": "2026-11-10",
+    "notes": "Hours: 7 AM–10 PM\n\nFor four days, The Garden transforms into a vibrant celebration of memory and connection.\n\nhttps://dbg.org/events/dia-de-muertos-festival/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "52bdda4b66",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Nov 6",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-06T16:00:00Z",
+    "end": "2026-11-06T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "fa7eaeb788",
+   "series": "66c2d43a55",
+   "title": "Music in the Garden: Concert Series",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Nov 6",
+   "time": "6–9 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "OUTDOOR",
+   "summary": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.",
+   "url": "https://dbg.org/events/music-in-the-garden-concert-series/2026-11-06/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/mig-trailside-tunes.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T01:00:00Z",
+    "end": "2026-11-07T04:00:00Z",
+    "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-06/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "99b6513a40",
+   "series": "ef953948b4",
+   "title": "Litchfield Park Festival of Arts",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "startMinute": 540,
+   "endMinute": 1020,
+   "dates": "Nov 7–8",
+   "time": "9 AM–5 PM",
+   "place": "Litchfield Square Park, Litchfield Park",
+   "placeLines": "Litchfield Square Park, Litchfield Park",
+   "region": "WEST_VALLEY",
+   "category": "COMMUNITY",
+   "summary": "Spend a pleasant fall weekend in Litchfield Park enjoying fine art, live music, delicious food, and our Beer and Wine Garden!",
+   "description": "Spend a pleasant fall weekend in Litchfield Park enjoying fine art, live music, delicious food, and our Beer and Wine Garden! https://www.litchfieldpark.gov/calendar.aspx?EID=2955",
+   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2955",
+   "sources": [
+    "City of Litchfield Park"
+   ],
+   "map": "Litchfield Square Park, Litchfield Square Park 279 N La Loma Ave. Litchfield Park AZ 85340",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-07",
+    "end": "2026-11-09",
+    "notes": "Hours: 9 AM–5 PM\n\nSpend a pleasant fall weekend in Litchfield Park enjoying fine art, live music, delicious food, and our Beer and Wine Garden!\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2955"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "21cf6a65aa",
+   "series": "5e0c725576",
+   "title": "Certified Local Fall Festival",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sat, Nov 7",
+   "time": "10 AM–4 PM",
+   "place": "Margaret T. Hance Park, Phoenix",
+   "placeLines": "Margaret T. Hance Park, Phoenix\n67 W Culver St, Phoenix, 85003",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join as thousands of Arizonans gather once again to explore more than 250 Certified Local businesses, enjoy incredible food and drinks, connect with local…",
+   "description": "Join as thousands of Arizonans gather once again to explore more than 250 Certified Local businesses, enjoy incredible food and drinks, connect with local businesses from across the state and kick off the holiday shopping season with gifts that have an Arizona story.",
+   "url": "https://azparenting.com/event/certified-local-fall-festival/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/09/localfallfestival.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Margaret T. Hance Park, 67 W Culver St, Phoenix, 85003",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T17:00:00Z",
+    "end": "2026-11-07T23:00:00Z",
+    "notes": "Join as thousands of Arizonans gather once again to explore more than 250 Certified Local businesses, enjoy incredible food and drinks, connect with local…\n\nhttps://azparenting.com/event/certified-local-fall-festival/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "4deaffed3a",
+   "series": "d775f55436",
+   "title": "Willo Art Walk",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sat, Nov 7",
+   "time": "10 AM–4 PM",
+   "place": "Willo Neighborhood, Phoenix",
+   "placeLines": "Willo Neighborhood, Phoenix\n301 W. Holly Street, Phoenix, AZ, 85003",
+   "region": "PHOENIX",
+   "category": "ARTS",
+   "summary": "Please visit the Willo Art Walk website for more details.",
+   "description": "Please visit the Willo Art Walk website for more details.\n\nWillo Art Walk\n\nArt Walk map below.\n\nWAW Map 2026",
+   "url": "https://willophx.com/event/willo-art-walk/",
+   "sources": [
+    "Willo Historic District"
+   ],
+   "map": "Willo Neighborhood, 301 W. Holly Street, Phoenix, AZ, 85003",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T17:00:00Z",
+    "end": "2026-11-07T23:00:00Z",
+    "notes": "Please visit the Willo Art Walk website for more details.\n\nhttps://willophx.com/event/willo-art-walk/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "61c3c83adb",
+   "series": "8f3ba80772",
+   "title": "Bubble Fest",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 660,
+   "endMinute": 840,
+   "dates": "Sat, Nov 7",
+   "time": "11 AM–2 PM",
+   "place": "Arizona Boardwalk",
+   "placeLines": "Arizona Boardwalk\n9500 E. Via de Ventura, AZ",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme.",
+   "description": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme. Millions of bubbles will fill the air while guests enjoy live bubble entertainment and a variety of hands-on stations, ride a bubble bike, create a take-home project, play in a HUGE Foam Zone, and more.",
+   "url": "https://azparenting.com/event/bubble-fest-4/2026-11-07/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/10/bubblefest.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Arizona Boardwalk, 9500 E. Via de Ventura, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T18:00:00Z",
+    "end": "2026-11-07T21:00:00Z",
+    "notes": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme.\n\nhttps://azparenting.com/event/bubble-fest-4/2026-11-07/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "486256b57d",
+   "series": "a02f641f85",
+   "title": "Annual Veterans Day Celebration",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "startMinute": 900,
+   "endMinute": 1020,
+   "dates": "Wed, Nov 11",
+   "time": "3–5 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "COMMUNITY",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-11T22:00:00Z",
+    "end": "2026-11-12T00:00:00Z",
+    "notes": "https://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "e4f3eeb4ca",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Nov 13",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-13T16:00:00Z",
+    "end": "2026-11-13T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "de9c0b40b8",
+   "series": "bdfa6e03f2",
+   "title": "Chiles & Chocolate Festival",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "startMinute": 660,
+   "endMinute": 1020,
+   "dates": "Nov 13–15",
+   "time": "11 AM–5 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "FOOD",
+   "summary": "From sweet indulgences to fiery favorites, Chiles & Chocolate Festival is a celebration of flavor, discovery and the deliciously unexpected.",
+   "description": "From sweet indulgences to fiery favorites, Chiles & Chocolate Festival is a celebration of flavor, discovery and the deliciously unexpected. Bring your appetite and experience this one-of-a-kind weekend.",
+   "url": "https://dbg.org/events/chiles-chocolate-festival/2026-11-13/",
+   "image": "https://dbg.org/wp-content/uploads/2026/07/chiles-gallery-3.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-13",
+    "end": "2026-11-16",
+    "notes": "Hours: 11 AM–5 PM\n\nFrom sweet indulgences to fiery favorites, Chiles & Chocolate Festival is a celebration of flavor, discovery and the deliciously unexpected.\n\nhttps://dbg.org/events/chiles-chocolate-festival/2026-11-13/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "5a5495203b",
+   "series": "66c2d43a55",
+   "title": "Music in the Garden: Concert Series",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Nov 13",
+   "time": "6–9 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "OUTDOOR",
+   "summary": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.",
+   "url": "https://dbg.org/events/music-in-the-garden-concert-series/2026-11-13/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/mig-trailside-tunes.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T01:00:00Z",
+    "end": "2026-11-14T04:00:00Z",
+    "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-13/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "794a009396",
+   "series": "97d3105672",
+   "title": "Nature Fest PHX 2026",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Sat, Nov 14",
+   "time": "9 AM–1 PM",
+   "place": "Rio Salado Habitat Restoration Area, - Phoenix",
+   "placeLines": "Rio Salado Habitat Restoration Area, - Phoenix",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "url": "https://www.phoenix.gov/calendar/environmental-programs-events/nature-fest-phx-2026.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Rio Salado Habitat Restoration Area, Rio Salado Habitat Restoration Area, Northeast 7th Avenue Trailhead 2801 S. 7th Avenue - Phoenix, AZ, 85003",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T16:00:00Z",
+    "end": "2026-11-14T20:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/environmental-programs-events/nature-fest-phx-2026.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "4a3d44273f",
+   "series": "ceb76aae43",
+   "title": "Movie in the Park",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 1110,
+   "endMinute": 1439,
+   "dates": "Sat, Nov 14",
+   "time": "6:30–11:59 PM",
+   "place": "Jackie Robinson Ballfield, Litchfield Park",
+   "placeLines": "Jackie Robinson Ballfield, Litchfield Park",
+   "region": "WEST_VALLEY",
+   "category": "OUTDOOR",
+   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2976",
+   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2976",
+   "sources": [
+    "City of Litchfield Park"
+   ],
+   "map": "Jackie Robinson Ballfield, Jackie Robinson Ballfield 14451 W Camelback Rd Litchfield Park AZ 85340",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-15T01:30:00Z",
+    "end": "2026-11-15T06:59:00Z",
+    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2976\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2976"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b7b9a352e5",
+   "series": "456203bc94",
+   "title": "Movie in the Park - Back to the Future",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 1140,
+   "endMinute": 1260,
+   "dates": "Sat, Nov 14",
+   "time": "7–9 PM",
+   "place": "Flatiron Community Park, Apache Junction",
+   "placeLines": "Flatiron Community Park, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "OUTDOOR",
+   "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future!",
+   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future! The featured film will start at 7:00pm, and is brought to you by SRP! City of Apache Junction Parks will host this event at Flatiron Community Park at 100 N. Apache Trail Apache Junction, AZ 85119.\n\nIn the event of bad weather prior to movie time, this program could possibly be moved to the Multi-Generational Center. For more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-983-2181 or visit our website at www.apachejunctionaz.gov/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2553",
+   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2553",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Flatiron Community Park, Flatiron Community Park - 100 N Apache Trail Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-15T02:00:00Z",
+    "end": "2026-11-15T04:00:00Z",
+    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2553"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b9c790c5d1",
+   "series": "92bf9349ef",
+   "title": "Agritopia Farm Night",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Wed, Nov 18",
+   "time": "5–8 PM",
+   "place": "West side of Barnone at Agritopia",
+   "placeLines": "West side of Barnone at Agritopia",
+   "region": "EAST_VALLEY",
+   "category": "FARMERS",
+   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
+   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
+   "url": "https://www.discovergilbert.com/events/farm-night/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "West side of Barnone at Agritopia, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-19T00:00:00Z",
+    "end": "2026-11-19T03:00:00Z",
+    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "c4e4302214",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Nov 20",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-20T16:00:00Z",
+    "end": "2026-11-20T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "c0c81ee7ba",
+   "series": "66c2d43a55",
+   "title": "Music in the Garden: Concert Series",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Fri, Nov 20",
+   "time": "6–9 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "OUTDOOR",
+   "summary": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.",
+   "url": "https://dbg.org/events/music-in-the-garden-concert-series/2026-11-20/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/mig-trailside-tunes.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T01:00:00Z",
+    "end": "2026-11-21T04:00:00Z",
+    "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-20/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "edb3773b96",
+   "series": "4eef5b8844",
+   "title": "Touch-A-Truck",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 540,
+   "endMinute": 720,
+   "dates": "Sat, Nov 21",
+   "time": "9 AM–12 PM",
+   "place": "Litchfield Elementary School (parking lot on south, Litchfield Park",
+   "placeLines": "Litchfield Elementary School (parking lot on south, Litchfield Park",
+   "region": "WEST_VALLEY",
+   "category": "COMMUNITY",
+   "kids": true,
+   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2956",
+   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2956",
+   "sources": [
+    "City of Litchfield Park"
+   ],
+   "map": "Litchfield Elementary School (parking lot on south, Litchfield Elementary School (parking lot on south 255 W Wigwam Blvd Litchfield Park AZ 85340",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T16:00:00Z",
+    "end": "2026-11-21T19:00:00Z",
+    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2956\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2956"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "8bfb30e02c",
+   "series": "579dae44de",
+   "title": "8th Annual Portal Fest",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 600,
+   "endMinute": 840,
+   "dates": "Sat, Nov 21",
+   "time": "10 AM–2 PM",
+   "place": "Phoenix",
+   "placeLines": "4619 E Washington St. Phoenix, AZ 85034",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "url": "https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-portal-fest.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "4619 E Washington St. Phoenix, AZ 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T17:00:00Z",
+    "end": "2026-11-21T21:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-portal-fest.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "21ee67f5d7",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Nov 27",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-27T16:00:00Z",
+    "end": "2026-11-27T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "102d32fe32",
+   "series": "0fe9fbd7f6",
+   "title": "Kiwanis Christmas for the Kids",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sat, Nov 28",
+   "time": "10 AM–4 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "kids": true,
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-28T17:00:00Z",
+    "end": "2026-11-28T23:00:00Z",
+    "notes": "https://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "79dc03a78c",
+   "series": "05b2493e31",
+   "title": "Carefree Lights Up! - Annual Tree Lighting & Christmas Concert",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 1020,
+   "endMinute": 1140,
+   "dates": "Sat, Nov 28",
+   "time": "5–7 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T00:00:00Z",
+    "end": "2026-11-29T02:00:00Z",
+    "notes": "https://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "c8c5dcb480",
+   "series": "92bf9349ef",
+   "title": "Agritopia Farm Night",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Wed, Dec 2",
+   "time": "5–8 PM",
+   "place": "West side of Barnone at Agritopia",
+   "placeLines": "West side of Barnone at Agritopia",
+   "region": "EAST_VALLEY",
+   "category": "FARMERS",
+   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
+   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
+   "url": "https://www.discovergilbert.com/events/farm-night/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "West side of Barnone at Agritopia, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-03T00:00:00Z",
+    "end": "2026-12-03T03:00:00Z",
+    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b5367f5f9c",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Dec 4",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-04T16:00:00Z",
+    "end": "2026-12-04T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "bddbd62841",
+   "series": "fc66ee3b10",
+   "title": "Celebrate Sedona! December 4, 2026 / 4-6pm",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 960,
+   "endMinute": 1080,
+   "dates": "Fri, Dec 4",
+   "time": "4–6 PM",
+   "place": "Sedona Arts Center",
+   "placeLines": "Sedona Arts Center\n15 Art Barn Rd, Sedona, AZ, 86336",
+   "region": "FARTHER",
+   "category": "COMMUNITY",
+   "summary": "December 4 th , 2026 4PM – 6PM! Live Music: TBD SAC Ceramics Department:  Demos and Ceramics Sale Exhibition Opening:  Holiday Market Celebrate Sedona engages…",
+   "description": "December 4th, 2026 4PM – 6PM!\n\n• Live Music: TBD\n• SAC Ceramics Department: Demos and Ceramics Sale\n• Exhibition Opening: Holiday Market\n\nCelebrate Sedona engages the local community while celebrating and featuring local and regional arts, food and drink! Held in the upper parking lot of Sedona Arts Center, Celebrate Sedona is a monthly celebration of the beauty and diversity of our community’s music, food, drink, and artistry..\n\nHoliday Market\n\nDecember 4th – December 6th, 2026\n\nThis festive exhibit brings together up to 40 talented artists from across the region, each offering a unique selection of work specially curated for the holiday season. Showcasing a wide variety of mediums—including painting, ceramics, jewelry, fiber art, book arts, photography, glass, woodwork, and mixed media—this annual event is a celebration of creativity, craftsmanship, and community spirit. Whether you’re looking for a one-of-a-kind gift or a special piece to add to your own collection, the exhibit offers something for everyone, with works that range from elegant and refined to playful and whimsical. Visitors can enjoy browsing an inspiring array of locally made art while supporting regional artists and makers during this meaningful time of year. Perfect for holiday shopping or simply soaking in the season’s creative energy, the exhibit is a joyful expression of artistic talent and the beauty of giving.",
+   "url": "https://sedonaartscenter.org/event/celebrate-sedona-december-4-2026-4-6pm/",
+   "image": "https://sedonaartscenter.org/wp-content/uploads/2026/06/celebratesedona26-768x538.jpg",
+   "imageCredit": "Sedona Arts Center",
+   "sources": [
+    "Sedona Arts Center"
+   ],
+   "map": "Sedona Arts Center, 15 Art Barn Rd, Sedona, AZ, 86336",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-04T23:00:00Z",
+    "end": "2026-12-05T01:00:00Z",
+    "notes": "December 4 th , 2026 4PM – 6PM! Live Music: TBD SAC Ceramics Department:  Demos and Ceramics Sale Exhibition Opening:  Holiday Market Celebrate Sedona engages…\n\nhttps://sedonaartscenter.org/event/celebrate-sedona-december-4-2026-4-6pm/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "03c228a467",
+   "series": "6376df2a87",
+   "title": "Holiday Artist Market 2026",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "startMinute": 960,
+   "endMinute": 900,
+   "dates": "Dec 4–6",
+   "time": "4–3 PM",
+   "place": "Sedona Arts Center",
+   "placeLines": "Sedona Arts Center\n15 Art Barn Rd, Sedona, AZ, 86336",
+   "region": "FARTHER",
+   "category": "NIGHT_MARKET",
+   "summary": "SAC Holiday Artist Market December 4 th – 6 th , 2026 Celebrate the season at Sedona Arts Center’s Holiday Artist Market!",
+   "description": "SAC Holiday Artist Market\n\nDecember 4th – 6th, 2026\n\nCelebrate the season at Sedona Arts Center’s Holiday Artist Market! This annual event features approximately 25 artists and makers from Sedona and around Arizona, offering unique, handmade gifts and fine art just in time for the holidays. From ceramics and jewelry to paintings, textiles, and more, the market showcases a curated collection of beautiful and functional creations perfect for gift giving.\n\nFeatured Artists: TBA\n\nOpening Reception:\nFriday, December 4, 2026 from 4–6pm\n\nMarket Hours:\nSaturday, December 5, 2026 | 10am – 4pm\nSunday, December 6, 2026 | 11am – 3pm",
+   "url": "https://sedonaartscenter.org/event/holiday-artist-market-2026/",
+   "image": "https://sedonaartscenter.org/wp-content/uploads/2026/07/HolidayArtistMarket20x40-768x384.jpg",
+   "imageCredit": "Sedona Arts Center",
+   "sources": [
+    "Sedona Arts Center"
+   ],
+   "map": "Sedona Arts Center, 15 Art Barn Rd, Sedona, AZ, 86336",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-04",
+    "end": "2026-12-07",
+    "notes": "Hours: 4–3 PM\n\nSAC Holiday Artist Market December 4 th – 6 th , 2026 Celebrate the season at Sedona Arts Center’s Holiday Artist Market!\n\nhttps://sedonaartscenter.org/event/holiday-artist-market-2026/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "ce6260e930",
+   "series": "83abcf1f76",
+   "title": "Open for FREE First Friday Night",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 1020,
+   "endMinute": 1260,
+   "dates": "Fri, Dec 4",
+   "time": "5–9 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month.",
+   "description": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month. Space is very limited, and guests will be admitted on a first-come, first-served basis. Museum admission is not guaranteed due to extremely limited capacity.\n\nFirst Free Friday Nights at the Children’s Museum of Phoenix would not be possible without the generous support of:",
+   "url": "https://childrensmuseumofphoenix.org/event/open-for-free-first-friday-night/2026-12-04/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T00:00:00Z",
+    "end": "2026-12-05T04:00:00Z",
+    "notes": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month.\n\nhttps://childrensmuseumofphoenix.org/event/open-for-free-first-friday-night/2026-12-04/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "b6981ecd03",
+   "series": "157f0141de",
+   "title": "Tree Lighting Ceremony",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Fri, Dec 4",
+   "time": "5–8 PM",
+   "place": "Litchfield Square Park, Litchfield Park",
+   "placeLines": "Litchfield Square Park, Litchfield Park",
+   "region": "WEST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2957",
+   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2957",
+   "sources": [
+    "City of Litchfield Park"
+   ],
+   "map": "Litchfield Square Park, Litchfield Square Park 279 N La Loma Ave. Litchfield Park AZ 85340",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T00:00:00Z",
+    "end": "2026-12-05T03:00:00Z",
+    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2957\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2957"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "06032bfbfd",
+   "series": "ed1acb7c0b",
+   "title": "Chanukah in Carefree",
+   "start": "2026-12-04",
+   "end": "2026-12-11",
+   "startMinute": 1050,
+   "dates": "Dec 4–11",
+   "time": "5:30 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-04",
+    "end": "2026-12-12",
+    "notes": "Hours: 5:30 PM\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "a8678ff71b",
+   "series": "81c16d337a",
+   "title": "Holiday Event",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "dates": "Sat, Dec 5",
+   "place": "Apache Junction",
+   "placeLines": "Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586",
+   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Apache Junction",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-06",
+    "notes": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2586"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "42a2ee0a33",
+   "series": "435b8aa06f",
+   "title": "Holiday Event & Light Parade",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 900,
+   "endMinute": 1200,
+   "dates": "Sat, Dec 5",
+   "time": "3–8 PM",
+   "place": "Flatiron Community Park, Apache Junction",
+   "placeLines": "Flatiron Community Park, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026!",
+   "description": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026! The event will take place at Flatiron Community Park. There will be lots of activities throughout the day for the whole family. Join us for this one of a kind FREE event for the whole family! We have something for everyone: Santa, Candy Cane Lane, inflatables and more!\n\nThe 28th Annual Holiday Light Parade: Individuals, businesses, non-profit agencies and groups are welcome to enter their floats. Pre-registration is required and the registration deadline is November 27th. The parade starts at 7pm and the route will be on Apache Trail between Phelps Dr. and Thunderbird Drive.\n\nLocal Apache Junction businesses and agencies are encouraged to come out and showcase your excellent products and services. This is only open to City of Apache Junction businesses and Non-Profits. Pre-registration is required and the registration deadline is December 3rd. https://www.apachejunctionaz.gov/calendar.aspx?EID=2556",
+   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2556",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Flatiron Community Park, Flatiron Community Park - 100 N. Apache Trail Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T22:00:00Z",
+    "end": "2026-12-06T03:00:00Z",
+    "notes": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2556"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "332e9d27bb",
+   "series": "06b1ea4340",
+   "title": "39th Annual APS Electric Light Parade",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 1020,
+   "endMinute": 1380,
+   "dates": "Sat, Dec 5",
+   "time": "5–11 PM",
+   "place": "Parade starts at Central Ave. and Montebello Ave.",
+   "placeLines": "Parade starts at Central Ave. and Montebello Ave.",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "For more than three decades, the APS Electric Light Parade has been an event where families, neighborhood groups and businesses come together",
+   "url": "https://www.phoenix.gov/calendar/parks-events/39th-annual-aps-electric-light-parade.html",
+   "image": "https://www.phoenix.gov/content/dam/phoenix/parkssite/mediaassets/elp/470205243_1029579372531199_2201565510581519471_n.jpg",
+   "imageCredit": "City of Phoenix",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Parade starts at Central Ave. and Montebello Ave., AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T00:00:00Z",
+    "end": "2026-12-06T06:00:00Z",
+    "notes": "For more than three decades, the APS Electric Light Parade has been an event where families, neighborhood groups and businesses come together\n\nhttps://www.phoenix.gov/calendar/parks-events/39th-annual-aps-electric-light-parade.html"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "f219da6a52",
+   "series": "8f3ba80772",
+   "title": "Bubble Fest",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 720,
+   "endMinute": 900,
+   "dates": "Sun, Dec 6",
+   "time": "12–3 PM",
+   "place": "Arizona Boardwalk",
+   "placeLines": "Arizona Boardwalk\n9500 E. Via de Ventura, AZ",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme.",
+   "description": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme. Millions of bubbles will fill the air while guests enjoy live bubble entertainment and a variety of hands-on stations, ride a bubble bike, create a take-home project, play in a HUGE Foam Zone, and more.",
+   "url": "https://azparenting.com/event/bubble-fest-4/2026-12-06/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/10/bubblefest.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Arizona Boardwalk, 9500 E. Via de Ventura, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T19:00:00Z",
+    "end": "2026-12-06T22:00:00Z",
+    "notes": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme.\n\nhttps://azparenting.com/event/bubble-fest-4/2026-12-06/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "f1e843cd7a",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Dec 11",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-11T16:00:00Z",
+    "end": "2026-12-11T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "ba4211db32",
+   "series": "6becdd08a1",
+   "title": "Christmas in the Park",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 540,
+   "endMinute": 900,
+   "dates": "Sat, Dec 12",
+   "time": "9 AM–3 PM",
+   "place": "Litchfield Square Park, Litchfield Park",
+   "placeLines": "Litchfield Square Park, Litchfield Park",
+   "region": "WEST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958",
+   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958",
+   "sources": [
+    "City of Litchfield Park"
+   ],
+   "map": "Litchfield Square Park, Litchfield Square Park 279 N La Loma Ave. Litchfield Park AZ 85340",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T16:00:00Z",
+    "end": "2026-12-12T22:00:00Z",
+    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2958"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "2707b84d5f",
+   "series": "67e38e7300",
+   "title": "Movie in the Park - The Santa Clause 2",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 1140,
+   "endMinute": 1260,
+   "dates": "Sat, Dec 12",
+   "time": "7–9 PM",
+   "place": "Flatiron Community Park, Apache Junction",
+   "placeLines": "Flatiron Community Park, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2!",
+   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2! The featured film will start at 7:00pm, and is brought to you by SRP! City of Apache Junction Parks will host this event at Flatiron Community Park at 100 N. Apache Trail Apache Junction, AZ 85119.\n\nIn the event of bad weather prior to movie time, this program could possibly be moved to the Multi-Generational Center. For more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-983-2181 or visit our website at www.apachejunctionaz.gov/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2554",
+   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2554",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Flatiron Community Park, Flatiron Community Park - 100 N Apache Trail Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-13T02:00:00Z",
+    "end": "2026-12-13T04:00:00Z",
+    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2554"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "bb55259232",
+   "series": "92bf9349ef",
+   "title": "Agritopia Farm Night",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Wed, Dec 16",
+   "time": "5–8 PM",
+   "place": "West side of Barnone at Agritopia",
+   "placeLines": "West side of Barnone at Agritopia",
+   "region": "EAST_VALLEY",
+   "category": "FARMERS",
+   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
+   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
+   "url": "https://www.discovergilbert.com/events/farm-night/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "West side of Barnone at Agritopia, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-17T00:00:00Z",
+    "end": "2026-12-17T03:00:00Z",
+    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "357b0ce552",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Dec 18",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-18T16:00:00Z",
+    "end": "2026-12-18T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "de56269497",
+   "series": "e58c349228",
+   "title": "Holiday Pies and Cookies",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "startMinute": 1439,
+   "dates": "Fri, Dec 18",
+   "time": "11:59 PM",
+   "place": "Musical Instrument Museum, Phoenix",
+   "placeLines": "Musical Instrument Museum, Phoenix\n4725 E. Mayo Blvd., Phoenix, AZ, 85050",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://mim.org/events/holiday-pies-and-cookies/",
+   "image": "https://mim.org/wp-content/uploads/2026/09/events_christmas-pies-and-cookies_1600x1200-768x576.jpg",
+   "imageCredit": "Musical Instrument Museum",
+   "sources": [
+    "Musical Instrument Museum"
+   ],
+   "map": "Musical Instrument Museum, 4725 E. Mayo Blvd., Phoenix, AZ, 85050",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T06:59:00Z",
+    "end": "2026-12-19T07:59:00Z",
+    "notes": "https://mim.org/events/holiday-pies-and-cookies/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "e7c3664e55",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2026-12-25",
+   "end": "2026-12-25",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Dec 25",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-25T16:00:00Z",
+    "end": "2026-12-25T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "174c3a494a",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Jan 1",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-01T16:00:00Z",
+    "end": "2027-01-01T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "0d1d13e479",
+   "series": "2f35094f64",
+   "title": "Concert in the Park - Exit 40",
+   "start": "2027-01-02",
+   "end": "2027-01-02",
+   "startMinute": 1050,
+   "endMinute": 1140,
+   "dates": "Sat, Jan 2",
+   "time": "5:30–7 PM",
+   "place": "Flatiron Community Park, Apache Junction",
+   "placeLines": "Flatiron Community Park, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "OUTDOOR",
+   "cost": "Free",
+   "free": true,
+   "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!",
+   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band! The Spring Series of Concerts in The Park is providing you with live entertainment. Exit 40 will be taking the stage at 5:30pm and playing until 7:00pm! Concerts in The Park are free to attend and will be held at Flatiron Park located at 100 N Apache Trail, Apache Junction, AZ 85119, unless noted otherwise.\n\nFor more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-474-5240 or visit our website at www.apachejunctionaz/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2594",
+   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2594",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Flatiron Community Park, Flatiron Community Park - 100 N Apache Trail Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-03T00:30:00Z",
+    "end": "2027-01-03T02:00:00Z",
+    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2594"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "9f07d37a4d",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2027-01-08",
+   "end": "2027-01-08",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Jan 8",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-08T16:00:00Z",
+    "end": "2027-01-08T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "07eb8f9228",
+   "series": "a27c9f0ecb",
+   "title": "Arizona Matsuri",
+   "start": "2027-02-27",
+   "end": "2027-02-28",
+   "dates": "Feb 27–28",
+   "category": "CULTURAL",
+   "watch": true,
+   "url": "https://azmatsuri.org/",
+   "sources": [
+    "azmatsuri.org"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-27",
+    "end": "2027-03-01",
+    "notes": "https://azmatsuri.org/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z"
+  }
+ ]
+}

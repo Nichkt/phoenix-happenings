@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1535b69e07-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261025T010000Z
+DTEND:20261025T033000Z
+SUMMARY:Paradise Valley Community Center: Trunk Or Treat
+LOCATION:Paradise Valley Community Center: 17402 N 40th St\, Paradise Valle
+ y Community Center: 17402 N 40th St\, Phoenix\, AZ 85032
+DESCRIPTION:https://www.phoenix.gov/calendar/parks-events/paradise-valley-c
+ ommunity-center--trunk-or-treat-.html
+URL:https://www.phoenix.gov/calendar/parks-events/paradise-valley-community
+ -center--trunk-or-treat-.html
+END:VEVENT
+END:VCALENDAR

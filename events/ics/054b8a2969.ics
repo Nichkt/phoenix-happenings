@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:054b8a2969-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261024T230000Z
+DTEND:20261025T030000Z
+SUMMARY:Halloween Festival
+LOCATION:Superstition Shadows Park\, Superstition Shadows Park - 1091 W. So
+ uthern Ave Apache Junction AZ 85119
+DESCRIPTION:Halloween is coming up and the City of Apache Junction Parks an
+ d Recreation wants to make your night spook-ta-cular!\n\nhttps://www.apach
+ ejunctionaz.gov/calendar.aspx?EID=2555
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2555
+END:VEVENT
+END:VCALENDAR

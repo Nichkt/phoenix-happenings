@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:332e9d27bb-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T060000Z
+SUMMARY:39th Annual APS Electric Light Parade
+LOCATION:Parade starts at Central Ave. and Montebello Ave.\, AZ
+DESCRIPTION:For more than three decades\, the APS Electric Light Parade has
+  been an event where families\, neighborhood groups and businesses come to
+ gether\n\nhttps://www.phoenix.gov/calendar/parks-events/39th-annual-aps-el
+ ectric-light-parade.html
+URL:https://www.phoenix.gov/calendar/parks-events/39th-annual-aps-electric-
+ light-parade.html
+END:VEVENT
+END:VCALENDAR

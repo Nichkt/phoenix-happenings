@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8bfb30e02c-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261121T170000Z
+DTEND:20261121T210000Z
+SUMMARY:8th Annual Portal Fest
+LOCATION:4619 E Washington St. Phoenix\, AZ 85034
+DESCRIPTION:https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-
+ portal-fest.html
+URL:https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-portal-f
+ est.html
+END:VEVENT
+END:VCALENDAR

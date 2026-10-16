@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6b8313f990-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261030T163000Z
+DTEND:20261030T180000Z
+SUMMARY:Itty Bitty Pumpkin Hunt Halloween Event
+LOCATION:Pecos Community Center - 17010 S 48th St\, Pecos Community Center 
+ - 17010 S 48th St\, Phoenix\, AZ 85048
+DESCRIPTION:https://www.phoenix.gov/calendar/parks-events/itty-bitty-pumpki
+ n-hunt-halloween-event.html
+URL:https://www.phoenix.gov/calendar/parks-events/itty-bitty-pumpkin-hunt-h
+ alloween-event.html
+END:VEVENT
+END:VCALENDAR

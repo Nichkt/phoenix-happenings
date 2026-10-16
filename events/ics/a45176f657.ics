@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a45176f657-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261024T010000Z
+DTEND:20261024T050000Z
+SUMMARY:Tempe’s Family Boo Bash
+LOCATION:Kiwanis Park\, 101 West Baseline Road\, Tempe\, AZ\, 85283
+DESCRIPTION:Get EEK-cited to gather for a bewitching good time!\n\nhttps://
+ azparenting.com/event/tempes-family-boo-bash-2/
+URL:https://azparenting.com/event/tempes-family-boo-bash-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:79dc03a78c-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Carefree Lights Up! - Annual Tree Lighting & Christmas Concert
+LOCATION:101 Easy St\, Carefree\, AZ 85377\, USA
+DESCRIPTION:https://www.carefree.org/events
+URL:https://www.carefree.org/events
+END:VEVENT
+END:VCALENDAR

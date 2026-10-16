@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba4211db32-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261212T160000Z
+DTEND:20261212T220000Z
+SUMMARY:Christmas in the Park
+LOCATION:Litchfield Square Park\, Litchfield Square Park 279 N La Loma Ave.
+  Litchfield Park AZ 85340
+DESCRIPTION:https://www.litchfieldpark.gov/calendar.aspx?EID=2958\n\nhttps:
+ //www.litchfieldpark.gov/calendar.aspx?EID=2958
+URL:https://www.litchfieldpark.gov/calendar.aspx?EID=2958
+END:VEVENT
+END:VCALENDAR

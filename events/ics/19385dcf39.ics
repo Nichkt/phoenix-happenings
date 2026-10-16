@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:19385dcf39-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261024T170000Z
+DTEND:20261024T200000Z
+SUMMARY:Candie’s Halloween Character Carnival
+LOCATION:Arizona Boardwalk\, 9500 E. Via de Ventura\, AZ
+DESCRIPTION:Experience a magical day of fun\, fantasy\, and Halloween cheer
+  at the Family Fall Festival!\n\nhttps://azparenting.com/event/candies-hal
+ loween-character-carnival-2/
+URL:https://azparenting.com/event/candies-halloween-character-carnival-2/
+END:VEVENT
+END:VCALENDAR

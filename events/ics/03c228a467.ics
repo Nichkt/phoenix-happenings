@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:03c228a467-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Holiday Artist Market 2026
+LOCATION:Sedona Arts Center\, 15 Art Barn Rd\, Sedona\, AZ\, 86336
+DESCRIPTION:Hours: 4–3 PM\n\nSAC Holiday Artist Market December 4 th – 
+ 6 th \, 2026 Celebrate the season at Sedona Arts Center’s Holiday Artist
+  Market!\n\nhttps://sedonaartscenter.org/event/holiday-artist-market-2026/
+URL:https://sedonaartscenter.org/event/holiday-artist-market-2026/
+END:VEVENT
+END:VCALENDAR

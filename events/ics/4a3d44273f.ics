@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a3d44273f-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20261115T013000Z
+DTEND:20261115T065900Z
+SUMMARY:Movie in the Park
+LOCATION:Jackie Robinson Ballfield\, Jackie Robinson Ballfield 14451 W Came
+ lback Rd Litchfield Park AZ 85340
+DESCRIPTION:https://www.litchfieldpark.gov/calendar.aspx?EID=2976\n\nhttps:
+ //www.litchfieldpark.gov/calendar.aspx?EID=2976
+URL:https://www.litchfieldpark.gov/calendar.aspx?EID=2976
+END:VEVENT
+END:VCALENDAR

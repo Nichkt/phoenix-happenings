@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d1d13e479-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261016T075853Z
+SEQUENCE:0
+DTSTART:20270103T003000Z
+DTEND:20270103T020000Z
+SUMMARY:Concert in the Park - Exit 40
+LOCATION:Flatiron Community Park\, Flatiron Community Park - 100 N Apache T
+ rail Apache Junction AZ 85119
+DESCRIPTION:Bring your blanket or lawn chair and enjoy a nice evening outsi
+ de listening to some great music from a local band!\n\nhttps://www.apachej
+ unctionaz.gov/calendar.aspx?EID=2594
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2594
+END:VEVENT
+END:VCALENDAR
