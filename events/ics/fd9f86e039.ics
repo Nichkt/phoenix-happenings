@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd9f86e039-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261017T141713Z
+SEQUENCE:0
+DTSTART:20270110T013000Z
+DTEND:20270110T033000Z
+SUMMARY:Movie in the Park - Minions & Monsters
+LOCATION:Flatiron Park\, Flatiron Park - 100 N Apache Trail Apache Junction
+  AZ 85119
+DESCRIPTION:Bring your blanket or lawn chair and enjoy a nice evening outsi
+ de watching a fun family movie!\n\nhttps://www.apachejunctionaz.gov/calend
+ ar.aspx?EID=2610
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2610
+END:VEVENT
+END:VCALENDAR
