@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a69fb6926e-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261017T012145Z
+SEQUENCE:0
+DTSTART:20261031T210000Z
+DTEND:20261101T010000Z
+SUMMARY:Halloween at the LAB
+LOCATION:The LAB\, 6760 W Deer Valley Rd\, Glendale\, 85310
+DESCRIPTION:Get ready for a Halloween themed celebration with The LAB commu
+ nity!\n\nhttps://azparenting.com/event/halloween-at-the-lab/
+URL:https://azparenting.com/event/halloween-at-the-lab/
+END:VEVENT
+END:VCALENDAR
