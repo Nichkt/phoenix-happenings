@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:177a410524-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261018T144117Z
+SEQUENCE:0
+DTSTART:20261107T150000Z
+DTEND:20261108T010000Z
+SUMMARY:Gilbert Art Walk – Heritage District
+LOCATION:Gilbert Farmers Market\, AZ
+DESCRIPTION:The Gilbert Art Walk is a family friendly\, pet friendly\, art
+  show with live music that is free to the public.\n\nhttps://www.discoverg
+ ilbert.com/events/gilbert-art-walk/
+URL:https://www.discovergilbert.com/events/gilbert-art-walk/
+END:VEVENT
+END:VCALENDAR

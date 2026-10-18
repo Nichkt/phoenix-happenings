@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-17T14:17:13Z",
+ "generatedAt": "2026-10-18T14:41:17Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-17",
- "until": "2027-01-09",
+ "from": "2026-10-18",
+ "until": "2027-01-10",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 20
+   "events": 18
   },
   {
    "name": "azmatsuri.org",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 15
+   "events": 11
   },
   {
    "name": "Desert Botanical Garden",
@@ -139,9 +139,9 @@
    "id": "2a24b567ed",
    "series": "2f34a24954",
    "title": "Old MacDonald’s Pumpkin Patch",
-   "start": "2026-10-15",
+   "start": "2026-10-16",
    "end": "2026-10-18",
-   "dates": "Oct 15–18",
+   "dates": "Oct 16–18",
    "place": "The Great Arizona Puppet Theater, Phoenix",
    "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
    "region": "PHOENIX",
@@ -150,7 +150,7 @@
    "free": false,
    "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
    "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
-   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-15/",
+   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-16/",
    "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
    "imageCredit": "Arizona Parenting",
    "sources": [
@@ -159,27 +159,29 @@
    "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-15",
+    "start": "2026-10-16",
     "end": "2026-10-19",
-    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-15/"
+    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-16/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-10-18T14:41:17Z"
   },
   {
    "id": "c9aac2b975",
    "series": "fcd88d6794",
    "title": "Great Fall Kickoff Festival",
-   "start": "2026-10-15",
+   "start": "2026-10-16",
    "end": "2026-10-18",
    "startMinute": 420,
    "endMinute": 1320,
-   "dates": "Oct 15–18",
+   "dates": "Oct 16–18",
    "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "region": "PHOENIX",
    "category": "COMMUNITY",
-   "url": "https://dbg.org/events/great-fall-kickoff-festival/2026-10-15/",
+   "url": "https://dbg.org/events/great-fall-kickoff-festival/2026-10-16/",
    "image": "https://dbg.org/wp-content/uploads/2026/07/kickoff-feature.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -188,42 +190,13 @@
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-15",
+    "start": "2026-10-16",
     "end": "2026-10-19",
-    "notes": "Hours: 7 AM–10 PM\n\nhttps://dbg.org/events/great-fall-kickoff-festival/2026-10-15/"
+    "notes": "Hours: 7 AM–10 PM\n\nhttps://dbg.org/events/great-fall-kickoff-festival/2026-10-16/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:13Z"
-  },
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-15",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 15–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-15/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-15",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-15/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-17T14:17:13Z"
+   "revision": 2,
+   "changed": "2026-10-18T14:41:17Z"
   },
   {
    "id": "b8bf226321",
@@ -257,97 +230,33 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
-   "id": "483eb8c397",
-   "series": "6fa3c0b398",
-   "title": "Gilbert Art Walk – Heritage District",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 480,
-   "endMinute": 1080,
-   "dates": "Sat, Oct 17",
-   "time": "8 AM–6 PM",
-   "place": "Gilbert Farmers Market",
-   "placeLines": "Gilbert Farmers Market",
-   "region": "EAST_VALLEY",
-   "category": "ARTS",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
-   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
-   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Gilbert Farmers Market, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T15:00:00Z",
-    "end": "2026-10-18T01:00:00Z",
-    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "df6fd6e229",
-   "series": "a4a8eb9124",
-   "title": "Santa Maria Park Skate Plaza Ribbon Cutting",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 540,
-   "endMinute": 600,
-   "dates": "Sat, Oct 17",
-   "time": "9–10 AM",
-   "place": "Santa Maria Park, Phoenix",
-   "placeLines": "Santa Maria Park, Phoenix",
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-16",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 16–Nov 15",
+   "time": "6–10 PM",
    "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/parks-events/pierce-park-grand-reopening-/santa-maria-park--skate-plaza-ribbon-cutting-.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Santa Maria Park, Santa Maria Park - 3425 S 71st Ave Phoenix, AZ 85043",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T16:00:00Z",
-    "end": "2026-10-17T17:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/pierce-park-grand-reopening-/santa-maria-park--skate-plaza-ribbon-cutting-.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "195eb7ff08",
-   "series": "eb99c26724",
-   "title": "5th Annual Desert Foothills Book Festival",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Sat, Oct 17",
-   "time": "10 AM–3 PM",
-   "place": "Holland Community Center, Scottsdale",
-   "placeLines": "Holland Community Center, Scottsdale\n34250 N. 60th St. Bldg B, Scottsdale, AZ",
-   "region": "NORTH",
    "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "📚This free, family-friendly event brings together nearly 90 Arizona authors spanning every genre for book signings and raffles.",
-   "description": "📚This free, family-friendly event brings together nearly 90 Arizona authors spanning every genre for book signings and raffles. To celebrate the 5-year milestone, the first 100 attendees will receive a free book and curated gift box courtesy of Once Upon a Book Club. Visitors can also enjoy local eats from Dee-Lites food truck, Aaron’s Vegan Bakery, and Reckon Coffee Company.\n\n⭐The biggest story here is about community impact: net proceeds from the festival’s raffles directly fund vital youth literacy programs like “Creative Kids – Tell Me A Story,” which teaches children how to write and publish their very own books.",
-   "url": "https://azparenting.com/event/5th-annual-desert-foothills-book-festival/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/08/Book-Festival.jpg",
-   "imageCredit": "Arizona Parenting",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-16/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
    "sources": [
-    "Arizona Parenting"
+    "Desert Botanical Garden"
    ],
-   "map": "Holland Community Center, 34250 N. 60th St. Bldg B, Scottsdale, AZ",
    "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T17:00:00Z",
-    "end": "2026-10-17T22:00:00Z",
-    "notes": "📚This free, family-friendly event brings together nearly 90 Arizona authors spanning every genre for book signings and raffles.\n\nhttps://azparenting.com/event/5th-annual-desert-foothills-book-festival/"
+    "allDay": true,
+    "start": "2026-10-16",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-16/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 2,
+   "changed": "2026-10-18T14:41:17Z"
   },
   {
    "id": "a2d625808c",
@@ -379,152 +288,6 @@
     "start": "2026-10-17",
     "end": "2026-10-19",
     "notes": "Hours: 10 AM–4 PM\n\nCelebrate fall with over 60 talented vendors and shop for your favorite items, collectibles, and toys at this festive arts, crafts, and gifts event.\n\nhttps://azparenting.com/event/scottsdale-sparkle-halloween-event-4/2026-10-17/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "2d3ebc62f7",
-   "series": "e359924fe6",
-   "title": "Oktoberfest at the Park",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 660,
-   "endMinute": 1020,
-   "dates": "Sat, Oct 17",
-   "time": "11 AM–5 PM",
-   "place": "O.H.S.O Brewery",
-   "placeLines": "O.H.S.O Brewery",
-   "region": "EAST_VALLEY",
-   "category": "FOOD",
-   "summary": "Oktoberfest is back at The Park with local beer, German eats, live music, contests and plenty of fun.",
-   "description": "Oktoberfest is back at The Park with local beer, German eats, live music, contests and plenty of fun. Grand Canyon Brewing, Desert Monks Brewing Co., FuzzBot Brewing, Goldwater Brewing Co., Sacred Hand Brewing and O.H.S.O. will be pouring throughout the day.",
-   "url": "https://www.discovergilbert.com/events/oktoberfest-at-the-park-2/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/10/f0177a36-2354-4167-a66a-5f2f4c2215b4.avif",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "O.H.S.O Brewery, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T18:00:00Z",
-    "end": "2026-10-18T00:00:00Z",
-    "notes": "Oktoberfest is back at The Park with local beer, German eats, live music, contests and plenty of fun.\n\nhttps://www.discovergilbert.com/events/oktoberfest-at-the-park-2/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "0062594ce3",
-   "series": "2e078cd1b2",
-   "title": "Harvest Home",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 840,
-   "endMinute": 960,
-   "dates": "Sat, Oct 17",
-   "time": "2–4 PM",
-   "place": "Fiddler’s Dream, Phoenix",
-   "placeLines": "Fiddler’s Dream, Phoenix\n1702 E. Glendale Ave., Phoenix, 85020",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Families can enjoy live fiddle and guitar music, Native flute, stories, seasonal traditions, and participatory music and dance.",
-   "description": "Families can enjoy live fiddle and guitar music, Native flute, stories, seasonal traditions, and participatory music and dance. Arvel is a four-time Indiana State Fiddle Champion, toured with Glen Campbell, and has performed from the Grand Ole Opry to Royal Albert Hall and the Smithsonian.\n\n🍂FREE — donations welcome\n🍁All ages welcome",
-   "url": "https://azparenting.com/event/harvest-home/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/10/Fiddlers-Dream-Arvel-Bird-Concert-5-1-1.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Fiddler’s Dream, 1702 E. Glendale Ave., Phoenix, 85020",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T21:00:00Z",
-    "end": "2026-10-17T23:00:00Z",
-    "notes": "Families can enjoy live fiddle and guitar music, Native flute, stories, seasonal traditions, and participatory music and dance.\n\nhttps://azparenting.com/event/harvest-home/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "1ec5615664",
-   "series": "faac6786c5",
-   "title": "Family Fright Night: Movie in the Park",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 960,
-   "endMinute": 1260,
-   "dates": "Sat, Oct 17",
-   "time": "4–9 PM",
-   "place": "Washington Activity Center - 2240 W Citrus Way, Phoenix",
-   "placeLines": "Washington Activity Center - 2240 W Citrus Way, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/parks-events/family-fright-night--movie-in-the-park-.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Washington Activity Center - 2240 W Citrus Way, Washington Activity Center - 2240 W Citrus Way, Phoenix, AZ 85015",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-17T23:00:00Z",
-    "end": "2026-10-18T04:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/family-fright-night--movie-in-the-park-.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "262c10c6be",
-   "series": "2629db7038",
-   "title": "Slopetacular Trunk or Treat",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 1020,
-   "endMinute": 1140,
-   "dates": "Sat, Oct 17",
-   "time": "5–7 PM",
-   "place": "Sunnyslope Community Center: 802 E Vogel Ave, Phoenix",
-   "placeLines": "Sunnyslope Community Center: 802 E Vogel Ave, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "url": "https://www.phoenix.gov/calendar/parks-events/slopetacular-trunk-or-treat.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Sunnyslope Community Center: 802 E Vogel Ave, Sunnyslope Community Center: 802 E Vogel Ave, Phoenix, AZ 85020",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-18T00:00:00Z",
-    "end": "2026-10-18T02:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/slopetacular-trunk-or-treat.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "d1271f3fe2",
-   "series": "fa25ddff34",
-   "title": "Fall-o-Ween at Deer Valley Park",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "startMinute": 1080,
-   "endMinute": 1200,
-   "dates": "Sat, Oct 17",
-   "time": "6–8 PM",
-   "place": "Deer Valley Park - 2001 W Wahalla Ln., Phoenix",
-   "placeLines": "Deer Valley Park - 2001 W Wahalla Ln., Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/parks-events/fall-o-ween-at-deer-valley-park.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Deer Valley Park - 2001 W Wahalla Ln., Deer Valley Park - 2001 W Wahalla Ln., Phoenix AZ 85027",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-18T01:00:00Z",
-    "end": "2026-10-18T03:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/fall-o-ween-at-deer-valley-park.html"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
   },
@@ -1753,6 +1516,39 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "177a410524",
+   "series": "6fa3c0b398",
+   "title": "Gilbert Art Walk – Heritage District",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Sat, Nov 7",
+   "time": "8 AM–6 PM",
+   "place": "Gilbert Farmers Market",
+   "placeLines": "Gilbert Farmers Market",
+   "region": "EAST_VALLEY",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
+   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
+   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Gilbert Farmers Market, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T15:00:00Z",
+    "end": "2026-11-08T01:00:00Z",
+    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
+   },
+   "firstSeen": "2026-10-18T14:41:17Z"
+  },
+  {
    "id": "99b6513a40",
    "series": "ef953948b4",
    "title": "Litchfield Park Festival of Arts",
@@ -1991,6 +1787,39 @@
     "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-13/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "1fcea52ddc",
+   "series": "6fa3c0b398",
+   "title": "Gilbert Art Walk – Heritage District",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Sat, Nov 14",
+   "time": "8 AM–6 PM",
+   "place": "Gilbert Farmers Market",
+   "placeLines": "Gilbert Farmers Market",
+   "region": "EAST_VALLEY",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
+   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
+   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Gilbert Farmers Market, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T15:00:00Z",
+    "end": "2026-11-15T01:00:00Z",
+    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
+   },
+   "firstSeen": "2026-10-18T14:41:17Z"
   },
   {
    "id": "794a009396",
