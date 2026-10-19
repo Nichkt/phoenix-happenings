@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-18T14:41:17Z",
+ "generatedAt": "2026-10-19T17:35:08Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-18",
- "until": "2027-01-10",
+ "from": "2026-10-19",
+ "until": "2027-01-11",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 18
+   "events": 15
   },
   {
    "name": "azmatsuri.org",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 6
+   "events": 5
   },
   {
    "name": "City of Apache Junction",
@@ -111,7 +111,7 @@
   },
   {
    "name": "Desert Botanical Garden",
-   "events": 9
+   "events": 8
   },
   {
    "name": "Discover Gilbert",
@@ -123,7 +123,7 @@
   },
   {
    "name": "Sedona Arts Center",
-   "events": 3
+   "events": 2
   },
   {
    "name": "Town of Carefree",
@@ -136,113 +136,19 @@
  ],
  "events": [
   {
-   "id": "2a24b567ed",
-   "series": "2f34a24954",
-   "title": "Old MacDonald’s Pumpkin Patch",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "dates": "Oct 16–18",
-   "place": "The Great Arizona Puppet Theater, Phoenix",
-   "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "cost": "$10.00 – $15.00",
-   "free": false,
-   "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
-   "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
-   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-16/",
-   "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-16",
-    "end": "2026-10-19",
-    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-16/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-18T14:41:17Z"
-  },
-  {
-   "id": "c9aac2b975",
-   "series": "fcd88d6794",
-   "title": "Great Fall Kickoff Festival",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "startMinute": 420,
-   "endMinute": 1320,
-   "dates": "Oct 16–18",
-   "time": "7 AM–10 PM",
-   "place": "Desert Botanical Garden, Phoenix",
-   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "url": "https://dbg.org/events/great-fall-kickoff-festival/2026-10-16/",
-   "image": "https://dbg.org/wp-content/uploads/2026/07/kickoff-feature.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-16",
-    "end": "2026-10-19",
-    "notes": "Hours: 7 AM–10 PM\n\nhttps://dbg.org/events/great-fall-kickoff-festival/2026-10-16/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 2,
-   "changed": "2026-10-18T14:41:17Z"
-  },
-  {
-   "id": "b8bf226321",
-   "series": "3ca764ca12",
-   "title": "22nd Annual Sedona Plein Air Festival 2026",
-   "start": "2026-10-16",
-   "end": "2026-10-24",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Oct 16–24",
-   "time": "10 AM–5 PM",
-   "place": "Sedona Arts Center",
-   "placeLines": "Sedona Arts Center\n15 Art Barn Rd, Sedona, AZ, 86336",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "summary": "Sedona Plein Air Festival October 16, 2026 – October 24, 2026 Experience the  22nd Annual Sedona Plein Air Festival , an immersive celebration of art set…",
-   "description": "Sedona Plein Air Festival\n\nOctober 16, 2026 – October 24, 2026\n\nExperience the 22nd Annual Sedona Plein Air Festival, an immersive celebration of art set against the extraordinary red rock landscapes of Sedona and the surrounding Verde Valley.\n\nAs one of the longest-running plein air festivals in the Southwest, this annual event brings accomplished artists from across the country to paint on location throughout the week, capturing Sedona’s changing light, color, landscape, and atmosphere in real time.\n\nVisitors can watch artists at work throughout the region and experience a week of paint-outs, artist demonstrations, special events, awards, and the always-popular Artist Games. From works taking shape outdoors to opportunities to meet the artists and experience their creative process firsthand, the festival offers a unique opportunity to see plein air painting as it happens.\n\nThis years SPAF Artists are:\n\nOlena Babak, Lorie Batson, Ed Buonvecchio, Casey Cheuvront, Bill Cramer, Lauren Davis, Carol Douglas, Robert Goldman, Bruce Gómez, Meisha Grichuhin, Michelle Held, Michael Chesley Johnson, Laura Martinez-Bianco, Betsy Menand, Barbara Mulleneaux, Anton Nowels, Bill Perkins, Hadley Rampton, Robin Roberts, Julia Robinson, Paula Swain, Barbara Tapp, Carol Tarzier, Stewart White, Tara Will\n\nThis years SPAF Judges are:\n\nBetty Carr & Kelly Kane\n\nPublic Event Dates: October 19 – October 24, 2026\n\n• Saturday, Oct 17: Artist Demos at Sedona Art Center: Olena Babak, Carol Douglas…",
-   "url": "https://sedonaartscenter.org/event/22nd-annual-sedona-plein-air-festival-2026/",
-   "image": "https://sedonaartscenter.org/wp-content/uploads/2026/07/SPAF2026_banner-1-768x308.jpg",
-   "imageCredit": "Sedona Arts Center",
-   "sources": [
-    "Sedona Arts Center"
-   ],
-   "map": "Sedona Arts Center, 15 Art Barn Rd, Sedona, AZ, 86336",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-16",
-    "end": "2026-10-25",
-    "notes": "Hours: 10 AM–5 PM\n\nSedona Plein Air Festival October 16, 2026 – October 24, 2026 Experience the  22nd Annual Sedona Plein Air Festival , an immersive celebration of art set…\n\nhttps://sedonaartscenter.org/event/22nd-annual-sedona-plein-air-festival-2026/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-16",
+   "start": "2026-10-17",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 16–Nov 15",
+   "dates": "Oct 17–Nov 15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-16/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-17/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -250,106 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-16",
+    "start": "2026-10-17",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-16/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-17/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 2,
-   "changed": "2026-10-18T14:41:17Z"
-  },
-  {
-   "id": "a2d625808c",
-   "series": "bcb55c4b25",
-   "title": "Scottsdale Sparkle Halloween Event",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Oct 17–18",
-   "time": "10 AM–4 PM",
-   "place": "Arizona Boardwalk",
-   "placeLines": "Arizona Boardwalk\n9500 E. Via de Ventura, AZ",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate fall with over 60 talented vendors and shop for your favorite items, collectibles, and toys at this festive arts, crafts, and gifts event.",
-   "description": "Celebrate fall with over 60 talented vendors and shop for your favorite items, collectibles, and toys at this festive arts, crafts, and gifts event. Kids can enjoy face painting, costumed characters, candy and more! Dress your best for a thrilling costume contest with big prizes up for grabs for the most creative and impressive costumes.",
-   "url": "https://azparenting.com/event/scottsdale-sparkle-halloween-event-4/2026-10-17/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/10/ScottsdaleSparkle.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Arizona Boardwalk, 9500 E. Via de Ventura, AZ",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-17",
-    "end": "2026-10-19",
-    "notes": "Hours: 10 AM–4 PM\n\nCelebrate fall with over 60 talented vendors and shop for your favorite items, collectibles, and toys at this festive arts, crafts, and gifts event.\n\nhttps://azparenting.com/event/scottsdale-sparkle-halloween-event-4/2026-10-17/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "eb8cfaf150",
-   "series": "154f541ea7",
-   "title": "Fiesta Mexicana",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "startMinute": 660,
-   "endMinute": 705,
-   "dates": "Sun, Oct 18",
-   "time": "11–11:45 AM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "CULTURAL",
-   "kids": true,
-   "summary": "Come experience the beauty and joy of traditional folk dances from Mexico, Central America and South America with a performance by Fiesta Mexicana Dance…",
-   "description": "Come experience the beauty and joy of traditional folk dances from Mexico, Central America and South America with a performance by Fiesta Mexicana Dance Company, the official folkloric group for the City of Phoenix. ¡Sé valiente y baila!",
-   "url": "https://childrensmuseumofphoenix.org/event/fiesta-mexicana/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-18T18:00:00Z",
-    "end": "2026-10-18T18:45:00Z",
-    "notes": "Come experience the beauty and joy of traditional folk dances from Mexico, Central America and South America with a performance by Fiesta Mexicana Dance…\n\nhttps://childrensmuseumofphoenix.org/event/fiesta-mexicana/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "163041d0de",
-   "series": "55aea39e85",
-   "title": "Meet the Spooky Pets",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "startMinute": 720,
-   "endMinute": 840,
-   "dates": "Sun, Oct 18",
-   "time": "12–2 PM",
-   "place": "Petsmart",
-   "placeLines": "Petsmart\nVarious Locations, AZ",
-   "category": "SEASONAL",
-   "summary": "Snakes, spiders, death-feigning beetles oh my!",
-   "description": "Snakes, spiders, death-feigning beetles oh my! This creature feature introduces families to specialty pets while learning about their daily care and activities from PetSmart associates.\n\n🐍Featured pets may vary by store.",
-   "url": "https://azparenting.com/event/meet-the-spooky-pets/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/10/TricksforTreats.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Petsmart, Various Locations, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-18T19:00:00Z",
-    "end": "2026-10-18T21:00:00Z",
-    "notes": "Snakes, spiders, death-feigning beetles oh my!\n\nhttps://azparenting.com/event/meet-the-spooky-pets/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "revision": 3,
+   "changed": "2026-10-19T17:35:08Z"
   },
   {
    "id": "23b727a418",
@@ -1836,6 +1649,8 @@
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "url": "https://www.phoenix.gov/calendar/environmental-programs-events/nature-fest-phx-2026.html",
+   "image": "https://www.phoenix.gov/content/dam/phoenix/oepsite/mediaassets/wildlife/naturefest/IMG_6806.JPG",
+   "imageCredit": "City of Phoenix",
    "sources": [
     "City of Phoenix"
    ],
