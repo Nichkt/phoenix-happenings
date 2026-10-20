@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-19T17:35:08Z",
+ "generatedAt": "2026-10-20T15:41:46Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-19",
- "until": "2027-01-11",
+ "from": "2026-10-20",
+ "until": "2027-01-12",
  "regions": [
   {
    "id": "PHOENIX",
@@ -139,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 17–Nov 15",
+   "dates": "Oct 18–Nov 15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-17/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-18/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -156,13 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-17",
+    "start": "2026-10-18",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-17/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-18/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 3,
-   "changed": "2026-10-19T17:35:08Z"
+   "revision": 4,
+   "changed": "2026-10-20T15:41:46Z"
   },
   {
    "id": "23b727a418",
