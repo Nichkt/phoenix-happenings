@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e5ced68295-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261021T160017Z
+SEQUENCE:0
+DTSTART:20261107T190000Z
+DTEND:20261107T230000Z
+SUMMARY:Maltstock Beer Festival
+LOCATION:Arizona Wilderness Gilbert Brewhub\, AZ
+DESCRIPTION:Join us at the Arizona Wilderness Gilbert Brewpub on Saturday\,
+  November 7 from 12–4 PM for Maltstock!\n\nhttps://www.discovergilbert.c
+ om/events/maltstock-beer-festival/
+URL:https://www.discovergilbert.com/events/maltstock-beer-festival/
+END:VEVENT
+END:VCALENDAR

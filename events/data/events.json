@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-20T15:41:46Z",
+ "generatedAt": "2026-10-21T16:00:17Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-20",
- "until": "2027-01-12",
+ "from": "2026-10-21",
+ "until": "2027-01-13",
  "regions": [
   {
    "id": "PHOENIX",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 5
+   "events": 6
   },
   {
    "name": "City of Apache Junction",
@@ -115,7 +115,7 @@
   },
   {
    "name": "Discover Gilbert",
-   "events": 9
+   "events": 8
   },
   {
    "name": "Musical Instrument Museum",
@@ -135,35 +135,6 @@
   }
  ],
  "events": [
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-18",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 18–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-18/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-18",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-18/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 4,
-   "changed": "2026-10-20T15:41:46Z"
-  },
   {
    "id": "23b727a418",
    "series": "6af21f453d",
@@ -192,6 +163,35 @@
     "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-19/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-19",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 19–Nov 15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-19/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-19",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-19/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 5,
+   "changed": "2026-10-21T16:00:17Z"
   },
   {
    "id": "4e52975a35",
@@ -973,6 +973,36 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "83e3d0c6b8",
+   "series": "3bad533d2a",
+   "title": "Crispy Pumpkins",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "startMinute": 600,
+   "endMinute": 720,
+   "dates": "Thu, Oct 29",
+   "time": "10 AM–12 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!",
+   "description": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!\n\nA limited number of guests will be admitted every 15-20 minutes. No sign-up required!\n\nAllergens:\nMilk, soy, gluten",
+   "url": "https://childrensmuseumofphoenix.org/event/krispie-pumpkins-cooking-class/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-29T17:00:00Z",
+    "end": "2026-10-29T19:00:00Z",
+    "notes": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!\n\nhttps://childrensmuseumofphoenix.org/event/krispie-pumpkins-cooking-class/"
+   },
+   "firstSeen": "2026-10-21T16:00:17Z"
+  },
+  {
    "id": "fe15620778",
    "series": "990366c0ce",
    "title": "Halloween Carnival at Playa Margarita",
@@ -1329,39 +1359,6 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
-   "id": "177a410524",
-   "series": "6fa3c0b398",
-   "title": "Gilbert Art Walk – Heritage District",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 480,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 7",
-   "time": "8 AM–6 PM",
-   "place": "Gilbert Farmers Market",
-   "placeLines": "Gilbert Farmers Market",
-   "region": "EAST_VALLEY",
-   "category": "ARTS",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
-   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
-   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Gilbert Farmers Market, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T15:00:00Z",
-    "end": "2026-11-08T01:00:00Z",
-    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
-   },
-   "firstSeen": "2026-10-18T14:41:17Z"
-  },
-  {
    "id": "99b6513a40",
    "series": "ef953948b4",
    "title": "Litchfield Park Festival of Arts",
@@ -1485,6 +1482,37 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "e5ced68295",
+   "series": "e4c40f1268",
+   "title": "Maltstock Beer Festival",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 720,
+   "endMinute": 960,
+   "dates": "Sat, Nov 7",
+   "time": "12–4 PM",
+   "place": "Arizona Wilderness Gilbert Brewhub",
+   "placeLines": "Arizona Wilderness Gilbert Brewhub",
+   "region": "EAST_VALLEY",
+   "category": "COMMUNITY",
+   "summary": "Join us at the Arizona Wilderness Gilbert Brewpub on Saturday, November 7 from 12–4 PM for Maltstock!",
+   "description": "Join us at the Arizona Wilderness Gilbert Brewpub on Saturday, November 7 from 12–4 PM for Maltstock! A celebration of Arizona-grown grain, Arizona beer, and the people bringing flavor from the fields to your glass.",
+   "url": "https://www.discovergilbert.com/events/maltstock-beer-festival/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/10/Malstock.webp",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Arizona Wilderness Gilbert Brewhub, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T19:00:00Z",
+    "end": "2026-11-07T23:00:00Z",
+    "notes": "Join us at the Arizona Wilderness Gilbert Brewpub on Saturday, November 7 from 12–4 PM for Maltstock!\n\nhttps://www.discovergilbert.com/events/maltstock-beer-festival/"
+   },
+   "firstSeen": "2026-10-21T16:00:17Z"
+  },
+  {
    "id": "486256b57d",
    "series": "a02f641f85",
    "title": "Annual Veterans Day Celebration",
@@ -1600,39 +1628,6 @@
     "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-13/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "1fcea52ddc",
-   "series": "6fa3c0b398",
-   "title": "Gilbert Art Walk – Heritage District",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 480,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 14",
-   "time": "8 AM–6 PM",
-   "place": "Gilbert Farmers Market",
-   "placeLines": "Gilbert Farmers Market",
-   "region": "EAST_VALLEY",
-   "category": "ARTS",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
-   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
-   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Gilbert Farmers Market, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T15:00:00Z",
-    "end": "2026-11-15T01:00:00Z",
-    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
-   },
-   "firstSeen": "2026-10-18T14:41:17Z"
   },
   {
    "id": "794a009396",
