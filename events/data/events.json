@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-21T16:00:17Z",
+ "generatedAt": "2026-10-22T15:56:10Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-21",
- "until": "2027-01-13",
+ "from": "2026-10-22",
+ "until": "2027-01-14",
  "regions": [
   {
    "id": "PHOENIX",
@@ -139,11 +139,11 @@
    "id": "23b727a418",
    "series": "6af21f453d",
    "title": "Spooky Trees",
-   "start": "2026-10-19",
+   "start": "2026-10-20",
    "end": "2026-10-25",
    "startMinute": 540,
    "endMinute": 960,
-   "dates": "Oct 19–25",
+   "dates": "Oct 20–25",
    "time": "9 AM–4 PM",
    "place": "Children’s Museum of Phoenix",
    "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
@@ -151,33 +151,35 @@
    "category": "SEASONAL",
    "kids": true,
    "summary": "Make a 3-dimensional spooky tree to celebrate this fall season.",
-   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-19/",
+   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-20/",
    "sources": [
     "Children's Museum of Phoenix"
    ],
    "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-19",
+    "start": "2026-10-20",
     "end": "2026-10-26",
-    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-19/"
+    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-20/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-10-22T15:56:10Z"
   },
   {
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-19",
+   "start": "2026-10-20",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 19–Nov 15",
+   "dates": "Oct 20–Nov 15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-19/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-20/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -185,74 +187,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-19",
+    "start": "2026-10-20",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-19/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-20/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 5,
-   "changed": "2026-10-21T16:00:17Z"
-  },
-  {
-   "id": "4e52975a35",
-   "series": "92bf9349ef",
-   "title": "Agritopia Farm Night",
-   "start": "2026-10-21",
-   "end": "2026-10-21",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Wed, Oct 21",
-   "time": "5–8 PM",
-   "place": "West side of Barnone at Agritopia",
-   "placeLines": "West side of Barnone at Agritopia",
-   "region": "EAST_VALLEY",
-   "category": "FARMERS",
-   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
-   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
-   "url": "https://www.discovergilbert.com/events/farm-night/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "West side of Barnone at Agritopia, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-22T00:00:00Z",
-    "end": "2026-10-22T03:00:00Z",
-    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "a9492aab1f",
-   "series": "805a2783d6",
-   "title": "Boo to Bloom",
-   "start": "2026-10-21",
-   "end": "2026-10-21",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Wed, Oct 21",
-   "time": "5–8 PM",
-   "place": "Tempe Marketplace, Tempe, AZ",
-   "placeLines": "Tempe Marketplace, Tempe, AZ\n2000 E Rio Salado Pkwy, Tempe, AZ, 85281",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "Halloween meets a celebration of Día de los Muertos with trick-or-treating throughout The District, a costume contest, face painting, arts and crafts,…",
-   "description": "Halloween meets a celebration of Día de los Muertos with trick-or-treating throughout The District, a costume contest, face painting, arts and crafts, giveaways and raffles benefiting Make-A-Wish.",
-   "url": "https://azparenting.com/event/boo-to-bloom/",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Tempe Marketplace, 2000 E Rio Salado Pkwy, Tempe, AZ, 85281",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-22T00:00:00Z",
-    "end": "2026-10-22T03:00:00Z",
-    "notes": "Halloween meets a celebration of Día de los Muertos with trick-or-treating throughout The District, a costume contest, face painting, arts and crafts,…\n\nhttps://azparenting.com/event/boo-to-bloom/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "revision": 6,
+   "changed": "2026-10-22T15:56:10Z"
   },
   {
    "id": "785a01b935",
@@ -562,6 +503,39 @@
     "notes": "Take a dip in a floating pumpkin patch and pick out your perfect pumpkin… right from the pool!\n\nhttps://azparenting.com/event/pumpkin-splash/2026-10-24/1/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "7f2761c374",
+   "series": "a4915b66a8",
+   "title": "Gilbert Art Walk – Verde at Cooley Station",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Sat, Oct 24",
+   "time": "9 AM–1 PM",
+   "place": "Verde at Cooley Station",
+   "placeLines": "Verde at Cooley Station",
+   "region": "EAST_VALLEY",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
+   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
+   "url": "https://www.discovergilbert.com/events/gilbert-art-walk-verde-at-cooley-station/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Verde at Cooley Station, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-24T16:00:00Z",
+    "end": "2026-10-24T20:00:00Z",
+    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk-verde-at-cooley-station/"
+   },
+   "firstSeen": "2026-10-22T15:56:10Z"
   },
   {
    "id": "19385dcf39",
@@ -2238,6 +2212,39 @@
     "notes": "For more than three decades, the APS Electric Light Parade has been an event where families, neighborhood groups and businesses come together\n\nhttps://www.phoenix.gov/calendar/parks-events/39th-annual-aps-electric-light-parade.html"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "9b1b595a20",
+   "series": "e000a47f5b",
+   "title": "Winterfest",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 1020,
+   "endMinute": 1260,
+   "dates": "Sat, Dec 5",
+   "time": "5–9 PM",
+   "place": "Avondale Civic Center",
+   "placeLines": "Avondale Civic Center\n11465 W. Civic Center Dr., Avondale, AZ",
+   "region": "WEST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Bring the family and make some joyful memories!",
+   "description": "Bring the family and make some joyful memories! Avondale turns into a winter wonderland with a visit from Santa, holiday light show, annual tree lighting, entertainment and activities, food, sweet treats and more. ❄️",
+   "url": "https://azparenting.com/event/winterfest-3/",
+   "image": "https://azparenting.com/wp-content/uploads/2025/11/winterfest-avondale.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Avondale Civic Center, 11465 W. Civic Center Dr., Avondale, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T00:00:00Z",
+    "end": "2026-12-06T04:00:00Z",
+    "notes": "Bring the family and make some joyful memories!\n\nhttps://azparenting.com/event/winterfest-3/"
+   },
+   "firstSeen": "2026-10-22T15:56:10Z"
   },
   {
    "id": "f219da6a52",

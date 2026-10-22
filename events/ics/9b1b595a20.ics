@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b1b595a20-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261022T155610Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T040000Z
+SUMMARY:Winterfest
+LOCATION:Avondale Civic Center\, 11465 W. Civic Center Dr.\, Avondale\, AZ
+DESCRIPTION:Bring the family and make some joyful memories!\n\nhttps://azpa
+ renting.com/event/winterfest-3/
+URL:https://azparenting.com/event/winterfest-3/
+END:VEVENT
+END:VCALENDAR
