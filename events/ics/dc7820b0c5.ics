@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc7820b0c5-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261023T154742Z
+SEQUENCE:0
+DTSTART:20270115T230000Z
+DTEND:20270116T010000Z
+SUMMARY:Celebrate Sedona! January 15\, 2027 / 4-6pm
+LOCATION:Sedona Arts Center\, 15 Art Barn Rd\, Sedona\, AZ\, 86336
+DESCRIPTION:December 4 th \, 2026 4PM – 6PM! Live Music: TBD SAC Ceramics
+  Department:  Demos and Ceramics Sale Exhibition Opening:  Vision and So
+ und Celebrate Sedona…\n\nhttps://sedonaartscenter.org/event/celebrate-se
+ dona-january-15-2027-4-6pm/
+URL:https://sedonaartscenter.org/event/celebrate-sedona-january-15-2027-4-6
+ pm/
+END:VEVENT
+END:VCALENDAR

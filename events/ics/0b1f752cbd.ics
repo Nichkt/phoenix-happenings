@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b1f752cbd-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261023T154742Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:Las Noches de las Luminarias
+LOCATION:Desert Botanical Garden\, 1201 N. Galvin Parkway\, Phoenix\, AZ\, 
+ 85008
+DESCRIPTION:Hours: 5–9:30 PM\n\nExperience more nights\, more music and m
+ ore twinkle as the Garden transforms into a dazzling holiday escape filled
+  with thousands of glowing luminarias\,…\n\nhttps://dbg.org/events/las-n
+ oches-de-las-luminarias/2026-12-26/
+URL:https://dbg.org/events/las-noches-de-las-luminarias/2026-12-26/
+END:VEVENT
+END:VCALENDAR

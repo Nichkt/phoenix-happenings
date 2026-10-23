@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-22T15:56:10Z",
+ "generatedAt": "2026-10-23T15:47:42Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-22",
- "until": "2027-01-14",
+ "from": "2026-10-23",
+ "until": "2027-01-15",
  "regions": [
   {
    "id": "PHOENIX",
@@ -111,11 +111,11 @@
   },
   {
    "name": "Desert Botanical Garden",
-   "events": 8
+   "events": 13
   },
   {
    "name": "Discover Gilbert",
-   "events": 8
+   "events": 7
   },
   {
    "name": "Musical Instrument Museum",
@@ -123,11 +123,11 @@
   },
   {
    "name": "Sedona Arts Center",
-   "events": 2
+   "events": 3
   },
   {
    "name": "Town of Carefree",
-   "events": 18
+   "events": 19
   },
   {
    "name": "Willo Historic District",
@@ -139,11 +139,11 @@
    "id": "23b727a418",
    "series": "6af21f453d",
    "title": "Spooky Trees",
-   "start": "2026-10-20",
+   "start": "2026-10-21",
    "end": "2026-10-25",
    "startMinute": 540,
    "endMinute": 960,
-   "dates": "Oct 20–25",
+   "dates": "Oct 21–25",
    "time": "9 AM–4 PM",
    "place": "Children’s Museum of Phoenix",
    "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
@@ -151,35 +151,35 @@
    "category": "SEASONAL",
    "kids": true,
    "summary": "Make a 3-dimensional spooky tree to celebrate this fall season.",
-   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-20/",
+   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-21/",
    "sources": [
     "Children's Museum of Phoenix"
    ],
    "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-20",
+    "start": "2026-10-21",
     "end": "2026-10-26",
-    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-20/"
+    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-21/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-22T15:56:10Z"
+   "revision": 2,
+   "changed": "2026-10-23T15:47:42Z"
   },
   {
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-20",
+   "start": "2026-10-21",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 20–Nov 15",
+   "dates": "Oct 21–Nov 15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-20/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-21/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -187,13 +187,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-20",
+    "start": "2026-10-21",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-20/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-21/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 6,
-   "changed": "2026-10-22T15:56:10Z"
+   "revision": 7,
+   "changed": "2026-10-23T15:47:42Z"
   },
   {
    "id": "785a01b935",
@@ -253,40 +253,6 @@
     "start": "2026-10-22",
     "end": "2026-11-01",
     "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-22/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "5a94dee93f",
-   "series": "2e2af05f83",
-   "title": "Gilbert Concert in the Park",
-   "start": "2026-10-22",
-   "end": "2026-10-22",
-   "startMinute": 1110,
-   "endMinute": 1230,
-   "dates": "Thu, Oct 22",
-   "time": "6:30–8:30 PM",
-   "place": "Heritage Park, Gilbert",
-   "placeLines": "Heritage Park, Gilbert\n45 W Page Ave, Gilbert, AZ, 85296",
-   "region": "EAST_VALLEY",
-   "category": "OUTDOOR",
-   "cost": "Free",
-   "free": true,
-   "summary": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…",
-   "description": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during our FREE Concerts in the Park. Our concert series showcases some of the Valley’s best bands performing a variety of music genres. Enjoy some tasty takeout from one of the many Gilbert…",
-   "url": "https://www.discovergilbert.com/events/gilbert-concert-in-the-park/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/08/638566502992500000.jpeg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert",
-    "Arizona Parenting"
-   ],
-   "map": "Heritage Park, 45 W Page Ave, Gilbert, AZ, 85296",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-23T01:30:00Z",
-    "end": "2026-10-23T03:30:00Z",
-    "notes": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…\n\nhttps://www.discovergilbert.com/events/gilbert-concert-in-the-park/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
   },
@@ -684,6 +650,39 @@
     "notes": "More details to come\n\nhttps://willophx.com/event/kids-club-halloween-parade/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "af30342edc",
+   "series": "759f1573d5",
+   "title": "Halloween Monster Bash",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "startMinute": 1020,
+   "endMinute": 1260,
+   "dates": "Sat, Oct 24",
+   "time": "5–9 PM",
+   "place": "peoria city hall campus",
+   "placeLines": "peoria city hall campus\n8401 W Monroe St, Peoria",
+   "region": "WEST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "New Location for 2026 – City Hall Campus & Centennial Plaza (8401 W Monroe St, Peoria) You are invited to a spooktacular, fun-filled night full of tricks and…",
+   "description": "New Location for 2026 – City Hall Campus & Centennial Plaza (8401 W Monroe St, Peoria)\n\nYou are invited to a spooktacular, fun-filled night full of tricks and lots of treats, live entertainment, the annual costume contest, plus a variety of engaging activities for the whole family. Children and adults are encouraged to dress up for the judges to score on criteria such as scariest, funniest, cutest, and most original costumes. Trophies will be awarded to the first, second, and third-place winners in each age group. Be there or beware!",
+   "url": "https://azparenting.com/event/halloween-monster-bash-3/",
+   "image": "https://azparenting.com/wp-content/uploads/2024/09/Monster-Bash-Peoria-2024-e1759866482986.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "peoria city hall campus, 8401 W Monroe St, Peoria",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-25T00:00:00Z",
+    "end": "2026-10-25T04:00:00Z",
+    "notes": "New Location for 2026 – City Hall Campus & Centennial Plaza (8401 W Monroe St, Peoria) You are invited to a spooktacular, fun-filled night full of tricks and…\n\nhttps://azparenting.com/event/halloween-monster-bash-3/"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
   },
   {
    "id": "73e86398b0",
@@ -1865,6 +1864,37 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "9b4412843c",
+   "series": "99534e90cf",
+   "title": "Las Noches de las Luminarias",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "startMinute": 1020,
+   "endMinute": 1290,
+   "dates": "Nov 27–29",
+   "time": "5–9:30 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "summary": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…",
+   "description": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias, radiant light displays, expanded live entertainment and performances and festive moments around every Garden corner.",
+   "url": "https://dbg.org/events/las-noches-de-las-luminarias/2026-11-27/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/Lumi-1.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-27",
+    "end": "2026-11-30",
+    "notes": "Hours: 5–9:30 PM\n\nExperience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…\n\nhttps://dbg.org/events/las-noches-de-las-luminarias/2026-11-27/"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
+  },
+  {
    "id": "102d32fe32",
    "series": "0fe9fbd7f6",
    "title": "Kiwanis Christmas for the Kids",
@@ -2040,6 +2070,37 @@
     "notes": "Hours: 4–3 PM\n\nSAC Holiday Artist Market December 4 th – 6 th , 2026 Celebrate the season at Sedona Arts Center’s Holiday Artist Market!\n\nhttps://sedonaartscenter.org/event/holiday-artist-market-2026/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "42fe2588ff",
+   "series": "99534e90cf",
+   "title": "Las Noches de las Luminarias",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "startMinute": 1020,
+   "endMinute": 1290,
+   "dates": "Dec 4–6",
+   "time": "5–9:30 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "summary": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…",
+   "description": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias, radiant light displays, expanded live entertainment and performances and festive moments around every Garden corner.",
+   "url": "https://dbg.org/events/las-noches-de-las-luminarias/2026-12-04/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/Lumi-1.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-04",
+    "end": "2026-12-07",
+    "notes": "Hours: 5–9:30 PM\n\nExperience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…\n\nhttps://dbg.org/events/las-noches-de-las-luminarias/2026-12-04/"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
   },
   {
    "id": "ce6260e930",
@@ -2308,6 +2369,37 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "8e0a8a3177",
+   "series": "99534e90cf",
+   "title": "Las Noches de las Luminarias",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "startMinute": 1020,
+   "endMinute": 1290,
+   "dates": "Dec 11–13",
+   "time": "5–9:30 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "summary": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…",
+   "description": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias, radiant light displays, expanded live entertainment and performances and festive moments around every Garden corner.",
+   "url": "https://dbg.org/events/las-noches-de-las-luminarias/2026-12-11/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/Lumi-1.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-11",
+    "end": "2026-12-14",
+    "notes": "Hours: 5–9:30 PM\n\nExperience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…\n\nhttps://dbg.org/events/las-noches-de-las-luminarias/2026-12-11/"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
+  },
+  {
    "id": "ba4211db32",
    "series": "6becdd08a1",
    "title": "Christmas in the Park",
@@ -2396,6 +2488,37 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "b9c958057d",
+   "series": "99534e90cf",
+   "title": "Las Noches de las Luminarias",
+   "start": "2026-12-16",
+   "end": "2026-12-23",
+   "startMinute": 1020,
+   "endMinute": 1290,
+   "dates": "Dec 16–23",
+   "time": "5–9:30 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "summary": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…",
+   "description": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias, radiant light displays, expanded live entertainment and performances and festive moments around every Garden corner.",
+   "url": "https://dbg.org/events/las-noches-de-las-luminarias/2026-12-16/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/Lumi-1.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-16",
+    "end": "2026-12-24",
+    "notes": "Hours: 5–9:30 PM\n\nExperience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…\n\nhttps://dbg.org/events/las-noches-de-las-luminarias/2026-12-16/"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
+  },
+  {
    "id": "357b0ce552",
    "series": "2b89e34a34",
    "title": "Carefree Friday Farmers Market",
@@ -2480,6 +2603,37 @@
     "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "0b1f752cbd",
+   "series": "99534e90cf",
+   "title": "Las Noches de las Luminarias",
+   "start": "2026-12-26",
+   "end": "2027-01-03",
+   "startMinute": 1020,
+   "endMinute": 1290,
+   "dates": "Dec 26–Jan 3",
+   "time": "5–9:30 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "summary": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…",
+   "description": "Experience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias, radiant light displays, expanded live entertainment and performances and festive moments around every Garden corner.",
+   "url": "https://dbg.org/events/las-noches-de-las-luminarias/2026-12-26/",
+   "image": "https://dbg.org/wp-content/uploads/2026/08/Lumi-1.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-26",
+    "end": "2027-01-04",
+    "notes": "Hours: 5–9:30 PM\n\nExperience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…\n\nhttps://dbg.org/events/las-noches-de-las-luminarias/2026-12-26/"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
   },
   {
    "id": "174c3a494a",
@@ -2598,6 +2752,66 @@
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2610"
    },
    "firstSeen": "2026-10-17T14:17:13Z"
+  },
+  {
+   "id": "35108686b8",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Jan 15",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-15T16:00:00Z",
+    "end": "2027-01-15T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
+  },
+  {
+   "id": "dc7820b0c5",
+   "series": "a698eea40c",
+   "title": "Celebrate Sedona! January 15, 2027 / 4-6pm",
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "startMinute": 960,
+   "endMinute": 1080,
+   "dates": "Fri, Jan 15",
+   "time": "4–6 PM",
+   "place": "Sedona Arts Center",
+   "placeLines": "Sedona Arts Center\n15 Art Barn Rd, Sedona, AZ, 86336",
+   "region": "FARTHER",
+   "category": "COMMUNITY",
+   "summary": "December 4 th , 2026 4PM – 6PM! Live Music: TBD SAC Ceramics Department:  Demos and Ceramics Sale Exhibition Opening:  Vision and Sound Celebrate Sedona…",
+   "description": "December 4th, 2026 4PM – 6PM!\n\n• Live Music: TBD\n• SAC Ceramics Department: Demos and Ceramics Sale\n• Exhibition Opening: Vision and Sound\n\nCelebrate Sedona engages the local community while celebrating and featuring local and regional arts, food and drink! Held in the upper parking lot of Sedona Arts Center, Celebrate Sedona is a monthly celebration of the beauty and diversity of our community’s music, food, drink, and artistry..\n\nVision and Sound: An African American Experience\n\nBuckeye, Goodyear, Peoria, Sedona and Tolleson: January – March 2027\n\nSedona Exhibit: January 15 – February 28, 2027\n\nOriginally founded by Norma and Michael Cunningham in the West Valley of Phoenix, this visionary program was created to uplift and showcase the work of notable African-American artists from across Arizona, spanning a wide range of artistic genres and voices. In 2022, the program found a vibrant new home at Sedona Arts Center, where it has continued to grow into a dynamic and inclusive annual exhibition. Celebrating the creativity, resilience, and cultural contributions of African-American artists, the exhibit offers a platform for both established and emerging talent, fostering deeper understanding and appreciation through visual art, performance, and dialogue.\n\nIn 2020, a meaningful partnership was established with the ASU Center for the Study of Race & Democracy, adding academic depth and critical engagement to the program. This collaboration has since expanded to include an annual…",
+   "url": "https://sedonaartscenter.org/event/celebrate-sedona-january-15-2027-4-6pm/",
+   "image": "https://sedonaartscenter.org/wp-content/uploads/2026/06/celebratesedona26-768x538.jpg",
+   "imageCredit": "Sedona Arts Center",
+   "sources": [
+    "Sedona Arts Center"
+   ],
+   "map": "Sedona Arts Center, 15 Art Barn Rd, Sedona, AZ, 86336",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-15T23:00:00Z",
+    "end": "2027-01-16T01:00:00Z",
+    "notes": "December 4 th , 2026 4PM – 6PM! Live Music: TBD SAC Ceramics Department:  Demos and Ceramics Sale Exhibition Opening:  Vision and Sound Celebrate Sedona…\n\nhttps://sedonaartscenter.org/event/celebrate-sedona-january-15-2027-4-6pm/"
+   },
+   "firstSeen": "2026-10-23T15:47:42Z"
   },
   {
    "id": "07eb8f9228",
