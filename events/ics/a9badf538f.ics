@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a9badf538f-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261024T144008Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Santa Visits & Snow Flurries
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at
+  the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://chil
+ drensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/
+URL:https://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2
+ 026-12-05/
+END:VEVENT
+END:VCALENDAR

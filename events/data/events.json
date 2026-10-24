@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-23T15:47:42Z",
+ "generatedAt": "2026-10-24T14:40:08Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-23",
- "until": "2027-01-15",
+ "from": "2026-10-24",
+ "until": "2027-01-16",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 15
+   "events": 14
   },
   {
    "name": "azmatsuri.org",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 6
+   "events": 7
   },
   {
    "name": "City of Apache Junction",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 11
+   "events": 10
   },
   {
    "name": "Desert Botanical Garden",
@@ -115,7 +115,7 @@
   },
   {
    "name": "Discover Gilbert",
-   "events": 7
+   "events": 8
   },
   {
    "name": "Musical Instrument Museum",
@@ -127,7 +127,7 @@
   },
   {
    "name": "Town of Carefree",
-   "events": 19
+   "events": 17
   },
   {
    "name": "Willo Historic District",
@@ -135,66 +135,6 @@
   }
  ],
  "events": [
-  {
-   "id": "23b727a418",
-   "series": "6af21f453d",
-   "title": "Spooky Trees",
-   "start": "2026-10-21",
-   "end": "2026-10-25",
-   "startMinute": 540,
-   "endMinute": 960,
-   "dates": "Oct 21–25",
-   "time": "9 AM–4 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "Make a 3-dimensional spooky tree to celebrate this fall season.",
-   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-21/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-21",
-    "end": "2026-10-26",
-    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-21/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 2,
-   "changed": "2026-10-23T15:47:42Z"
-  },
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-21",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 21–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-21/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-21",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-21/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 7,
-   "changed": "2026-10-23T15:47:42Z"
-  },
   {
    "id": "785a01b935",
    "series": "2f34a24954",
@@ -257,33 +197,64 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
-   "id": "d0cc9ba6ea",
-   "series": "2b89e34a34",
-   "title": "Carefree Friday Farmers Market",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
+   "id": "23b727a418",
+   "series": "6af21f453d",
+   "title": "Spooky Trees",
+   "start": "2026-10-22",
+   "end": "2026-10-25",
    "startMinute": 540,
-   "endMinute": 780,
-   "dates": "Fri, Oct 23",
-   "time": "9 AM–1 PM",
-   "place": "Carefree",
-   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
-   "region": "NORTH",
-   "category": "FARMERS",
-   "summary": "Join us every Friday from 9 a.m.",
-   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
-   "url": "https://www.carefree.org/events",
+   "endMinute": 960,
+   "dates": "Oct 22–25",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Make a 3-dimensional spooky tree to celebrate this fall season.",
+   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-22/",
    "sources": [
-    "Town of Carefree"
+    "Children's Museum of Phoenix"
    ],
-   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
-    "allDay": false,
-    "start": "2026-10-23T16:00:00Z",
-    "end": "2026-10-23T20:00:00Z",
-    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+    "allDay": true,
+    "start": "2026-10-22",
+    "end": "2026-10-26",
+    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-22/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 3,
+   "changed": "2026-10-24T14:40:08Z"
+  },
+  {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-22",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 22–Nov 15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-22/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-22",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-22/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 8,
+   "changed": "2026-10-24T14:40:08Z"
   },
   {
    "id": "350297454a",
@@ -315,98 +286,6 @@
     "start": "2026-10-23",
     "end": "2026-10-26",
     "notes": "Hours: 5–9 PM\n\nThis fun and safe trick-or-treating event has something for everyone in the family to enjoy.\n\nhttps://azparenting.com/event/spooktacular-hot-air-balloon-festival-4/2026-10-23/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "3bacd0382d",
-   "series": "e0a7adffce",
-   "title": "YMCA x Carefree Trunk or Treat",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "startMinute": 1050,
-   "endMinute": 1170,
-   "dates": "Fri, Oct 23",
-   "time": "5:30–7:30 PM",
-   "place": "Carefree",
-   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Carefree is getting spooky again!",
-   "description": "Carefree is getting spooky again!\n\nLast year’s first YMCA Trunk or Treat in Carefree Town Center was a huge hit, and we’re so excited to welcome families back for an even another night of FREE Halloween fun!\n\nJoin us Friday, Oct. 23 at 5:30 PM along Easy Street and at the Sanderson Lincoln Pavilion for an evening packed with decorated trunks, trick-or-treating, music, games, face painting and plenty of festive surprises.\n\nCome dressed in your Halloween best...\n\n• Bring your costumed four-legged friends\n\n• Grab your candy bag and trick-or-treat through Town Center\n\n• Visit local vendors and nonprofits for games, treats and activities\n\n• Explore Carefree’s shops and restaurants while you’re here!\n\nWe can’t wait to see Carefree Town Center filled with costumes, candy and families once again. Join us for what promises to be our biggest and best Trunk or Treat yet!\n\nWant to host a trunk? If you’re interested in joining the fun and decorating a trunk, contact Deb with the YMCA at dcallison@vosymca.org.\n\nMore Info: https://visitcarefree.com/trunk-or-treat",
-   "url": "https://www.carefree.org/events",
-   "sources": [
-    "Town of Carefree"
-   ],
-   "map": "101 Easy St, Carefree, AZ 85377, USA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T00:30:00Z",
-    "end": "2026-10-24T02:30:00Z",
-    "notes": "Carefree is getting spooky again!\n\nhttps://www.carefree.org/events"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "5b35219d3f",
-   "series": "dbbd3432bd",
-   "title": "Movie Night at Aguila Park",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Fri, Oct 23",
-   "time": "6–9 PM",
-   "place": "Aguila Park - 7858 S. 35th Ave., Phoenix",
-   "placeLines": "Aguila Park - 7858 S. 35th Ave., Phoenix",
-   "region": "PHOENIX",
-   "category": "OUTDOOR",
-   "url": "https://www.phoenix.gov/calendar/parks-events/movie-night-at-aguila-park-.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Aguila Park - 7858 S. 35th Ave., Aguila Park - 7858 S. 35th Ave., Phoenix AZ, 85339",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T01:00:00Z",
-    "end": "2026-10-24T04:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/movie-night-at-aguila-park-.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "a45176f657",
-   "series": "9422f04259",
-   "title": "Tempe’s Family Boo Bash",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Fri, Oct 23",
-   "time": "6–10 PM",
-   "place": "Kiwanis Park, Tempe",
-   "placeLines": "Kiwanis Park, Tempe\n101 West Baseline Road, Tempe, AZ, 85283",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Get EEK-cited to gather for a bewitching good time!",
-   "description": "Get EEK-cited to gather for a bewitching good time! Be sure to join for free family fun. Activities include train rides, face painting, and a dance party. Dress up and take part in the costume contest and parade. Bring your blankets and settle in for the featured flick, Toy Story 5 (PG). 6pm to 10pm. Admission is free. Food and carnival games will be hosted by non-profits and will be available at a cost.",
-   "url": "https://azparenting.com/event/tempes-family-boo-bash-2/",
-   "image": "https://azparenting.com/wp-content/uploads/2024/09/2024-tempe-boo-bash-e1790959127617.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Kiwanis Park, 101 West Baseline Road, Tempe, AZ, 85283",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T01:00:00Z",
-    "end": "2026-10-24T05:00:00Z",
-    "notes": "Get EEK-cited to gather for a bewitching good time!\n\nhttps://azparenting.com/event/tempes-family-boo-bash-2/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
   },
@@ -1332,6 +1211,39 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "177a410524",
+   "series": "6fa3c0b398",
+   "title": "Gilbert Art Walk – Heritage District",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Sat, Nov 7",
+   "time": "8 AM–6 PM",
+   "place": "Gilbert Farmers Market",
+   "placeLines": "Gilbert Farmers Market",
+   "region": "EAST_VALLEY",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
+   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
+   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Gilbert Farmers Market, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T15:00:00Z",
+    "end": "2026-11-08T01:00:00Z",
+    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
+   },
+   "firstSeen": "2026-10-24T14:40:08Z"
+  },
+  {
    "id": "99b6513a40",
    "series": "ef953948b4",
    "title": "Litchfield Park Festival of Arts",
@@ -2212,6 +2124,38 @@
     "notes": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2586"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "a9badf538f",
+   "series": "c7036ed2a3",
+   "title": "Santa Visits & Snow Flurries",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Dec 5–6",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Get ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.",
+   "description": "Get ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th. Your little ones can share their wishes with Santa and dance under enchanting snow flurries in our Atrium!\n\nOur winter wonderland schedule of events includes:\n\nSanta Visits from 10:00am-12:00pm and 12:30pm-2:00pm each day\n\nSnow flurries will occur every 15 minutes throughout both days\n\nPlus hands-on holiday projects all day!\n\nThese activities and programs are free with paid Museum admission of $19.00 per person. Members and children under the age of 1 are free.\n\nGenerously supported by ACE",
+   "url": "https://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/",
+   "image": "https://childrensmuseumofphoenix.org/wp-content/uploads/2024/10/SantaSnow-logoSnow.png",
+   "imageCredit": "Children's Museum of Phoenix",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
+   },
+   "firstSeen": "2026-10-24T14:40:08Z"
   },
   {
    "id": "42a2ee0a33",
