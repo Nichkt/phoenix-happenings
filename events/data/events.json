@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-24T14:40:08Z",
+ "generatedAt": "2026-10-25T14:59:37Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-24",
- "until": "2027-01-16",
+ "from": "2026-10-25",
+ "until": "2027-01-17",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 14
+   "events": 10
   },
   {
    "name": "azmatsuri.org",
@@ -99,15 +99,15 @@
   },
   {
    "name": "City of Apache Junction",
-   "events": 8
-  },
-  {
-   "name": "City of Litchfield Park",
    "events": 6
   },
   {
+   "name": "City of Litchfield Park",
+   "events": 5
+  },
+  {
    "name": "City of Phoenix",
-   "events": 10
+   "events": 7
   },
   {
    "name": "Desert Botanical Garden",
@@ -131,7 +131,7 @@
   },
   {
    "name": "Willo Historic District",
-   "events": 2
+   "events": 1
   }
  ],
  "events": [
@@ -139,9 +139,9 @@
    "id": "785a01b935",
    "series": "2f34a24954",
    "title": "Old MacDonald’s Pumpkin Patch",
-   "start": "2026-10-22",
+   "start": "2026-10-23",
    "end": "2026-10-25",
-   "dates": "Oct 22–25",
+   "dates": "Oct 23–25",
    "place": "The Great Arizona Puppet Theater, Phoenix",
    "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
    "region": "PHOENIX",
@@ -150,7 +150,7 @@
    "free": false,
    "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
    "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
-   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-22/",
+   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-23/",
    "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
    "imageCredit": "Arizona Parenting",
    "sources": [
@@ -159,21 +159,23 @@
    "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-22",
+    "start": "2026-10-23",
     "end": "2026-10-26",
-    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-22/"
+    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-23/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-10-25T14:59:37Z"
   },
   {
    "id": "4c28f61745",
    "series": "46aaea80da",
    "title": "Strange Garden",
-   "start": "2026-10-22",
+   "start": "2026-10-23",
    "end": "2026-10-31",
    "startMinute": 420,
    "endMinute": 1320,
-   "dates": "Oct 22–31",
+   "dates": "Oct 23–31",
    "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
@@ -181,7 +183,7 @@
    "category": "COMMUNITY",
    "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
    "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-22/",
+   "url": "https://dbg.org/events/strange-garden/2026-10-23/",
    "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -190,21 +192,23 @@
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-22",
+    "start": "2026-10-23",
     "end": "2026-11-01",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-22/"
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-23/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-10-25T14:59:37Z"
   },
   {
    "id": "23b727a418",
    "series": "6af21f453d",
    "title": "Spooky Trees",
-   "start": "2026-10-22",
+   "start": "2026-10-23",
    "end": "2026-10-25",
    "startMinute": 540,
    "endMinute": 960,
-   "dates": "Oct 22–25",
+   "dates": "Oct 23–25",
    "time": "9 AM–4 PM",
    "place": "Children’s Museum of Phoenix",
    "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
@@ -212,49 +216,20 @@
    "category": "SEASONAL",
    "kids": true,
    "summary": "Make a 3-dimensional spooky tree to celebrate this fall season.",
-   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-22/",
+   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-23/",
    "sources": [
     "Children's Museum of Phoenix"
    ],
    "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-22",
+    "start": "2026-10-23",
     "end": "2026-10-26",
-    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-22/"
+    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-23/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 3,
-   "changed": "2026-10-24T14:40:08Z"
-  },
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-22",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 22–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-22/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-22",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-22/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 8,
-   "changed": "2026-10-24T14:40:08Z"
+   "revision": 4,
+   "changed": "2026-10-25T14:59:37Z"
   },
   {
    "id": "350297454a",
@@ -290,6 +265,35 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-23",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 23–Nov 15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-23/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-23",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-23/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 9,
+   "changed": "2026-10-25T14:59:37Z"
+  },
+  {
    "id": "ea4ab31d03",
    "series": "ca99b9e898",
    "title": "Día de los Muertos Festival",
@@ -316,366 +320,6 @@
     "start": "2026-10-24",
     "end": "2026-10-26",
     "notes": "Celebrate the rich traditions of Día de los Muertos at Mesa Arts Center’s 20th Annual Día de los Muertos Festival, bringing the community together for a…\n\nhttps://azparenting.com/event/dia-de-los-muertos-festival-3/2026-10-24/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "c79a222c08",
-   "series": "c87f9066d5",
-   "title": "Pumpkin Splash",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "dates": "Sat, Oct 24",
-   "place": "Stapley Aquatic Complex, Mesa",
-   "placeLines": "Stapley Aquatic Complex, Mesa\n3250 E Hermosa Vista Dr, Mesa, 85213",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "cost": "$10.00",
-   "free": false,
-   "summary": "Take a dip in a floating pumpkin patch and pick out your perfect pumpkin… right from the pool!",
-   "description": "Take a dip in a floating pumpkin patch and pick out your perfect pumpkin… right from the pool! Enjoyfun Halloween carnival games, prizes, and tons of festive fun for all ages. Don’t miss the lifeguard costume contest — you’ve never seen a superhero or spooky ghost quite like this!\n\nCome in costume, bring your swimsuit, and get ready for a Halloween celebration that’s anything but ordinary.",
-   "url": "https://azparenting.com/event/pumpkin-splash/2026-10-24/1/",
-   "image": "https://azparenting.com/wp-content/uploads/2024/09/pumpkin-dunk.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Stapley Aquatic Complex, 3250 E Hermosa Vista Dr, Mesa, 85213",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-24",
-    "end": "2026-10-25",
-    "notes": "Take a dip in a floating pumpkin patch and pick out your perfect pumpkin… right from the pool!\n\nhttps://azparenting.com/event/pumpkin-splash/2026-10-24/1/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "7f2761c374",
-   "series": "a4915b66a8",
-   "title": "Gilbert Art Walk – Verde at Cooley Station",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 540,
-   "endMinute": 780,
-   "dates": "Sat, Oct 24",
-   "time": "9 AM–1 PM",
-   "place": "Verde at Cooley Station",
-   "placeLines": "Verde at Cooley Station",
-   "region": "EAST_VALLEY",
-   "category": "ARTS",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
-   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
-   "url": "https://www.discovergilbert.com/events/gilbert-art-walk-verde-at-cooley-station/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Verde at Cooley Station, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T16:00:00Z",
-    "end": "2026-10-24T20:00:00Z",
-    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk-verde-at-cooley-station/"
-   },
-   "firstSeen": "2026-10-22T15:56:10Z"
-  },
-  {
-   "id": "19385dcf39",
-   "series": "c3a5585bdf",
-   "title": "Candie’s Halloween Character Carnival",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 600,
-   "endMinute": 780,
-   "dates": "Sat, Oct 24",
-   "time": "10 AM–1 PM",
-   "place": "Arizona Boardwalk",
-   "placeLines": "Arizona Boardwalk\n9500 E. Via de Ventura, AZ",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Experience a magical day of fun, fantasy, and Halloween cheer at the Family Fall Festival!",
-   "description": "Experience a magical day of fun, fantasy, and Halloween cheer at the Family Fall Festival! Enjoy exciting character meet-and-greets with Police Pup, Space Ranger, Jack Skellington, Cinderella, Spider Man, and many more magical guests! There will be whimsical face painting, a toddler soft play zone, trick-or-treating with local vendors (don’t forget your candy bags!), family-friendly music from a live DJ, unique shopping from amazing local vendors, and delicious food from local restaurants.",
-   "url": "https://azparenting.com/event/candies-halloween-character-carnival-2/",
-   "image": "https://azparenting.com/wp-content/uploads/2025/11/candies.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Arizona Boardwalk, 9500 E. Via de Ventura, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T17:00:00Z",
-    "end": "2026-10-24T20:00:00Z",
-    "notes": "Experience a magical day of fun, fantasy, and Halloween cheer at the Family Fall Festival!\n\nhttps://azparenting.com/event/candies-halloween-character-carnival-2/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "41dbc7a57b",
-   "series": "13e46bfffe",
-   "title": "Acacia Library Historic Preservation Celebration",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 660,
-   "endMinute": 720,
-   "dates": "Sat, Oct 24",
-   "time": "11 AM–12 PM",
-   "place": "Acacia Library",
-   "placeLines": "Acacia Library",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "url": "https://www.phoenix.gov/calendar/phoenix-public-library/acacia-library-historic-preservation-celebration.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Acacia Library, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T18:00:00Z",
-    "end": "2026-10-24T19:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/phoenix-public-library/acacia-library-historic-preservation-celebration.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "b97941bcbb",
-   "series": "51f5e00818",
-   "title": "Pumpkin Patch Plunge",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 660,
-   "endMinute": 750,
-   "dates": "Sat, Oct 24",
-   "time": "11 AM–12:30 PM",
-   "place": "Superstition Shadows Aquatic Center, Apache Junction",
-   "placeLines": "Superstition Shadows Aquatic Center, Apache Junction",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "summary": "Come plunge into our floating pumpkin patch at Superstition Shadows Aquatic Center.",
-   "description": "Come plunge into our floating pumpkin patch at Superstition Shadows Aquatic Center. Pick out the perfect pumpkin and carve or paint it onsite. Preregistration is required!\n\nCost to participate is $5 per child which includes your pumpkin. 1 pumpkin per child. Register down below! https://secure.rec1.com/AZ/apache-junction-parks-recreation-az/catalog?filter=c2VhcmNoPTQzMDI1NDM= https://www.apachejunctionaz.gov/calendar.aspx?EID=2615",
-   "url": "https://secure.rec1.com/AZ/apache-junction-parks-recreation-az/catalog?filter=c2VhcmNoPTQzMDI1NDM=",
-   "sources": [
-    "City of Apache Junction"
-   ],
-   "map": "Superstition Shadows Aquatic Center, Superstition Shadows Aquatic Center - 1091 W. Southern Ave Apache Junction AZ 85119",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T18:00:00Z",
-    "end": "2026-10-24T19:30:00Z",
-    "notes": "Come plunge into our floating pumpkin patch at Superstition Shadows Aquatic Center.\n\nhttps://secure.rec1.com/AZ/apache-junction-parks-recreation-az/catalog?filter=c2VhcmNoPTQzMDI1NDM="
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "054b8a2969",
-   "series": "afb97deaae",
-   "title": "Halloween Festival",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 960,
-   "endMinute": 1200,
-   "dates": "Sat, Oct 24",
-   "time": "4–8 PM",
-   "place": "Superstition Shadows Park, Apache Junction",
-   "placeLines": "Superstition Shadows Park, Apache Junction",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Halloween is coming up and the City of Apache Junction Parks and Recreation wants to make your night spook-ta-cular!",
-   "description": "Halloween is coming up and the City of Apache Junction Parks and Recreation wants to make your night spook-ta-cular! We will be hosting our annual Halloween Festival from 4:00-8:00pm on Saturday, October 24th, 2026. The event will take place at Superstition Shadows Park, located at 1091 W Southern Ave. This event is free to the community and is offered as a safe alternative to the traditional neighborhood trick or treating.\n\nThere will be lots of activities throughout the night for the whole family including costume contests, pumpkin carving contest, inflatables, kid's games, Trunk or Treat sponsored by Lost Dutchman Realty, and much more!\n\nLocal non-profit organizations will be on site hosting game and activities for families. This is a great way to let your kids have fun and support our community at the same time! https://www.apachejunctionaz.gov/calendar.aspx?EID=2555",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2555",
-   "sources": [
-    "City of Apache Junction"
-   ],
-   "map": "Superstition Shadows Park, Superstition Shadows Park - 1091 W. Southern Ave Apache Junction AZ 85119",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T23:00:00Z",
-    "end": "2026-10-25T03:00:00Z",
-    "notes": "Halloween is coming up and the City of Apache Junction Parks and Recreation wants to make your night spook-ta-cular!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2555"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "651b4a9e20",
-   "series": "5b9a707398",
-   "title": "Kids Club – Halloween Parade",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 990,
-   "endMinute": 1110,
-   "dates": "Sat, Oct 24",
-   "time": "4:30–6:30 PM",
-   "place": "Walton Park, Phoenix",
-   "placeLines": "Walton Park, Phoenix\n301 W. Holly St., Phoenix, AZ, 85003",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "More details to come",
-   "url": "https://willophx.com/event/kids-club-halloween-parade/",
-   "sources": [
-    "Willo Historic District"
-   ],
-   "map": "Walton Park, 301 W. Holly St., Phoenix, AZ, 85003",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-24T23:30:00Z",
-    "end": "2026-10-25T01:30:00Z",
-    "notes": "More details to come\n\nhttps://willophx.com/event/kids-club-halloween-parade/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "af30342edc",
-   "series": "759f1573d5",
-   "title": "Halloween Monster Bash",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 1020,
-   "endMinute": 1260,
-   "dates": "Sat, Oct 24",
-   "time": "5–9 PM",
-   "place": "peoria city hall campus",
-   "placeLines": "peoria city hall campus\n8401 W Monroe St, Peoria",
-   "region": "WEST_VALLEY",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "New Location for 2026 – City Hall Campus & Centennial Plaza (8401 W Monroe St, Peoria) You are invited to a spooktacular, fun-filled night full of tricks and…",
-   "description": "New Location for 2026 – City Hall Campus & Centennial Plaza (8401 W Monroe St, Peoria)\n\nYou are invited to a spooktacular, fun-filled night full of tricks and lots of treats, live entertainment, the annual costume contest, plus a variety of engaging activities for the whole family. Children and adults are encouraged to dress up for the judges to score on criteria such as scariest, funniest, cutest, and most original costumes. Trophies will be awarded to the first, second, and third-place winners in each age group. Be there or beware!",
-   "url": "https://azparenting.com/event/halloween-monster-bash-3/",
-   "image": "https://azparenting.com/wp-content/uploads/2024/09/Monster-Bash-Peoria-2024-e1759866482986.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "peoria city hall campus, 8401 W Monroe St, Peoria",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-25T00:00:00Z",
-    "end": "2026-10-25T04:00:00Z",
-    "notes": "New Location for 2026 – City Hall Campus & Centennial Plaza (8401 W Monroe St, Peoria) You are invited to a spooktacular, fun-filled night full of tricks and…\n\nhttps://azparenting.com/event/halloween-monster-bash-3/"
-   },
-   "firstSeen": "2026-10-23T15:47:42Z"
-  },
-  {
-   "id": "73e86398b0",
-   "series": "8601113277",
-   "title": "BooFest",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Sat, Oct 24",
-   "time": "6–9 PM",
-   "place": "Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Phoenix",
-   "placeLines": "Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/parks-events/boofest.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Paseo Highlands Park: 3435 W Pinnacle Peak Rd, Phoenix, AZ 85027",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-25T01:00:00Z",
-    "end": "2026-10-25T04:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/boofest.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "1535b69e07",
-   "series": "da5bd52641",
-   "title": "Paradise Valley Community Center: Trunk Or Treat",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 1080,
-   "endMinute": 1230,
-   "dates": "Sat, Oct 24",
-   "time": "6–8:30 PM",
-   "place": "Paradise Valley Community Center: 17402 N 40th St, Phoenix",
-   "placeLines": "Paradise Valley Community Center: 17402 N 40th St, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "url": "https://www.phoenix.gov/calendar/parks-events/paradise-valley-community-center--trunk-or-treat-.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Paradise Valley Community Center: 17402 N 40th St, Paradise Valley Community Center: 17402 N 40th St, Phoenix, AZ 85032",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-25T01:00:00Z",
-    "end": "2026-10-25T03:30:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/paradise-valley-community-center--trunk-or-treat-.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "b69b873744",
-   "series": "ceb76aae43",
-   "title": "Movie in the Park",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 1110,
-   "endMinute": 1439,
-   "dates": "Sat, Oct 24",
-   "time": "6:30–11:59 PM",
-   "place": "Jackie Robinson Ballfield, Litchfield Park",
-   "placeLines": "Jackie Robinson Ballfield, Litchfield Park",
-   "region": "WEST_VALLEY",
-   "category": "OUTDOOR",
-   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2975",
-   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2975",
-   "sources": [
-    "City of Litchfield Park"
-   ],
-   "map": "Jackie Robinson Ballfield, Jackie Robinson Ballfield 14451 W Camelback Rd Litchfield Park AZ 85340",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-25T01:30:00Z",
-    "end": "2026-10-25T06:59:00Z",
-    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2975\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2975"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "3cfada750f",
-   "series": "d0472dd08d",
-   "title": "Inspiration becomes Influence",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "startMinute": 1140,
-   "endMinute": 1260,
-   "dates": "Sat, Oct 24",
-   "time": "7–9 PM",
-   "place": "North Canyon High School, Phoenix",
-   "placeLines": "North Canyon High School, Phoenix\n1700 E Union Hills, Phoenix, 85024",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "cost": "$10.00",
-   "free": false,
-   "summary": "Explore some of the favorite pieces that reflect new inspiration in music.",
-   "description": "Explore some of the favorite pieces that reflect new inspiration in music. Hummel took a note from his mentor, Haydn, in composing the second truly chromatic trumpet concerto, Trumpet Concerto in E major. Brahms celebrated his honorary Doctorate in Music with his Academic Festival Overture, and Britten describes the inner workings of the orchestra in his Young Person’s Guide to the Orchestra. A great concert to kick off the season and recognize World Teachers Day!",
-   "url": "https://azparenting.com/event/inspiration-becomes-influence/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/08/inspiration.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "North Canyon High School, 1700 E Union Hills, Phoenix, 85024",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-25T02:00:00Z",
-    "end": "2026-10-25T04:00:00Z",
-    "notes": "Explore some of the favorite pieces that reflect new inspiration in music.\n\nhttps://azparenting.com/event/inspiration-becomes-influence/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
   },
@@ -998,6 +642,37 @@
     "notes": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-pumpkin-hunt-halloween-event.html"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "ee9140a565",
+   "series": "73fb583b5b",
+   "title": "Halloween Mocktail Night",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "startMinute": 840,
+   "endMinute": 1140,
+   "dates": "Fri, Oct 30",
+   "time": "2–7 PM",
+   "place": "Epicenter at Agritopia",
+   "placeLines": "Epicenter at Agritopia",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "A Spooky Sip for Every Story Peixoto is celebrating Halloween with a one-night-only Mocktail Night on Friday, Oct.",
+   "description": "A Spooky Sip for Every Story Peixoto is celebrating Halloween with a one-night-only Mocktail Night on Friday, Oct. 30 from 2 to 7 p.m. at the Gilbert location. Three specialty drinks inspired by beloved Halloween films will be available for one night only, plus a partnership with Mingle and Graze from 4 to 6 p.m.…",
+   "url": "https://www.discovergilbert.com/events/halloween-mocktail-night/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/10/6abaddd211bb00da113a7e1f_peixoto.avif",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Epicenter at Agritopia, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-30T21:00:00Z",
+    "end": "2026-10-31T02:00:00Z",
+    "notes": "A Spooky Sip for Every Story Peixoto is celebrating Halloween with a one-night-only Mocktail Night on Friday, Oct.\n\nhttps://www.discovergilbert.com/events/halloween-mocktail-night/"
+   },
+   "firstSeen": "2026-10-25T14:59:37Z"
   },
   {
    "id": "d56009feec",

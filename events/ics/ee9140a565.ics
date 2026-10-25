@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee9140a565-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261025T145937Z
+SEQUENCE:0
+DTSTART:20261030T210000Z
+DTEND:20261031T020000Z
+SUMMARY:Halloween Mocktail Night
+LOCATION:Epicenter at Agritopia\, AZ
+DESCRIPTION:A Spooky Sip for Every Story Peixoto is celebrating Halloween w
+ ith a one-night-only Mocktail Night on Friday\, Oct.\n\nhttps://www.discov
+ ergilbert.com/events/halloween-mocktail-night/
+URL:https://www.discovergilbert.com/events/halloween-mocktail-night/
+END:VEVENT
+END:VCALENDAR

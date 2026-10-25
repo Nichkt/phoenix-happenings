@@ -5,9 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:785a01b935-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261016T075853Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261022
+DTSTAMP:20261025T145937Z
+SEQUENCE:1
+LAST-MODIFIED:20261025T145937Z
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 TRANSP:TRANSPARENT
 SUMMARY:Old MacDonald’s Pumpkin Patch
@@ -15,7 +16,7 @@ LOCATION:The Great Arizona Puppet Theater\, 302 W. Latham St.\, Phoenix\, A
  Z
 DESCRIPTION:This high energy\, fun-filled Halloween show is great for the l
  ittle ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/
- 2026-10-22/
-URL:https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-22/
+ 2026-10-23/
+URL:https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-23/
 END:VEVENT
 END:VCALENDAR
