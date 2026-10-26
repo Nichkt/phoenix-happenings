@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f79ad25cf8-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261026T172817Z
+SEQUENCE:0
+DTSTART:20261107T170000Z
+DTEND:20261107T230000Z
+SUMMARY:S'edav Va'aki Museum at Local First Arizona's Fall Festival
+LOCATION:67 W Culver St\, Phoenix\, AZ 85003
+DESCRIPTION:https://www.phoenix.gov/calendar/sedav-vaaki-events/s-edav-va-a
+ ki-museum-at-local-first-arizona-s-fall-festival.html
+URL:https://www.phoenix.gov/calendar/sedav-vaaki-events/s-edav-va-aki-museu
+ m-at-local-first-arizona-s-fall-festival.html
+END:VEVENT
+END:VCALENDAR

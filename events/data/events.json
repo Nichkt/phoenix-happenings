@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-25T14:59:37Z",
+ "generatedAt": "2026-10-26T17:28:17Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-25",
- "until": "2027-01-17",
+ "from": "2026-10-26",
+ "until": "2027-01-18",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 10
+   "events": 7
   },
   {
    "name": "azmatsuri.org",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 7
+   "events": 6
   },
   {
    "name": "City of Apache Junction",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 7
+   "events": 8
   },
   {
    "name": "Desert Botanical Garden",
@@ -136,54 +136,22 @@
  ],
  "events": [
   {
-   "id": "785a01b935",
-   "series": "2f34a24954",
-   "title": "Old MacDonald’s Pumpkin Patch",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "dates": "Oct 23–25",
-   "place": "The Great Arizona Puppet Theater, Phoenix",
-   "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "cost": "$10.00 – $15.00",
-   "free": false,
-   "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
-   "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
-   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-23/",
-   "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-23",
-    "end": "2026-10-26",
-    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-23/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-25T14:59:37Z"
-  },
-  {
-   "id": "4c28f61745",
-   "series": "46aaea80da",
-   "title": "Strange Garden",
-   "start": "2026-10-23",
+   "id": "950f144c55",
+   "series": "45080a64b1",
+   "title": "Strange Garden Spooky Week",
+   "start": "2026-10-24",
    "end": "2026-10-31",
    "startMinute": 420,
    "endMinute": 1320,
-   "dates": "Oct 23–31",
+   "dates": "Oct 24–31",
    "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "region": "PHOENIX",
-   "category": "COMMUNITY",
+   "category": "SEASONAL",
    "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
    "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-23/",
+   "url": "https://dbg.org/events/strange-garden/2026-10-24/",
    "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -192,92 +160,26 @@
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-23",
+    "start": "2026-10-24",
     "end": "2026-11-01",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-23/"
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-24/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-25T14:59:37Z"
-  },
-  {
-   "id": "23b727a418",
-   "series": "6af21f453d",
-   "title": "Spooky Trees",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "startMinute": 540,
-   "endMinute": 960,
-   "dates": "Oct 23–25",
-   "time": "9 AM–4 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "Make a 3-dimensional spooky tree to celebrate this fall season.",
-   "url": "https://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-23/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-23",
-    "end": "2026-10-26",
-    "notes": "Hours: 9 AM–4 PM\n\nMake a 3-dimensional spooky tree to celebrate this fall season.\n\nhttps://childrensmuseumofphoenix.org/event/spooky-trees/2026-10-23/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 4,
-   "changed": "2026-10-25T14:59:37Z"
-  },
-  {
-   "id": "350297454a",
-   "series": "6c8dbc0e64",
-   "title": "Spooktacular Hot Air Balloon Festival",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "startMinute": 1020,
-   "endMinute": 1260,
-   "dates": "Oct 23–25",
-   "time": "5–9 PM",
-   "place": "Salt River Fields, Scottsdale",
-   "placeLines": "Salt River Fields, Scottsdale\n7555 N. Pima Rd., Scottsdale, AZ",
-   "region": "NORTH",
-   "category": "SEASONAL",
-   "cost": "Price varies",
-   "kids": true,
-   "summary": "This fun and safe trick-or-treating event has something for everyone in the family to enjoy.",
-   "description": "This fun and safe trick-or-treating event has something for everyone in the family to enjoy. Check out 20+ glowing hot air balloons, costume contests, 4000 pounds of candy for trick or treating, kids’ zone, live music, vendors and more. Ticket pricing varies by age and date, check online for more details. Children 2 years and under are free. Tethered hot air balloon rides are sold separately.",
-   "url": "https://azparenting.com/event/spooktacular-hot-air-balloon-festival-4/2026-10-23/",
-   "image": "https://azparenting.com/wp-content/uploads/2022/11/Spooktacular-Hot-Air-Balloon-Festival-e1759519360744.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Salt River Fields, 7555 N. Pima Rd., Scottsdale, AZ",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-23",
-    "end": "2026-10-26",
-    "notes": "Hours: 5–9 PM\n\nThis fun and safe trick-or-treating event has something for everyone in the family to enjoy.\n\nhttps://azparenting.com/event/spooktacular-hot-air-balloon-festival-4/2026-10-23/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-26T17:28:17Z"
   },
   {
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-23",
+   "start": "2026-10-24",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 23–Nov 15",
+   "dates": "Oct 24–Nov 15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-23/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-24/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -285,43 +187,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-23",
+    "start": "2026-10-24",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-23/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-24/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 9,
-   "changed": "2026-10-25T14:59:37Z"
-  },
-  {
-   "id": "ea4ab31d03",
-   "series": "ca99b9e898",
-   "title": "Día de los Muertos Festival",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "dates": "Oct 24–25",
-   "place": "Mesa Arts Center",
-   "placeLines": "Mesa Arts Center\n1 E. Main St., Mesa, AZ",
-   "region": "EAST_VALLEY",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate the rich traditions of Día de los Muertos at Mesa Arts Center’s 20th Annual Día de los Muertos Festival, bringing the community together for a…",
-   "description": "Celebrate the rich traditions of Día de los Muertos at Mesa Arts Center’s 20th Annual Día de los Muertos Festival, bringing the community together for a vibrant weekend of culture, music and family-friendly fun. Enjoy live entertainment, traditional dance, hands-on art activities, local artists and vendors, delicious food and cultural experiences for all ages. Families can also contribute photos and mementos to the Community Altar honoring loved ones who have passed. On Saturday evening, the celebration expands into a lively street party on First Avenue following the lighting of the altar, featuring free performances by QVLN (Quetzal Guerrero) at 7 p.m. , GRAMMY, and Latin GRAMMY Award-winning artist Lila Downs at 8 p.m.",
-   "url": "https://azparenting.com/event/dia-de-los-muertos-festival-3/2026-10-24/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/09/diadelosmuertos.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Mesa Arts Center, 1 E. Main St., Mesa, AZ",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-24",
-    "end": "2026-10-26",
-    "notes": "Celebrate the rich traditions of Día de los Muertos at Mesa Arts Center’s 20th Annual Día de los Muertos Festival, bringing the community together for a…\n\nhttps://azparenting.com/event/dia-de-los-muertos-festival-3/2026-10-24/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "revision": 10,
+   "changed": "2026-10-26T17:28:17Z"
   },
   {
    "id": "e4ac300b81",
@@ -979,6 +851,33 @@
     "notes": "Join as thousands of Arizonans gather once again to explore more than 250 Certified Local businesses, enjoy incredible food and drinks, connect with local…\n\nhttps://azparenting.com/event/certified-local-fall-festival/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "f79ad25cf8",
+   "series": "654f2109b9",
+   "title": "S'edav Va'aki Museum at Local First Arizona's Fall Festival",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sat, Nov 7",
+   "time": "10 AM–4 PM",
+   "place": "Phoenix",
+   "placeLines": "67 W Culver St, Phoenix, AZ 85003",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/sedav-vaaki-events/s-edav-va-aki-museum-at-local-first-arizona-s-fall-festival.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "67 W Culver St, Phoenix, AZ 85003",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-07T17:00:00Z",
+    "end": "2026-11-07T23:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/sedav-vaaki-events/s-edav-va-aki-museum-at-local-first-arizona-s-fall-festival.html"
+   },
+   "firstSeen": "2026-10-26T17:28:17Z"
   },
   {
    "id": "4deaffed3a",
