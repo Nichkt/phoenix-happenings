@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-26T17:28:17Z",
+ "generatedAt": "2026-10-27T16:44:43Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-26",
- "until": "2027-01-18",
+ "from": "2026-10-27",
+ "until": "2027-01-19",
  "regions": [
   {
    "id": "PHOENIX",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 6
+   "events": 5
   },
   {
    "name": "City of Apache Junction",
@@ -115,7 +115,7 @@
   },
   {
    "name": "Discover Gilbert",
-   "events": 8
+   "events": 9
   },
   {
    "name": "Musical Instrument Museum",
@@ -139,11 +139,11 @@
    "id": "950f144c55",
    "series": "45080a64b1",
    "title": "Strange Garden Spooky Week",
-   "start": "2026-10-24",
+   "start": "2026-10-25",
    "end": "2026-10-31",
    "startMinute": 420,
    "endMinute": 1320,
-   "dates": "Oct 24–31",
+   "dates": "Oct 25–31",
    "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
@@ -151,7 +151,7 @@
    "category": "SEASONAL",
    "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
    "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-24/",
+   "url": "https://dbg.org/events/strange-garden/2026-10-25/",
    "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -160,40 +160,13 @@
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-24",
+    "start": "2026-10-25",
     "end": "2026-11-01",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-24/"
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-25/"
    },
-   "firstSeen": "2026-10-26T17:28:17Z"
-  },
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-24",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 24–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-24/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-24",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-24/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 10,
-   "changed": "2026-10-26T17:28:17Z"
+   "firstSeen": "2026-10-26T17:28:17Z",
+   "revision": 1,
+   "changed": "2026-10-27T16:44:43Z"
   },
   {
    "id": "e4ac300b81",
@@ -222,37 +195,37 @@
     "end": "2026-11-02",
     "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-25/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-27T16:44:43Z"
   },
   {
-   "id": "b333f7e46f",
-   "series": "121f5ff5a9",
-   "title": "Pumpkin Whack",
-   "start": "2026-10-26",
-   "end": "2026-10-26",
-   "startMinute": 780,
-   "endMinute": 900,
-   "dates": "Mon, Oct 26",
-   "time": "1–3 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-25",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 25–Nov 15",
+   "time": "6–10 PM",
    "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "It’s National Pumpkin Day!",
-   "description": "It’s National Pumpkin Day! Stop by and work on some hand eye coordination by hitting some tees into pumpkins. It’s more satisfying than you would think!",
-   "url": "https://childrensmuseumofphoenix.org/event/pumpkin-whack-2/",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-25/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
    "sources": [
-    "Children's Museum of Phoenix"
+    "Desert Botanical Garden"
    ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
-    "allDay": false,
-    "start": "2026-10-26T20:00:00Z",
-    "end": "2026-10-26T22:00:00Z",
-    "notes": "It’s National Pumpkin Day!\n\nhttps://childrensmuseumofphoenix.org/event/pumpkin-whack-2/"
+    "allDay": true,
+    "start": "2026-10-25",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-25/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 11,
+   "changed": "2026-10-27T16:44:43Z"
   },
   {
    "id": "a1e90ad25c",
@@ -308,7 +281,8 @@
     "end": "2026-11-01",
     "notes": "Come put a spooky twist on one of our most loved programs!\n\nhttps://childrensmuseumofphoenix.org/event/spooky-slime/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-27T16:44:43Z"
   },
   {
    "id": "5dbaab90cd",
@@ -368,7 +342,8 @@
     "end": "2026-10-29T19:00:00Z",
     "notes": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!\n\nhttps://childrensmuseumofphoenix.org/event/krispie-pumpkins-cooking-class/"
    },
-   "firstSeen": "2026-10-21T16:00:17Z"
+   "firstSeen": "2026-10-21T16:00:17Z",
+   "keptSince": "2026-10-27T16:44:43Z"
   },
   {
    "id": "fe15620778",
@@ -575,6 +550,34 @@
     "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-10-30/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "d700416167",
+   "series": "0d065aecb8",
+   "title": "Santan Village Art & Wine Festival",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "dates": "Oct 31–Nov 1",
+   "place": "SanTan Village",
+   "placeLines": "SanTan Village",
+   "region": "EAST_VALLEY",
+   "category": "COMMUNITY",
+   "summary": "Celebrate the season with a weekend of art, flavor and community at the SanTan Village Art & Wine Festival.  Featuring a vibrant mix of talented creators, this…",
+   "description": "Celebrate the season with a weekend of art, flavor and community at the SanTan Village Art & Wine Festival. Featuring a vibrant mix of talented creators, this immersive event showcases Arizona’s finest wineries, artists and artisan food makers. Enjoy it all in the vibrant outdoor setting of SanTan Village, in partnership with Vermillion Promotions and…",
+   "url": "https://www.discovergilbert.com/events/santan-village-art-wine-festival-3/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/03/SanTan-Village-Art-Wine-Festival-Website-Image.png",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "SanTan Village, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-31",
+    "end": "2026-11-02",
+    "notes": "Celebrate the season with a weekend of art, flavor and community at the SanTan Village Art & Wine Festival.  Featuring a vibrant mix of talented creators, this…\n\nhttps://www.discovergilbert.com/events/santan-village-art-wine-festival-3/"
+   },
+   "firstSeen": "2026-10-27T16:44:43Z"
   },
   {
    "id": "b3bbd5b47c",
@@ -1618,7 +1621,8 @@
     "end": "2026-12-05T04:00:00Z",
     "notes": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month.\n\nhttps://childrensmuseumofphoenix.org/event/open-for-free-first-friday-night/2026-12-04/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-27T16:44:43Z"
   },
   {
    "id": "b6981ecd03",
@@ -1729,7 +1733,8 @@
     "end": "2026-12-07",
     "notes": "Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
    },
-   "firstSeen": "2026-10-24T14:40:08Z"
+   "firstSeen": "2026-10-24T14:40:08Z",
+   "keptSince": "2026-10-27T16:44:43Z"
   },
   {
    "id": "42a2ee0a33",

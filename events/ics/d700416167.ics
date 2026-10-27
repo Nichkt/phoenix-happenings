@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d700416167-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261027T164443Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:Santan Village Art & Wine Festival
+LOCATION:SanTan Village\, AZ
+DESCRIPTION:Celebrate the season with a weekend of art\, flavor and communi
+ ty at the SanTan Village Art & Wine Festival.  Featuring a vibrant mix of
+  talented creators\, this…\n\nhttps://www.discovergilbert.com/events/san
+ tan-village-art-wine-festival-3/
+URL:https://www.discovergilbert.com/events/santan-village-art-wine-festival
+ -3/
+END:VEVENT
+END:VCALENDAR
