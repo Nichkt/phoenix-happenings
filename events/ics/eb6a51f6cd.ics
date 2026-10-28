@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb6a51f6cd-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261028T171345Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Marigolds at the Market
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Ever wondered what those iconic flowers are at Día de los Muer
+ tos celebrations?\n\nhttps://childrensmuseumofphoenix.org/event/marigolds-
+ at-the-market/2026-11-01/
+URL:https://childrensmuseumofphoenix.org/event/marigolds-at-the-market/2026
+ -11-01/
+END:VEVENT
+END:VCALENDAR

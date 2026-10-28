@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-27T16:44:43Z",
+ "generatedAt": "2026-10-28T17:13:45Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-27",
- "until": "2027-01-19",
+ "from": "2026-10-28",
+ "until": "2027-01-20",
  "regions": [
   {
    "id": "PHOENIX",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 5
+   "events": 6
   },
   {
    "name": "City of Apache Junction",
@@ -127,7 +127,7 @@
   },
   {
    "name": "Town of Carefree",
-   "events": 17
+   "events": 16
   },
   {
    "name": "Willo Historic District",
@@ -139,11 +139,11 @@
    "id": "950f144c55",
    "series": "45080a64b1",
    "title": "Strange Garden Spooky Week",
-   "start": "2026-10-25",
+   "start": "2026-10-26",
    "end": "2026-10-31",
    "startMinute": 420,
    "endMinute": 1320,
-   "dates": "Oct 25–31",
+   "dates": "Oct 26–31",
    "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
@@ -151,7 +151,7 @@
    "category": "SEASONAL",
    "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
    "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-25/",
+   "url": "https://dbg.org/events/strange-garden/2026-10-26/",
    "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -160,23 +160,23 @@
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-25",
+    "start": "2026-10-26",
     "end": "2026-11-01",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-25/"
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-26/"
    },
    "firstSeen": "2026-10-26T17:28:17Z",
-   "revision": 1,
-   "changed": "2026-10-27T16:44:43Z"
+   "revision": 2,
+   "changed": "2026-10-28T17:13:45Z"
   },
   {
    "id": "e4ac300b81",
    "series": "09eea164b6",
    "title": "Dia de los Muertos Skulls",
-   "start": "2026-10-25",
+   "start": "2026-10-26",
    "end": "2026-11-01",
    "startMinute": 540,
    "endMinute": 960,
-   "dates": "Oct 25–Nov 1",
+   "dates": "Oct 26–Nov 1",
    "time": "9 AM–4 PM",
    "place": "Children’s Museum of Phoenix",
    "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
@@ -184,34 +184,35 @@
    "category": "CULTURAL",
    "kids": true,
    "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
-   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-25/",
+   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-26/",
    "sources": [
     "Children's Museum of Phoenix"
    ],
    "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-25",
+    "start": "2026-10-26",
     "end": "2026-11-02",
-    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-25/"
+    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-26/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-27T16:44:43Z"
+   "revision": 1,
+   "changed": "2026-10-28T17:13:45Z"
   },
   {
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-25",
+   "start": "2026-10-26",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 25–Nov 15",
+   "dates": "Oct 26–Nov 15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-25/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-26/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -219,42 +220,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-25",
+    "start": "2026-10-26",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-25/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-26/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 11,
-   "changed": "2026-10-27T16:44:43Z"
-  },
-  {
-   "id": "a1e90ad25c",
-   "series": "c6d2462fae",
-   "title": "Community Fest 2026",
-   "start": "2026-10-27",
-   "end": "2026-10-27",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Tue, Oct 27",
-   "time": "5–8 PM",
-   "place": "Cave Creek",
-   "placeLines": "6895 E Cave Creek Rd, Cave Creek, AZ 85331, USA",
-   "region": "NORTH",
-   "category": "COMMUNITY",
-   "summary": "The third annual Community Fest —a lively evening of music, food and philanthropy—will be held Tuesday, October 27, from 5–8 p.m.",
-   "description": "The third annual Community Fest—a lively evening of music, food and philanthropy—will be held Tuesday, October 27, from 5–8 p.m. outdoors at the iconic Harold’s Corral Stage ‘35. This year’s event promises an unforgettable night of entertainment, fellowship and support for local nonprofits.\n\nFor just $25 per ticket, guests will enjoy fiesta-style fare, live music by Mark Edward and the Usual Suspects, bourbon tasting by Carefree Spirits Distillery, tequila tasting by Bajarriba Tequila, plus games, raffles and more. More than half of every ticket sold will directly benefit participating nonprofits.\n\nThis year, an e-bike donated by Grind ‘n Gears Bike Shop in Carefree will also be auctioned off.\n\nCommunity Fest is presented by Darrell Doepke, REALTOR® with Compass Real Estate, along with Tech4Life, Harold’s Corral and The UPS Store in Carefree. Building on the success of previous years, which drew hundreds of attendees, other sponsors have joined the cause, including Karsten’s Ace Hardware, Desert State Roofing, Carefree Spirits Distillery, Desert Car Care, Black Mountain Cooling, Bajarriba Tequila, Black Mountain Guitar, Allstate Insurance, and the towns of Cave Creek and Carefree.\n\n“It just feels right to celebrate these nonprofits at a place like Harold’s, which has always stood for community involvement and generosity,” said Darrell Doepke, founder of Community Fest. “I’m thrilled we get to bring people together here again to support the organizations that make this…",
-   "url": "https://www.carefree.org/events",
-   "sources": [
-    "Town of Carefree"
-   ],
-   "map": "6895 E Cave Creek Rd, Cave Creek, AZ 85331, USA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-28T00:00:00Z",
-    "end": "2026-10-28T03:00:00Z",
-    "notes": "The third annual Community Fest —a lively evening of music, food and philanthropy—will be held Tuesday, October 27, from 5–8 p.m.\n\nhttps://www.carefree.org/events"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "revision": 12,
+   "changed": "2026-10-28T17:13:45Z"
   },
   {
    "id": "1c320eff7a",
@@ -281,8 +253,7 @@
     "end": "2026-11-01",
     "notes": "Come put a spooky twist on one of our most loved programs!\n\nhttps://childrensmuseumofphoenix.org/event/spooky-slime/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-27T16:44:43Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "5dbaab90cd",
@@ -342,8 +313,7 @@
     "end": "2026-10-29T19:00:00Z",
     "notes": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!\n\nhttps://childrensmuseumofphoenix.org/event/krispie-pumpkins-cooking-class/"
    },
-   "firstSeen": "2026-10-21T16:00:17Z",
-   "keptSince": "2026-10-27T16:44:43Z"
+   "firstSeen": "2026-10-21T16:00:17Z"
   },
   {
    "id": "fe15620778",
@@ -638,6 +608,33 @@
     "notes": "Get ready for a Halloween themed celebration with The LAB community!\n\nhttps://azparenting.com/event/halloween-at-the-lab/"
    },
    "firstSeen": "2026-10-17T01:21:45Z"
+  },
+  {
+   "id": "eb6a51f6cd",
+   "series": "d4ac9fe6d9",
+   "title": "Marigolds at the Market",
+   "start": "2026-11-01",
+   "end": "2026-11-02",
+   "dates": "Nov 1–2",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "NIGHT_MARKET",
+   "kids": true,
+   "summary": "Ever wondered what those iconic flowers are at Día de los Muertos celebrations?",
+   "description": "Ever wondered what those iconic flowers are at Día de los Muertos celebrations? Join us as we create a marigold flower and discover why these bright, cheerful flowers are an important symbol of remembrance and connection during Día de los Muertos. Create your own marigold-inspired craft to take home and learn about this meaningful celebration while building respect for different cultures and traditions.",
+   "url": "https://childrensmuseumofphoenix.org/event/marigolds-at-the-market/2026-11-01/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-01",
+    "end": "2026-11-03",
+    "notes": "Ever wondered what those iconic flowers are at Día de los Muertos celebrations?\n\nhttps://childrensmuseumofphoenix.org/event/marigolds-at-the-market/2026-11-01/"
+   },
+   "firstSeen": "2026-10-28T17:13:45Z"
   },
   {
    "id": "b3db9de565",
@@ -1621,8 +1618,7 @@
     "end": "2026-12-05T04:00:00Z",
     "notes": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month.\n\nhttps://childrensmuseumofphoenix.org/event/open-for-free-first-friday-night/2026-12-04/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-27T16:44:43Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "b6981ecd03",
@@ -1733,8 +1729,7 @@
     "end": "2026-12-07",
     "notes": "Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
    },
-   "firstSeen": "2026-10-24T14:40:08Z",
-   "keptSince": "2026-10-27T16:44:43Z"
+   "firstSeen": "2026-10-24T14:40:08Z"
   },
   {
    "id": "42a2ee0a33",
