@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2aa9ced97d-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261029T172844Z
+SEQUENCE:0
+DTSTART:20261120T200000Z
+DTEND:20261120T220000Z
+SUMMARY:Stories in the Spotlight: Featuring Daniel Vandever
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Come join award-winning Author Daniel Vandever as he reads his 
+ books We Weave\, Holden!\, Herizon\, and Fall in Line . Kids will be able 
+ to engage in scarf…\n\nhttps://childrensmuseumofphoenix.org/event/storie
+ s-in-the-spotlight-featuring-daniel-vandever/
+URL:https://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-fea
+ turing-daniel-vandever/
+END:VEVENT
+END:VCALENDAR

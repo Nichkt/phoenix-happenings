@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6b6e84ecda-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261029T172844Z
+SEQUENCE:0
+DTSTART:20261114T200000Z
+DTEND:20261114T220000Z
+SUMMARY:Impact Gymnastics – Arrowhead Grand Opening Celebration
+LOCATION:Impact Gymnastics – Arrowhead\, 8154 W. Bell Road\, Glendale\, 8
+ 5308
+DESCRIPTION:Arrowhead invites families to celebrate its grand opening in Gl
+ endale.\n\nhttps://azparenting.com/event/impact-gymnastics-arrowhead-grand
+ -opening-celebration/
+URL:https://azparenting.com/event/impact-gymnastics-arrowhead-grand-opening
+ -celebration/
+END:VEVENT
+END:VCALENDAR

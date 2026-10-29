@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-28T17:13:45Z",
+ "generatedAt": "2026-10-29T17:28:44Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-28",
- "until": "2027-01-20",
+ "from": "2026-10-29",
+ "until": "2027-01-21",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 7
+   "events": 8
   },
   {
    "name": "azmatsuri.org",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 6
+   "events": 8
   },
   {
    "name": "City of Apache Junction",
@@ -115,7 +115,7 @@
   },
   {
    "name": "Discover Gilbert",
-   "events": 9
+   "events": 10
   },
   {
    "name": "Musical Instrument Museum",
@@ -139,11 +139,11 @@
    "id": "950f144c55",
    "series": "45080a64b1",
    "title": "Strange Garden Spooky Week",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-10-31",
    "startMinute": 420,
    "endMinute": 1320,
-   "dates": "Oct 26–31",
+   "dates": "Oct 27–31",
    "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
@@ -151,7 +151,7 @@
    "category": "SEASONAL",
    "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
    "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-26/",
+   "url": "https://dbg.org/events/strange-garden/2026-10-27/",
    "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -160,23 +160,23 @@
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-01",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-26/"
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-27/"
    },
    "firstSeen": "2026-10-26T17:28:17Z",
-   "revision": 2,
-   "changed": "2026-10-28T17:13:45Z"
+   "revision": 3,
+   "changed": "2026-10-29T17:28:44Z"
   },
   {
    "id": "e4ac300b81",
    "series": "09eea164b6",
    "title": "Dia de los Muertos Skulls",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-11-01",
    "startMinute": 540,
    "endMinute": 960,
-   "dates": "Oct 26–Nov 1",
+   "dates": "Oct 27–Nov 1",
    "time": "9 AM–4 PM",
    "place": "Children’s Museum of Phoenix",
    "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
@@ -184,35 +184,35 @@
    "category": "CULTURAL",
    "kids": true,
    "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
-   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-26/",
+   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-27/",
    "sources": [
     "Children's Museum of Phoenix"
    ],
    "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-02",
-    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-26/"
+    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-28T17:13:45Z"
+   "revision": 2,
+   "changed": "2026-10-29T17:28:44Z"
   },
   {
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-26",
+   "start": "2026-10-27",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 26–Nov 15",
+   "dates": "Oct 27–Nov 15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-26/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-27/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -220,13 +220,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-26",
+    "start": "2026-10-27",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-26/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-27/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 12,
-   "changed": "2026-10-28T17:13:45Z"
+   "revision": 13,
+   "changed": "2026-10-29T17:28:44Z"
   },
   {
    "id": "1c320eff7a",
@@ -341,6 +341,37 @@
     "notes": "https://www.phoenix.gov/calendar/parks-events/halloween-carnival-at-playa-margarita-.html"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "44e1751f46",
+   "series": "3da1d0b6c8",
+   "title": "Halloween on the Green",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Thu, Oct 29",
+   "time": "5–8 PM",
+   "place": "Verde at Cooley Station",
+   "placeLines": "Verde at Cooley Station",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "One of our most anticipated events is back for another Spooktacular night!",
+   "description": "One of our most anticipated events is back for another Spooktacular night! On October 29th (new date) , enjoy a FREE family-friendly Halloween event with: A costume contest Pumpkin decorating “The Great Pumpkin Hunt” where you can get free prizes Photos ops and DJ The Bar Car will be open 5pm-7:30pm Halloween dance performance by…",
+   "url": "https://www.discovergilbert.com/events/mummies-night-out-264/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/09/824946274-1122886456858041-8734761442669986952-n.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Verde at Cooley Station, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-10-30T00:00:00Z",
+    "end": "2026-10-30T03:00:00Z",
+    "notes": "One of our most anticipated events is back for another Spooktacular night!\n\nhttps://www.discovergilbert.com/events/mummies-night-out-264/"
+   },
+   "firstSeen": "2026-10-29T17:28:44Z"
   },
   {
    "id": "67a3857016",
@@ -1118,6 +1149,39 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "6b6e84ecda",
+   "series": "04025c4451",
+   "title": "Impact Gymnastics – Arrowhead Grand Opening Celebration",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 780,
+   "endMinute": 900,
+   "dates": "Sat, Nov 14",
+   "time": "1–3 PM",
+   "place": "Impact Gymnastics – Arrowhead, Glendale",
+   "placeLines": "Impact Gymnastics – Arrowhead, Glendale\n8154 W. Bell Road, Glendale, 85308",
+   "region": "WEST_VALLEY",
+   "category": "FOOD",
+   "cost": "Free",
+   "free": true,
+   "summary": "Arrowhead invites families to celebrate its grand opening in Glendale.",
+   "description": "Arrowhead invites families to celebrate its grand opening in Glendale. The free, family-friendly celebration will feature open gym, a bounce house, a food truck, raffles and opportunities to meet the coaches, plus more.",
+   "url": "https://azparenting.com/event/impact-gymnastics-arrowhead-grand-opening-celebration/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/10/impact-arrowhead-sign-up.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Impact Gymnastics – Arrowhead, 8154 W. Bell Road, Glendale, 85308",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T20:00:00Z",
+    "end": "2026-11-14T22:00:00Z",
+    "notes": "Arrowhead invites families to celebrate its grand opening in Glendale.\n\nhttps://azparenting.com/event/impact-gymnastics-arrowhead-grand-opening-celebration/"
+   },
+   "firstSeen": "2026-10-29T17:28:44Z"
+  },
+  {
    "id": "4a3d44273f",
    "series": "ceb76aae43",
    "title": "Movie in the Park",
@@ -1172,7 +1236,38 @@
     "end": "2026-11-15T04:00:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2553"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-29T17:28:44Z"
+  },
+  {
+   "id": "6829442b28",
+   "series": "6511d3aa24",
+   "title": "Stories in the Spotlight: Featuring Brittany Pomales",
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "startMinute": 600,
+   "endMinute": 720,
+   "dates": "Mon, Nov 16",
+   "time": "10 AM–12 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "kids": true,
+   "summary": "What if everything that started with the letter P disappeared?",
+   "description": "What if everything that started with the letter P disappeared? Join author Brittany Pomales for a reading of her book It Started with a P, and discover creative ways to think outside the box. Inspired by the story, kids will design their own party piñata to take home in celebration of the King’s birthday.\n\nGenerously supported by",
+   "url": "https://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-brittany-pomales/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-16T17:00:00Z",
+    "end": "2026-11-16T19:00:00Z",
+    "notes": "What if everything that started with the letter P disappeared?\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-brittany-pomales/"
+   },
+   "firstSeen": "2026-10-29T17:28:44Z"
   },
   {
    "id": "b9c790c5d1",
@@ -1233,6 +1328,36 @@
     "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "2aa9ced97d",
+   "series": "425a8ee1de",
+   "title": "Stories in the Spotlight: Featuring Daniel Vandever",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "startMinute": 780,
+   "endMinute": 900,
+   "dates": "Fri, Nov 20",
+   "time": "1–3 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "kids": true,
+   "summary": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line . Kids will be able to engage in scarf…",
+   "description": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line. Kids will be able to engage in scarf activities and songs in celebration of Native American Heritage Month. Learn more about Daniel at southofsunrisecreative.com.\n\nGenerously supported by",
+   "url": "https://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-20T20:00:00Z",
+    "end": "2026-11-20T22:00:00Z",
+    "notes": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line . Kids will be able to engage in scarf…\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/"
+   },
+   "firstSeen": "2026-10-29T17:28:44Z"
   },
   {
    "id": "c0c81ee7ba",
@@ -1697,7 +1822,8 @@
     "end": "2026-12-06",
     "notes": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2586"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-29T17:28:44Z"
   },
   {
    "id": "a9badf538f",
@@ -1760,7 +1886,8 @@
     "end": "2026-12-06T03:00:00Z",
     "notes": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2556"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-29T17:28:44Z"
   },
   {
    "id": "332e9d27bb",
@@ -1972,7 +2099,8 @@
     "end": "2026-12-13T04:00:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2554"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-29T17:28:44Z"
   },
   {
    "id": "bb55259232",
@@ -2211,7 +2339,8 @@
     "end": "2027-01-03T02:00:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2594"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-10-29T17:28:44Z"
   },
   {
    "id": "9f07d37a4d",
@@ -2269,7 +2398,8 @@
     "end": "2027-01-10T03:30:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2610"
    },
-   "firstSeen": "2026-10-17T14:17:13Z"
+   "firstSeen": "2026-10-17T14:17:13Z",
+   "keptSince": "2026-10-29T17:28:44Z"
   },
   {
    "id": "35108686b8",

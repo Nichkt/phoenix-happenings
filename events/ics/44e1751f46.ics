@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:44e1751f46-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261029T172844Z
+SEQUENCE:0
+DTSTART:20261030T000000Z
+DTEND:20261030T030000Z
+SUMMARY:Halloween on the Green
+LOCATION:Verde at Cooley Station\, AZ
+DESCRIPTION:One of our most anticipated events is back for another Spooktac
+ ular night!\n\nhttps://www.discovergilbert.com/events/mummies-night-out-26
+ 4/
+URL:https://www.discovergilbert.com/events/mummies-night-out-264/
+END:VEVENT
+END:VCALENDAR

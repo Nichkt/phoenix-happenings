@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6829442b28-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261029T172844Z
+SEQUENCE:0
+DTSTART:20261116T170000Z
+DTEND:20261116T190000Z
+SUMMARY:Stories in the Spotlight: Featuring Brittany Pomales
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:What if everything that started with the letter P disappeared?\
+ n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-fea
+ turing-brittany-pomales/
+URL:https://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-fea
+ turing-brittany-pomales/
+END:VEVENT
+END:VCALENDAR
