@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-29T17:28:44Z",
+ "generatedAt": "2026-10-30T17:04:00Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-29",
- "until": "2027-01-21",
+ "from": "2026-10-30",
+ "until": "2027-01-22",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 8
+   "events": 7
   },
   {
    "name": "azmatsuri.org",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 8
+   "events": 7
   },
   {
    "name": "City of Apache Junction",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 8
+   "events": 6
   },
   {
    "name": "Desert Botanical Garden",
@@ -127,7 +127,7 @@
   },
   {
    "name": "Town of Carefree",
-   "events": 16
+   "events": 17
   },
   {
    "name": "Willo Historic District",
@@ -135,99 +135,6 @@
   }
  ],
  "events": [
-  {
-   "id": "950f144c55",
-   "series": "45080a64b1",
-   "title": "Strange Garden Spooky Week",
-   "start": "2026-10-27",
-   "end": "2026-10-31",
-   "startMinute": 420,
-   "endMinute": 1320,
-   "dates": "Oct 27–31",
-   "time": "7 AM–10 PM",
-   "place": "Desert Botanical Garden, Phoenix",
-   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
-   "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-27/",
-   "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-27",
-    "end": "2026-11-01",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-27/"
-   },
-   "firstSeen": "2026-10-26T17:28:17Z",
-   "revision": 3,
-   "changed": "2026-10-29T17:28:44Z"
-  },
-  {
-   "id": "e4ac300b81",
-   "series": "09eea164b6",
-   "title": "Dia de los Muertos Skulls",
-   "start": "2026-10-27",
-   "end": "2026-11-01",
-   "startMinute": 540,
-   "endMinute": 960,
-   "dates": "Oct 27–Nov 1",
-   "time": "9 AM–4 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "CULTURAL",
-   "kids": true,
-   "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
-   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-27/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-27",
-    "end": "2026-11-02",
-    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-27/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 2,
-   "changed": "2026-10-29T17:28:44Z"
-  },
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-27",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 27–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-27/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-27",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-27/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 13,
-   "changed": "2026-10-29T17:28:44Z"
-  },
   {
    "id": "1c320eff7a",
    "series": "5dd59d6055",
@@ -256,6 +163,99 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "950f144c55",
+   "series": "45080a64b1",
+   "title": "Strange Garden Spooky Week",
+   "start": "2026-10-28",
+   "end": "2026-10-31",
+   "startMinute": 420,
+   "endMinute": 1320,
+   "dates": "Oct 28–31",
+   "time": "7 AM–10 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
+   "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
+   "url": "https://dbg.org/events/strange-garden/2026-10-28/",
+   "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-28",
+    "end": "2026-11-01",
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-28/"
+   },
+   "firstSeen": "2026-10-26T17:28:17Z",
+   "revision": 4,
+   "changed": "2026-10-30T17:04:00Z"
+  },
+  {
+   "id": "e4ac300b81",
+   "series": "09eea164b6",
+   "title": "Dia de los Muertos Skulls",
+   "start": "2026-10-28",
+   "end": "2026-11-01",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Oct 28–Nov 1",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "CULTURAL",
+   "kids": true,
+   "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
+   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-28/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-28",
+    "end": "2026-11-02",
+    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-28/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 3,
+   "changed": "2026-10-30T17:04:00Z"
+  },
+  {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-28",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 28–Nov 15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-28/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-28",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-28/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 14,
+   "changed": "2026-10-30T17:04:00Z"
+  },
+  {
    "id": "5dbaab90cd",
    "series": "2f34a24954",
    "title": "Old MacDonald’s Pumpkin Patch",
@@ -282,156 +282,6 @@
     "start": "2026-10-29",
     "end": "2026-11-02",
     "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-29/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "83e3d0c6b8",
-   "series": "3bad533d2a",
-   "title": "Crispy Pumpkins",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Thu, Oct 29",
-   "time": "10 AM–12 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!",
-   "description": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!\n\nA limited number of guests will be admitted every 15-20 minutes. No sign-up required!\n\nAllergens:\nMilk, soy, gluten",
-   "url": "https://childrensmuseumofphoenix.org/event/krispie-pumpkins-cooking-class/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-29T17:00:00Z",
-    "end": "2026-10-29T19:00:00Z",
-    "notes": "Roll, shape, and decorate a delicious pumpkin-shaped crispy rice treat to celebrate the fall season!\n\nhttps://childrensmuseumofphoenix.org/event/krispie-pumpkins-cooking-class/"
-   },
-   "firstSeen": "2026-10-21T16:00:17Z"
-  },
-  {
-   "id": "fe15620778",
-   "series": "990366c0ce",
-   "title": "Halloween Carnival at Playa Margarita",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "startMinute": 1020,
-   "endMinute": 1140,
-   "dates": "Thu, Oct 29",
-   "time": "5–7 PM",
-   "place": "Playa Margarita Park: 3615 W Roeser Rd, Phoenix",
-   "placeLines": "Playa Margarita Park: 3615 W Roeser Rd, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/parks-events/halloween-carnival-at-playa-margarita-.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Playa Margarita Park: 3615 W Roeser Rd, Playa Margarita Park: 3615 W Roeser Rd, Phoenix, AZ 85041",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-30T00:00:00Z",
-    "end": "2026-10-30T02:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/halloween-carnival-at-playa-margarita-.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "44e1751f46",
-   "series": "3da1d0b6c8",
-   "title": "Halloween on the Green",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Thu, Oct 29",
-   "time": "5–8 PM",
-   "place": "Verde at Cooley Station",
-   "placeLines": "Verde at Cooley Station",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "summary": "One of our most anticipated events is back for another Spooktacular night!",
-   "description": "One of our most anticipated events is back for another Spooktacular night! On October 29th (new date) , enjoy a FREE family-friendly Halloween event with: A costume contest Pumpkin decorating “The Great Pumpkin Hunt” where you can get free prizes Photos ops and DJ The Bar Car will be open 5pm-7:30pm Halloween dance performance by…",
-   "url": "https://www.discovergilbert.com/events/mummies-night-out-264/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/09/824946274-1122886456858041-8734761442669986952-n.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Verde at Cooley Station, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-30T00:00:00Z",
-    "end": "2026-10-30T03:00:00Z",
-    "notes": "One of our most anticipated events is back for another Spooktacular night!\n\nhttps://www.discovergilbert.com/events/mummies-night-out-264/"
-   },
-   "firstSeen": "2026-10-29T17:28:44Z"
-  },
-  {
-   "id": "67a3857016",
-   "series": "44ee2e7c2d",
-   "title": "Longview Neighborhood Recreation Center: Trunk Or Treat",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "startMinute": 1080,
-   "endMinute": 1200,
-   "dates": "Thu, Oct 29",
-   "time": "6–8 PM",
-   "place": "Longview Neighborhood Recreation Center: 4040 N 14th St, Phoenix",
-   "placeLines": "Longview Neighborhood Recreation Center: 4040 N 14th St, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "url": "https://www.phoenix.gov/calendar/parks-events/longview-neighborhood-recreation-center--trunk-or-treat.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Longview Neighborhood Recreation Center: 4040 N 14th St, Longview Neighborhood Recreation Center: 4040 N 14th St, Phoenix, AZ 85014",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-30T01:00:00Z",
-    "end": "2026-10-30T03:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/longview-neighborhood-recreation-center--trunk-or-treat.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "f845b860b5",
-   "series": "2e2af05f83",
-   "title": "Gilbert Concert in the Park",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "startMinute": 1110,
-   "endMinute": 1230,
-   "dates": "Thu, Oct 29",
-   "time": "6:30–8:30 PM",
-   "place": "Heritage Park, Gilbert",
-   "placeLines": "Heritage Park, Gilbert\n45 W Page Ave, Gilbert, AZ, 85296",
-   "region": "EAST_VALLEY",
-   "category": "OUTDOOR",
-   "cost": "Free",
-   "free": true,
-   "summary": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…",
-   "description": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during our FREE Concerts in the Park. Our concert series showcases some of the Valley’s best bands performing a variety of music genres. Enjoy some tasty takeout from one of the many Gilbert…",
-   "url": "https://www.discovergilbert.com/events/gilbert-concert-in-the-park/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/08/638566502992500000.jpeg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert",
-    "Arizona Parenting"
-   ],
-   "map": "Heritage Park, 45 W Page Ave, Gilbert, AZ, 85296",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-30T01:30:00Z",
-    "end": "2026-10-30T03:30:00Z",
-    "notes": "Water Tower Plaza | Thursday Evenings In October | 6:30PM-8:30PM Grab a blanket or your favorite lawn chair and join us this Fall for live music during…\n\nhttps://www.discovergilbert.com/events/gilbert-concert-in-the-park/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
   },
@@ -1016,6 +866,10 @@
    "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
    "region": "NORTH",
    "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us for Carefree's 17th Annual Veterans Day Celebration!",
+   "description": "Join us for Carefree's 17th Annual Veterans Day Celebration!\n\nCome enjoy a special afternoon honoring the courage, sacrifice, and service of our nation's veterans. This cherished community tradition brings us together through inspiring stories, patriotic music, and heartfelt tributes.\n\n• 📅 Wednesday, November 11, 2026\n\n• ⏰ 3–5 p.m.\n\n• 📍 Sanderson Lincoln Pavilion, Carefree\n\n• 🎟️ Free & Open to the Public\n\n• 🎖️ Event Highlights:\n\nKeynote Speaker: Master Sgt. Scott Ford (Retired), U.S. Army Green Beret and Silver Star recipient\n\nSpecial Remarks: Chief Master Sgt. Chuck Lee (Retired), U.S. Air Force\n\nHonoring Veterans' Legacies: Local youth from Imprints of Honor\n\nLive Patriotic Music: Ava Cohen and the Main Event Swing Band\n\nA Moving Tribute: Military service hymns and a solemn performance of \"The Last Post\" and \"Taps\"\n\n❤️🤍💙 Come together as a community to show your gratitude, celebrate our veterans, and honor the generations who have served to protect our freedoms.\n\n🔗 Learn more: www.visitcarefree.com/veterans",
    "url": "https://www.carefree.org/events",
    "sources": [
     "Town of Carefree"
@@ -1025,9 +879,11 @@
     "allDay": false,
     "start": "2026-11-11T22:00:00Z",
     "end": "2026-11-12T00:00:00Z",
-    "notes": "https://www.carefree.org/events"
+    "notes": "Join us for Carefree's 17th Annual Veterans Day Celebration!\n\nhttps://www.carefree.org/events"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-10-30T17:04:00Z"
   },
   {
    "id": "e4f3eeb4ca",
@@ -1118,6 +974,39 @@
     "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-13/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "1fcea52ddc",
+   "series": "6fa3c0b398",
+   "title": "Gilbert Art Walk – Heritage District",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Sat, Nov 14",
+   "time": "8 AM–6 PM",
+   "place": "Gilbert Farmers Market",
+   "placeLines": "Gilbert Farmers Market",
+   "region": "EAST_VALLEY",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
+   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
+   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Gilbert Farmers Market, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T15:00:00Z",
+    "end": "2026-11-15T01:00:00Z",
+    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
+   },
+   "firstSeen": "2026-10-30T17:04:00Z"
   },
   {
    "id": "794a009396",
@@ -1236,8 +1125,7 @@
     "end": "2026-11-15T04:00:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2553"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "6829442b28",
@@ -1388,6 +1276,39 @@
     "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-20/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "d8ca8057ea",
+   "series": "b994592dc1",
+   "title": "Gilbert Days Parade",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 510,
+   "endMinute": 660,
+   "dates": "Sat, Nov 21",
+   "time": "8:30–11 AM",
+   "place": "Heritage District",
+   "placeLines": "Heritage District",
+   "region": "EAST_VALLEY",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us this year for the annual Gilbert Days Parade presented by Earnhardt Auto Centers, Felix Construction, and the Gilbert Half Marathon.",
+   "description": "Join us this year for the annual Gilbert Days Parade presented by Earnhardt Auto Centers, Felix Construction, and the Gilbert Half Marathon. We are excited to share with the community more than 80 amazing floats and parade entries for this year's event. Bring your family and friends to this nostalgic event that originated over 40 years ago to celebrate the paving of Gilbert Road. We welcome you to make this a family tradition, as many residents of multiple generations have.",
+   "url": "https://www.discovergilbert.com/events/gilbert-days-parade-2/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/10/638566547099130000-1.jpeg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Heritage District, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T15:30:00Z",
+    "end": "2026-11-21T18:00:00Z",
+    "notes": "Join us this year for the annual Gilbert Days Parade presented by Earnhardt Auto Centers, Felix Construction, and the Gilbert Half Marathon.\n\nhttps://www.discovergilbert.com/events/gilbert-days-parade-2/"
+   },
+   "firstSeen": "2026-10-30T17:04:00Z"
   },
   {
    "id": "edb3773b96",
@@ -1822,8 +1743,7 @@
     "end": "2026-12-06",
     "notes": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2586"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "a9badf538f",
@@ -1886,8 +1806,7 @@
     "end": "2026-12-06T03:00:00Z",
     "notes": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2556"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "332e9d27bb",
@@ -2099,8 +2018,7 @@
     "end": "2026-12-13T04:00:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2554"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "bb55259232",
@@ -2339,8 +2257,7 @@
     "end": "2027-01-03T02:00:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2594"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "9f07d37a4d",
@@ -2398,8 +2315,7 @@
     "end": "2027-01-10T03:30:00Z",
     "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2610"
    },
-   "firstSeen": "2026-10-17T14:17:13Z",
-   "keptSince": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-17T14:17:13Z"
   },
   {
    "id": "35108686b8",
@@ -2460,6 +2376,35 @@
     "notes": "December 4 th , 2026 4PM – 6PM! Live Music: TBD SAC Ceramics Department:  Demos and Ceramics Sale Exhibition Opening:  Vision and Sound Celebrate Sedona…\n\nhttps://sedonaartscenter.org/event/celebrate-sedona-january-15-2027-4-6pm/"
    },
    "firstSeen": "2026-10-23T15:47:42Z"
+  },
+  {
+   "id": "d3dece21c1",
+   "series": "2b89e34a34",
+   "title": "Carefree Friday Farmers Market",
+   "start": "2027-01-22",
+   "end": "2027-01-22",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Fri, Jan 22",
+   "time": "9 AM–1 PM",
+   "place": "Carefree",
+   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
+   "region": "NORTH",
+   "category": "FARMERS",
+   "summary": "Join us every Friday from 9 a.m.",
+   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
+   "url": "https://www.carefree.org/events",
+   "sources": [
+    "Town of Carefree"
+   ],
+   "map": "101 Easy St, Carefree, AZ 85377, USA",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-22T16:00:00Z",
+    "end": "2027-01-22T20:00:00Z",
+    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
+   },
+   "firstSeen": "2026-10-30T17:04:00Z"
   },
   {
    "id": "07eb8f9228",

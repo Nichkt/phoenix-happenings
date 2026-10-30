@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e4ac300b81-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261029T172844Z
-SEQUENCE:2
-LAST-MODIFIED:20261029T172844Z
-DTSTART;VALUE=DATE:20261027
+DTSTAMP:20261030T170400Z
+SEQUENCE:3
+LAST-MODIFIED:20261030T170400Z
+DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261102
 TRANSP:TRANSPARENT
 SUMMARY:Dia de los Muertos Skulls
@@ -17,8 +17,8 @@ LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
 DESCRIPTION:Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos 
  by tracing\, cutting\, and decorating a paper plate skull (calavera)!\n\nh
  ttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-1
- 0-27/
+ 0-28/
 URL:https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/20
- 26-10-27/
+ 26-10-28/
 END:VEVENT
 END:VCALENDAR

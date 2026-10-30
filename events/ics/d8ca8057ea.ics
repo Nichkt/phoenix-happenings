@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d8ca8057ea-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261030T170400Z
+SEQUENCE:0
+DTSTART:20261121T153000Z
+DTEND:20261121T180000Z
+SUMMARY:Gilbert Days Parade
+LOCATION:Heritage District\, AZ
+DESCRIPTION:Join us this year for the annual Gilbert Days Parade presented 
+ by Earnhardt Auto Centers\, Felix Construction\, and the Gilbert Half Mar
+ athon.\n\nhttps://www.discovergilbert.com/events/gilbert-days-parade-2/
+URL:https://www.discovergilbert.com/events/gilbert-days-parade-2/
+END:VEVENT
+END:VCALENDAR
