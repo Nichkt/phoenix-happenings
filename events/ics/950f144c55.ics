@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:950f144c55-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261030T170400Z
-SEQUENCE:4
-LAST-MODIFIED:20261030T170400Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261101
+DTSTAMP:20261031T161214Z
+SEQUENCE:5
+LAST-MODIFIED:20261031T161214Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
 TRANSP:TRANSPARENT
 SUMMARY:Strange Garden Spooky Week
 LOCATION:Desert Botanical Garden\, 1201 N. Galvin Parkway\, Phoenix\, AZ\, 
@@ -17,7 +17,7 @@ LOCATION:Desert Botanical Garden\, 1201 N. Galvin Parkway\, Phoenix\, AZ\,
 DESCRIPTION:Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures\, an
   adults-only Spirit Walk\, live music and a special costumed morning with 
  the dogs\, each bringing a different kind of…\n\nhttps://dbg.org/events/
- strange-garden/2026-10-28/
-URL:https://dbg.org/events/strange-garden/2026-10-28/
+ strange-garden/2026-10-29/
+URL:https://dbg.org/events/strange-garden/2026-10-29/
 END:VEVENT
 END:VCALENDAR

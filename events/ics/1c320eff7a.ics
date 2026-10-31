@@ -5,16 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1c320eff7a-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261016T075853Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261028
+DTSTAMP:20261031T161214Z
+SEQUENCE:1
+LAST-MODIFIED:20261031T161214Z
+DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Spooky Slime
 LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
  , 85034
-DESCRIPTION:Come put a spooky twist on one of our most loved programs!\n\nh
- ttps://childrensmuseumofphoenix.org/event/spooky-slime/
-URL:https://childrensmuseumofphoenix.org/event/spooky-slime/
+DESCRIPTION:Hours: 10 AM–12 PM\n\nCome put a spooky twist on one of our m
+ ost loved programs!\n\nhttps://childrensmuseumofphoenix.org/event/spooky-s
+ lime-2/
+URL:https://childrensmuseumofphoenix.org/event/spooky-slime-2/
 END:VEVENT
 END:VCALENDAR

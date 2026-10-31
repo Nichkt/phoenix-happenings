@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df0ff02db0-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261031T161214Z
+SEQUENCE:0
+DTSTART:20261121T230000Z
+DTEND:20261122T040000Z
+SUMMARY:Gilbert Days Festival
+DESCRIPTION:Join us at Gilbert Regional Park for live music\, food and drin
+ ks\, local shopping\, and family fun this fall!\n\nhttps://www.discovergil
+ bert.com/events/gilbert-days-festival-2/
+URL:https://www.discovergilbert.com/events/gilbert-days-festival-2/
+END:VEVENT
+END:VCALENDAR

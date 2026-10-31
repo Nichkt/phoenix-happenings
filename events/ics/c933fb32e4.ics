@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c933fb32e4-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261031T161214Z
+SEQUENCE:0
+DTSTART:20261101T160000Z
+DTEND:20261101T190000Z
+SUMMARY:Pumpkin Drop-Off
+LOCATION:Mountain View Community Garden | 9901 N. 7th Ave.\, AZ
+DESCRIPTION:https://www.phoenix.gov/calendar/public-works-events/pumpkin-dr
+ op-off.html
+URL:https://www.phoenix.gov/calendar/public-works-events/pumpkin-drop-off.h
+ tml
+END:VEVENT
+END:VCALENDAR

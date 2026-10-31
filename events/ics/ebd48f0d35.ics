@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ebd48f0d35-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261031T161214Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:Celebrate Mariachi
+LOCATION:Musical Instrument Museum\, 4725 E. Mayo Blvd.\, Phoenix\, AZ\, 85
+ 050
+DESCRIPTION:Hours: 9 AM–5 PM\n\nFeel the beat of Mexico through the melod
+ ies of mariachi!\n\nhttps://mim.org/events/celebrate-mariachi/2027-01-16/
+URL:https://mim.org/events/celebrate-mariachi/2027-01-16/
+END:VEVENT
+END:VCALENDAR

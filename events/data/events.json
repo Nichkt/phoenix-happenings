@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-30T17:04:00Z",
+ "generatedAt": "2026-10-31T16:12:14Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-30",
- "until": "2027-01-22",
+ "from": "2026-10-31",
+ "until": "2027-01-23",
  "regions": [
   {
    "id": "PHOENIX",
@@ -107,11 +107,11 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 6
+   "events": 7
   },
   {
    "name": "Desert Botanical Garden",
-   "events": 13
+   "events": 12
   },
   {
    "name": "Discover Gilbert",
@@ -119,7 +119,7 @@
   },
   {
    "name": "Musical Instrument Museum",
-   "events": 1
+   "events": 2
   },
   {
    "name": "Sedona Arts Center",
@@ -127,7 +127,7 @@
   },
   {
    "name": "Town of Carefree",
-   "events": 17
+   "events": 16
   },
   {
    "name": "Willo Historic District",
@@ -135,126 +135,6 @@
   }
  ],
  "events": [
-  {
-   "id": "1c320eff7a",
-   "series": "5dd59d6055",
-   "title": "Spooky Slime",
-   "start": "2026-10-28",
-   "end": "2026-10-31",
-   "dates": "Oct 28–31",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "Come put a spooky twist on one of our most loved programs!",
-   "description": "Come put a spooky twist on one of our most loved programs! Stop by and design, mix, and take home your own slime.",
-   "url": "https://childrensmuseumofphoenix.org/event/spooky-slime/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-28",
-    "end": "2026-11-01",
-    "notes": "Come put a spooky twist on one of our most loved programs!\n\nhttps://childrensmuseumofphoenix.org/event/spooky-slime/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "950f144c55",
-   "series": "45080a64b1",
-   "title": "Strange Garden Spooky Week",
-   "start": "2026-10-28",
-   "end": "2026-10-31",
-   "startMinute": 420,
-   "endMinute": 1320,
-   "dates": "Oct 28–31",
-   "time": "7 AM–10 PM",
-   "place": "Desert Botanical Garden, Phoenix",
-   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
-   "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-28/",
-   "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-28",
-    "end": "2026-11-01",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-28/"
-   },
-   "firstSeen": "2026-10-26T17:28:17Z",
-   "revision": 4,
-   "changed": "2026-10-30T17:04:00Z"
-  },
-  {
-   "id": "e4ac300b81",
-   "series": "09eea164b6",
-   "title": "Dia de los Muertos Skulls",
-   "start": "2026-10-28",
-   "end": "2026-11-01",
-   "startMinute": 540,
-   "endMinute": 960,
-   "dates": "Oct 28–Nov 1",
-   "time": "9 AM–4 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "CULTURAL",
-   "kids": true,
-   "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
-   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-28/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-28",
-    "end": "2026-11-02",
-    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-28/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 3,
-   "changed": "2026-10-30T17:04:00Z"
-  },
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-28",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 28–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-28/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-28",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-28/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 14,
-   "changed": "2026-10-30T17:04:00Z"
-  },
   {
    "id": "5dbaab90cd",
    "series": "2f34a24954",
@@ -286,121 +166,129 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
-   "id": "46e0504ea5",
-   "series": "2b89e34a34",
-   "title": "Carefree Friday Farmers Market",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "startMinute": 540,
-   "endMinute": 780,
-   "dates": "Fri, Oct 30",
-   "time": "9 AM–1 PM",
-   "place": "Carefree",
-   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
-   "region": "NORTH",
-   "category": "FARMERS",
-   "summary": "Join us every Friday from 9 a.m.",
-   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
-   "url": "https://www.carefree.org/events",
-   "sources": [
-    "Town of Carefree"
-   ],
-   "map": "101 Easy St, Carefree, AZ 85377, USA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-30T16:00:00Z",
-    "end": "2026-10-30T20:00:00Z",
-    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "6b8313f990",
-   "series": "f565843bad",
-   "title": "Itty Bitty Pumpkin Hunt Halloween Event",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "startMinute": 570,
-   "endMinute": 660,
-   "dates": "Fri, Oct 30",
-   "time": "9:30–11 AM",
-   "place": "Pecos Community Center - 17010 S 48th St, Phoenix",
-   "placeLines": "Pecos Community Center - 17010 S 48th St, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-pumpkin-hunt-halloween-event.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Pecos Community Center - 17010 S 48th St, Pecos Community Center - 17010 S 48th St, Phoenix, AZ 85048",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-30T16:30:00Z",
-    "end": "2026-10-30T18:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-pumpkin-hunt-halloween-event.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "ee9140a565",
-   "series": "73fb583b5b",
-   "title": "Halloween Mocktail Night",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "startMinute": 840,
-   "endMinute": 1140,
-   "dates": "Fri, Oct 30",
-   "time": "2–7 PM",
-   "place": "Epicenter at Agritopia",
-   "placeLines": "Epicenter at Agritopia",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "summary": "A Spooky Sip for Every Story Peixoto is celebrating Halloween with a one-night-only Mocktail Night on Friday, Oct.",
-   "description": "A Spooky Sip for Every Story Peixoto is celebrating Halloween with a one-night-only Mocktail Night on Friday, Oct. 30 from 2 to 7 p.m. at the Gilbert location. Three specialty drinks inspired by beloved Halloween films will be available for one night only, plus a partnership with Mingle and Graze from 4 to 6 p.m.…",
-   "url": "https://www.discovergilbert.com/events/halloween-mocktail-night/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/10/6abaddd211bb00da113a7e1f_peixoto.avif",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Epicenter at Agritopia, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-30T21:00:00Z",
-    "end": "2026-10-31T02:00:00Z",
-    "notes": "A Spooky Sip for Every Story Peixoto is celebrating Halloween with a one-night-only Mocktail Night on Friday, Oct.\n\nhttps://www.discovergilbert.com/events/halloween-mocktail-night/"
-   },
-   "firstSeen": "2026-10-25T14:59:37Z"
-  },
-  {
-   "id": "d56009feec",
-   "series": "66c2d43a55",
-   "title": "Music in the Garden: Concert Series",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Fri, Oct 30",
-   "time": "6–9 PM",
+   "id": "950f144c55",
+   "series": "45080a64b1",
+   "title": "Strange Garden Spooky Week",
+   "start": "2026-10-29",
+   "end": "2026-11-01",
+   "startMinute": 420,
+   "endMinute": 1320,
+   "dates": "Oct 29–Nov 1",
+   "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "region": "PHOENIX",
-   "category": "OUTDOOR",
-   "summary": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.",
-   "url": "https://dbg.org/events/music-in-the-garden-concert-series/2026-10-30/",
-   "image": "https://dbg.org/wp-content/uploads/2026/08/mig-trailside-tunes.jpg",
+   "category": "SEASONAL",
+   "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
+   "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
+   "url": "https://dbg.org/events/strange-garden/2026-10-29/",
+   "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
     "Desert Botanical Garden"
    ],
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
-    "allDay": false,
-    "start": "2026-10-31T01:00:00Z",
-    "end": "2026-10-31T04:00:00Z",
-    "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-10-30/"
+    "allDay": true,
+    "start": "2026-10-29",
+    "end": "2026-11-02",
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-29/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-26T17:28:17Z",
+   "revision": 5,
+   "changed": "2026-10-31T16:12:14Z"
+  },
+  {
+   "id": "e4ac300b81",
+   "series": "09eea164b6",
+   "title": "Dia de los Muertos Skulls",
+   "start": "2026-10-29",
+   "end": "2026-11-01",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Oct 29–Nov 1",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "CULTURAL",
+   "kids": true,
+   "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
+   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-29/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-29",
+    "end": "2026-11-02",
+    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-29/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 4,
+   "changed": "2026-10-31T16:12:14Z"
+  },
+  {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-29",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 29–Nov 15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-29/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-29",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-29/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 15,
+   "changed": "2026-10-31T16:12:14Z"
+  },
+  {
+   "id": "1c320eff7a",
+   "series": "5dd59d6055",
+   "title": "Spooky Slime",
+   "start": "2026-10-30",
+   "end": "2026-10-31",
+   "startMinute": 600,
+   "endMinute": 720,
+   "dates": "Oct 30–31",
+   "time": "10 AM–12 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Come put a spooky twist on one of our most loved programs!",
+   "description": "Come put a spooky twist on one of our most loved programs! Stop by and design, mix, and take home your own slime.",
+   "url": "https://childrensmuseumofphoenix.org/event/spooky-slime-2/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-10-30",
+    "end": "2026-11-01",
+    "notes": "Hours: 10 AM–12 PM\n\nCome put a spooky twist on one of our most loved programs!\n\nhttps://childrensmuseumofphoenix.org/event/spooky-slime-2/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-10-31T16:12:14Z"
   },
   {
    "id": "d700416167",
@@ -518,6 +406,33 @@
    "firstSeen": "2026-10-28T17:13:45Z"
   },
   {
+   "id": "c933fb32e4",
+   "series": "d5e7848cfe",
+   "title": "Pumpkin Drop-Off",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "startMinute": 540,
+   "endMinute": 720,
+   "dates": "Sun, Nov 1",
+   "time": "9 AM–12 PM",
+   "place": "Mountain View Community Garden | 9901 N. 7th Ave.",
+   "placeLines": "Mountain View Community Garden | 9901 N. 7th Ave.",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/public-works-events/pumpkin-drop-off.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Mountain View Community Garden | 9901 N. 7th Ave., AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-01T16:00:00Z",
+    "end": "2026-11-01T19:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/public-works-events/pumpkin-drop-off.html"
+   },
+   "firstSeen": "2026-10-31T16:12:14Z"
+  },
+  {
    "id": "b3db9de565",
    "series": "92bf9349ef",
    "title": "Agritopia Farm Night",
@@ -549,9 +464,9 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
-   "id": "b7e632a464",
-   "series": "d2d6d03431",
-   "title": "Día de Muertos Festival",
+   "id": "b30068cbb5",
+   "series": "6ef25ec731",
+   "title": "Día de Muertos Celebration",
    "start": "2026-11-06",
    "end": "2026-11-09",
    "startMinute": 420,
@@ -577,7 +492,7 @@
     "end": "2026-11-10",
     "notes": "Hours: 7 AM–10 PM\n\nFor four days, The Garden transforms into a vibrant celebration of memory and connection.\n\nhttps://dbg.org/events/dia-de-muertos-festival/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-31T16:12:14Z"
   },
   {
    "id": "52bdda4b66",
@@ -1365,6 +1280,35 @@
     "notes": "https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-portal-fest.html"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "df0ff02db0",
+   "series": "ae731d1c41",
+   "title": "Gilbert Days Festival",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 960,
+   "endMinute": 1260,
+   "dates": "Sat, Nov 21",
+   "time": "4–9 PM",
+   "region": "EAST_VALLEY",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join us at Gilbert Regional Park for live music, food and drinks, local shopping, and family fun this fall!",
+   "url": "https://www.discovergilbert.com/events/gilbert-days-festival-2/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/10/639210123467630000.jpeg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T23:00:00Z",
+    "end": "2026-11-22T04:00:00Z",
+    "notes": "Join us at Gilbert Regional Park for live music, food and drinks, local shopping, and family fun this fall!\n\nhttps://www.discovergilbert.com/events/gilbert-days-festival-2/"
+   },
+   "firstSeen": "2026-10-31T16:12:14Z"
   },
   {
    "id": "21ee67f5d7",
@@ -2200,6 +2144,37 @@
    "firstSeen": "2026-10-23T15:47:42Z"
   },
   {
+   "id": "89657258fa",
+   "series": "05eb5d23e0",
+   "title": "Live Christmas Trees Accepted For Composting (FREE!)",
+   "start": "2026-12-28",
+   "end": "2026-12-28",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Mon, Dec 28",
+   "time": "8 AM–6 PM",
+   "place": "Select city parks",
+   "placeLines": "Select city parks",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Drop off live Christmas trees, wreaths, and garlands to be composted.",
+   "description": "Drop off live Christmas trees, wreaths, and garlands to be composted. Please remove all lights and decorations!",
+   "url": "https://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free--.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Select city parks, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-28T15:00:00Z",
+    "end": "2026-12-29T01:00:00Z",
+    "notes": "Drop off live Christmas trees, wreaths, and garlands to be composted.\n\nhttps://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free--.html"
+   },
+   "firstSeen": "2026-10-31T16:12:14Z"
+  },
+  {
    "id": "174c3a494a",
    "series": "2b89e34a34",
    "title": "Carefree Friday Farmers Market",
@@ -2376,6 +2351,37 @@
     "notes": "December 4 th , 2026 4PM – 6PM! Live Music: TBD SAC Ceramics Department:  Demos and Ceramics Sale Exhibition Opening:  Vision and Sound Celebrate Sedona…\n\nhttps://sedonaartscenter.org/event/celebrate-sedona-january-15-2027-4-6pm/"
    },
    "firstSeen": "2026-10-23T15:47:42Z"
+  },
+  {
+   "id": "ebd48f0d35",
+   "series": "abf6e8470d",
+   "title": "Celebrate Mariachi",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "startMinute": 540,
+   "endMinute": 1020,
+   "dates": "Jan 16–17",
+   "time": "9 AM–5 PM",
+   "place": "Musical Instrument Museum, Phoenix",
+   "placeLines": "Musical Instrument Museum, Phoenix\n4725 E. Mayo Blvd., Phoenix, AZ, 85050",
+   "region": "PHOENIX",
+   "category": "CULTURAL",
+   "summary": "Feel the beat of Mexico through the melodies of mariachi!",
+   "description": "Feel the beat of Mexico through the melodies of mariachi! Explore the genre’s musical traditions through engaging cultural talks and powerful live performances.",
+   "url": "https://mim.org/events/celebrate-mariachi/2027-01-16/",
+   "image": "https://mim.org/wp-content/uploads/2026/10/events-celebrate-mariachi-2027_1-768x576.jpg",
+   "imageCredit": "Musical Instrument Museum",
+   "sources": [
+    "Musical Instrument Museum"
+   ],
+   "map": "Musical Instrument Museum, 4725 E. Mayo Blvd., Phoenix, AZ, 85050",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-16",
+    "end": "2027-01-18",
+    "notes": "Hours: 9 AM–5 PM\n\nFeel the beat of Mexico through the melodies of mariachi!\n\nhttps://mim.org/events/celebrate-mariachi/2027-01-16/"
+   },
+   "firstSeen": "2026-10-31T16:12:14Z"
   },
   {
    "id": "d3dece21c1",

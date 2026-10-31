@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89657258fa-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261031T161214Z
+SEQUENCE:0
+DTSTART:20261228T150000Z
+DTEND:20261229T010000Z
+SUMMARY:Live Christmas Trees Accepted For Composting (FREE!)
+LOCATION:Select city parks\, AZ
+DESCRIPTION:Drop off live Christmas trees\, wreaths\, and garlands to be co
+ mposted.\n\nhttps://www.phoenix.gov/calendar/public-works-events/live-chri
+ stmas-trees-accepted-for-composting--free--.html
+URL:https://www.phoenix.gov/calendar/public-works-events/live-christmas-tre
+ es-accepted-for-composting--free--.html
+END:VEVENT
+END:VCALENDAR
