@@ -4,13 +4,13 @@ PRODID:-//Nicholas Ton//Phoenix Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:b30068cbb5-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261031T161214Z
+UID:ce3de72799-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261101T171155Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261110
 TRANSP:TRANSPARENT
-SUMMARY:Día de Muertos Celebration
+SUMMARY:Día de Muertos at the Garden
 LOCATION:Desert Botanical Garden\, 1201 N. Galvin Parkway\, Phoenix\, AZ\, 
  85008
 DESCRIPTION:Hours: 7 AM–10 PM\n\nFor four days\, The Garden transforms in

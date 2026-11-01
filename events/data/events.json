@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-10-31T16:12:14Z",
+ "generatedAt": "2026-11-01T17:11:55Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-10-31",
- "until": "2027-01-23",
+ "from": "2026-11-01",
+ "until": "2027-01-24",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,15 +87,11 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 7
-  },
-  {
-   "name": "azmatsuri.org",
-   "events": 1
+   "events": 6
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 7
+   "events": 6
   },
   {
    "name": "City of Apache Junction",
@@ -107,7 +103,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 7
+   "events": 6
   },
   {
    "name": "Desert Botanical Garden",
@@ -115,7 +111,7 @@
   },
   {
    "name": "Discover Gilbert",
-   "events": 10
+   "events": 9
   },
   {
    "name": "Musical Instrument Museum",
@@ -139,9 +135,9 @@
    "id": "5dbaab90cd",
    "series": "2f34a24954",
    "title": "Old MacDonald’s Pumpkin Patch",
-   "start": "2026-10-29",
+   "start": "2026-10-30",
    "end": "2026-11-01",
-   "dates": "Oct 29–Nov 1",
+   "dates": "Oct 30–Nov 1",
    "place": "The Great Arizona Puppet Theater, Phoenix",
    "placeLines": "The Great Arizona Puppet Theater, Phoenix\n302 W. Latham St., Phoenix, AZ",
    "region": "PHOENIX",
@@ -150,7 +146,7 @@
    "free": false,
    "summary": "This high energy, fun-filled Halloween show is great for the little ones!",
    "description": "This high energy, fun-filled Halloween show is great for the little ones! See the silliness ensue when all the animals on Old MacDonald’s farm have to find a costume for Halloween. Told with hand puppets and rod puppets, there’s lots of sing-along fun.\n\n🐮Tickets must be purchased in advance: reserve here or call 602-262-2050.🐔",
-   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-29/",
+   "url": "https://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-30/",
    "image": "https://azparenting.com/wp-content/uploads/2024/08/smalloldmac2.jpg",
    "imageCredit": "Arizona Parenting",
    "sources": [
@@ -159,21 +155,23 @@
    "map": "The Great Arizona Puppet Theater, 302 W. Latham St., Phoenix, AZ",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-29",
+    "start": "2026-10-30",
     "end": "2026-11-02",
-    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-29/"
+    "notes": "This high energy, fun-filled Halloween show is great for the little ones!\n\nhttps://azparenting.com/event/old-macdonalds-pumpkin-patch/2026-10-30/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-01T17:11:55Z"
   },
   {
    "id": "950f144c55",
    "series": "45080a64b1",
    "title": "Strange Garden Spooky Week",
-   "start": "2026-10-29",
+   "start": "2026-10-30",
    "end": "2026-11-01",
    "startMinute": 420,
    "endMinute": 1320,
-   "dates": "Oct 29–Nov 1",
+   "dates": "Oct 30–Nov 1",
    "time": "7 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
@@ -181,7 +179,7 @@
    "category": "SEASONAL",
    "summary": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…",
    "description": "Discover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of strange to the Garden.",
-   "url": "https://dbg.org/events/strange-garden/2026-10-29/",
+   "url": "https://dbg.org/events/strange-garden-3/2026-10-30/",
    "image": "https://dbg.org/wp-content/uploads/2024/10/strange-garden-gallery.psd_0001_Strange-Garden-10.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -190,23 +188,23 @@
    "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-29",
+    "start": "2026-10-30",
     "end": "2026-11-02",
-    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden/2026-10-29/"
+    "notes": "Hours: 7 AM–10 PM\n\nDiscover family-friendly adventures, an adults-only Spirit Walk, live music and a special costumed morning with the dogs, each bringing a different kind of…\n\nhttps://dbg.org/events/strange-garden-3/2026-10-30/"
    },
    "firstSeen": "2026-10-26T17:28:17Z",
-   "revision": 5,
-   "changed": "2026-10-31T16:12:14Z"
+   "revision": 6,
+   "changed": "2026-11-01T17:11:55Z"
   },
   {
    "id": "e4ac300b81",
    "series": "09eea164b6",
    "title": "Dia de los Muertos Skulls",
-   "start": "2026-10-29",
+   "start": "2026-10-30",
    "end": "2026-11-01",
    "startMinute": 540,
    "endMinute": 960,
-   "dates": "Oct 29–Nov 1",
+   "dates": "Oct 30–Nov 1",
    "time": "9 AM–4 PM",
    "place": "Children’s Museum of Phoenix",
    "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
@@ -214,68 +212,7 @@
    "category": "CULTURAL",
    "kids": true,
    "summary": "Learn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!",
-   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-29/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-29",
-    "end": "2026-11-02",
-    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-29/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 4,
-   "changed": "2026-10-31T16:12:14Z"
-  },
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-10-29",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Oct 29–Nov 15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-29/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-29",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-29/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 15,
-   "changed": "2026-10-31T16:12:14Z"
-  },
-  {
-   "id": "1c320eff7a",
-   "series": "5dd59d6055",
-   "title": "Spooky Slime",
-   "start": "2026-10-30",
-   "end": "2026-10-31",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Oct 30–31",
-   "time": "10 AM–12 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "kids": true,
-   "summary": "Come put a spooky twist on one of our most loved programs!",
-   "description": "Come put a spooky twist on one of our most loved programs! Stop by and design, mix, and take home your own slime.",
-   "url": "https://childrensmuseumofphoenix.org/event/spooky-slime-2/",
+   "url": "https://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-30/",
    "sources": [
     "Children's Museum of Phoenix"
    ],
@@ -283,100 +220,41 @@
    "calendar": {
     "allDay": true,
     "start": "2026-10-30",
-    "end": "2026-11-01",
-    "notes": "Hours: 10 AM–12 PM\n\nCome put a spooky twist on one of our most loved programs!\n\nhttps://childrensmuseumofphoenix.org/event/spooky-slime-2/"
+    "end": "2026-11-02",
+    "notes": "Hours: 9 AM–4 PM\n\nLearn about and celebrate Dia de Muertos by tracing, cutting, and decorating a paper plate skull (calavera)!\n\nhttps://childrensmuseumofphoenix.org/event/dia-de-los-muertos-skulls/2026-10-30/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-10-31T16:12:14Z"
+   "revision": 5,
+   "changed": "2026-11-01T17:11:55Z"
   },
   {
-   "id": "d700416167",
-   "series": "0d065aecb8",
-   "title": "Santan Village Art & Wine Festival",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "dates": "Oct 31–Nov 1",
-   "place": "SanTan Village",
-   "placeLines": "SanTan Village",
-   "region": "EAST_VALLEY",
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-10-30",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Oct 30–Nov 15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
    "category": "COMMUNITY",
-   "summary": "Celebrate the season with a weekend of art, flavor and community at the SanTan Village Art & Wine Festival.  Featuring a vibrant mix of talented creators, this…",
-   "description": "Celebrate the season with a weekend of art, flavor and community at the SanTan Village Art & Wine Festival. Featuring a vibrant mix of talented creators, this immersive event showcases Arizona’s finest wineries, artists and artisan food makers. Enjoy it all in the vibrant outdoor setting of SanTan Village, in partnership with Vermillion Promotions and…",
-   "url": "https://www.discovergilbert.com/events/santan-village-art-wine-festival-3/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/03/SanTan-Village-Art-Wine-Festival-Website-Image.png",
-   "imageCredit": "Discover Gilbert",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-30/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
    "sources": [
-    "Discover Gilbert"
+    "Desert Botanical Garden"
    ],
-   "map": "SanTan Village, AZ",
    "calendar": {
     "allDay": true,
-    "start": "2026-10-31",
-    "end": "2026-11-02",
-    "notes": "Celebrate the season with a weekend of art, flavor and community at the SanTan Village Art & Wine Festival.  Featuring a vibrant mix of talented creators, this…\n\nhttps://www.discovergilbert.com/events/santan-village-art-wine-festival-3/"
+    "start": "2026-10-30",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-30/"
    },
-   "firstSeen": "2026-10-27T16:44:43Z"
-  },
-  {
-   "id": "b3bbd5b47c",
-   "series": "e8216fd741",
-   "title": "Itty Bitty Boo Bash",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Sat, Oct 31",
-   "time": "10 AM–12 PM",
-   "place": "South Mountain Community Center - 212 E. Alta Vista Rd, Phoenix",
-   "placeLines": "South Mountain Community Center - 212 E. Alta Vista Rd, Phoenix",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-boo-bash-.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "South Mountain Community Center - 212 E. Alta Vista Rd, South Mountain Community Center - 212 E. Alta Vista Rd, Phoenix, Arizona 85042",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-31T17:00:00Z",
-    "end": "2026-10-31T19:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/parks-events/itty-bitty-boo-bash-.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "a69fb6926e",
-   "series": "872cfbb490",
-   "title": "Halloween at the LAB",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "startMinute": 840,
-   "endMinute": 1080,
-   "dates": "Sat, Oct 31",
-   "time": "2–6 PM",
-   "place": "The LAB, Glendale",
-   "placeLines": "The LAB, Glendale\n6760 W Deer Valley Rd, Glendale, 85310",
-   "region": "WEST_VALLEY",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Get ready for a Halloween themed celebration with The LAB community!",
-   "description": "Get ready for a Halloween themed celebration with The LAB community! 🎃👻 Dress up in your favorite costume and join the fun at this FREE Trunk or Treat, featuring candy, games, and plenty of Halloween excitement for the whole family. It’s the perfect opportunity to gather with friends, meet other members of the community, and enjoy a festive evening filled with sweet treats, spooky fun, and Halloween spirit. Open to everyone, this is a celebration you won’t want to miss!",
-   "url": "https://azparenting.com/event/halloween-at-the-lab/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/10/labhalloween.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "The LAB, 6760 W Deer Valley Rd, Glendale, 85310",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-10-31T21:00:00Z",
-    "end": "2026-11-01T01:00:00Z",
-    "notes": "Get ready for a Halloween themed celebration with The LAB community!\n\nhttps://azparenting.com/event/halloween-at-the-lab/"
-   },
-   "firstSeen": "2026-10-17T01:21:45Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 16,
+   "changed": "2026-11-01T17:11:55Z"
   },
   {
    "id": "eb6a51f6cd",
@@ -464,9 +342,9 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
-   "id": "b30068cbb5",
-   "series": "6ef25ec731",
-   "title": "Día de Muertos Celebration",
+   "id": "ce3de72799",
+   "series": "4711d638a7",
+   "title": "Día de Muertos at the Garden",
    "start": "2026-11-06",
    "end": "2026-11-09",
    "startMinute": 420,
@@ -492,7 +370,7 @@
     "end": "2026-11-10",
     "notes": "Hours: 7 AM–10 PM\n\nFor four days, The Garden transforms into a vibrant celebration of memory and connection.\n\nhttps://dbg.org/events/dia-de-muertos-festival/"
    },
-   "firstSeen": "2026-10-31T16:12:14Z"
+   "firstSeen": "2026-11-01T17:11:55Z"
   },
   {
    "id": "52bdda4b66",
@@ -2411,27 +2289,6 @@
     "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
    },
    "firstSeen": "2026-10-30T17:04:00Z"
-  },
-  {
-   "id": "07eb8f9228",
-   "series": "a27c9f0ecb",
-   "title": "Arizona Matsuri",
-   "start": "2027-02-27",
-   "end": "2027-02-28",
-   "dates": "Feb 27–28",
-   "category": "CULTURAL",
-   "watch": true,
-   "url": "https://azmatsuri.org/",
-   "sources": [
-    "azmatsuri.org"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2027-02-27",
-    "end": "2027-03-01",
-    "notes": "https://azmatsuri.org/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
   }
  ],
  "gemini": {
