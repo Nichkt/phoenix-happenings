@@ -5,17 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:794a009396-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261016T075853Z
-SEQUENCE:0
+DTSTAMP:20261102T204948Z
+SEQUENCE:1
+LAST-MODIFIED:20261102T204948Z
 DTSTART:20261114T160000Z
 DTEND:20261114T200000Z
-SUMMARY:Nature Fest PHX 2026
-LOCATION:Rio Salado Habitat Restoration Area\, Rio Salado Habitat Restorati
- on Area\, Northeast 7th Avenue Trailhead 2801 S. 7th Avenue - Phoenix\, AZ
- \, 85003
-DESCRIPTION:https://www.phoenix.gov/calendar/environmental-programs-events/
- nature-fest-phx-2026.html
+SUMMARY:Nature Fest PHX
+LOCATION:Northeast 7th Avenue Trailhead\, Northeast 7th Avenue Trailhead 28
+ 01 S. 7th Avenue Phoenix\, AZ\, 85003
+DESCRIPTION:Join us for FREE family fun at Nature Fest 2026 on Saturday\, N
+ ovember 14 at the Rio Salado Habitat Restoration Area.\n\nhttps://www.phoe
+ nix.gov/calendar/environmental-programs-events/nature-fest-phx.html
 URL:https://www.phoenix.gov/calendar/environmental-programs-events/nature-f
- est-phx-2026.html
+ est-phx.html
 END:VEVENT
 END:VCALENDAR
