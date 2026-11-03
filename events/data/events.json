@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-02T20:49:48Z",
+ "generatedAt": "2026-11-03T18:29:53Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-02",
- "until": "2027-01-25",
+ "from": "2026-11-03",
+ "until": "2027-01-26",
  "regions": [
   {
    "id": "PHOENIX",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 5
+   "events": 4
   },
   {
    "name": "City of Apache Junction",
@@ -139,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-10-31",
+   "start": "2026-11-01",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Oct 31–Nov 15",
+   "dates": "Nov 1–15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-10-31/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-01/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -156,40 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-10-31",
+    "start": "2026-11-01",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-10-31/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-01/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 17,
-   "changed": "2026-11-02T20:49:48Z"
-  },
-  {
-   "id": "eb6a51f6cd",
-   "series": "d4ac9fe6d9",
-   "title": "Marigolds at the Market",
-   "start": "2026-11-01",
-   "end": "2026-11-02",
-   "dates": "Nov 1–2",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "NIGHT_MARKET",
-   "kids": true,
-   "summary": "Ever wondered what those iconic flowers are at Día de los Muertos celebrations?",
-   "description": "Ever wondered what those iconic flowers are at Día de los Muertos celebrations? Join us as we create a marigold flower and discover why these bright, cheerful flowers are an important symbol of remembrance and connection during Día de los Muertos. Create your own marigold-inspired craft to take home and learn about this meaningful celebration while building respect for different cultures and traditions.",
-   "url": "https://childrensmuseumofphoenix.org/event/marigolds-at-the-market/2026-11-01/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-01",
-    "end": "2026-11-03",
-    "notes": "Ever wondered what those iconic flowers are at Día de los Muertos celebrations?\n\nhttps://childrensmuseumofphoenix.org/event/marigolds-at-the-market/2026-11-01/"
-   },
-   "firstSeen": "2026-10-28T17:13:45Z"
+   "revision": 18,
+   "changed": "2026-11-03T18:29:53Z"
   },
   {
    "id": "b3db9de565",
