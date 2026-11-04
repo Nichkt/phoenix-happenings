@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-03T18:29:53Z",
+ "generatedAt": "2026-11-04T18:42:46Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-03",
- "until": "2027-01-26",
+ "from": "2026-11-04",
+ "until": "2027-01-27",
  "regions": [
   {
    "id": "PHOENIX",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 5
+   "events": 6
   },
   {
    "name": "Desert Botanical Garden",
@@ -139,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-01",
+   "start": "2026-11-02",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 1–15",
+   "dates": "Nov 2–15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-01/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-02/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -156,13 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-01",
+    "start": "2026-11-02",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-01/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-02/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 18,
-   "changed": "2026-11-03T18:29:53Z"
+   "revision": 19,
+   "changed": "2026-11-04T18:42:46Z"
   },
   {
    "id": "b3db9de565",
@@ -225,6 +225,35 @@
     "notes": "Hours: 7 AM–10 PM\n\nFor four days, The Garden transforms into a vibrant celebration of memory and connection.\n\nhttps://dbg.org/events/dia-de-muertos-festival/"
    },
    "firstSeen": "2026-11-01T17:11:55Z"
+  },
+  {
+   "id": "e004a6c7ad",
+   "series": "05eb5d23e0",
+   "title": "Live Christmas Trees Accepted For Composting (FREE)",
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "startMinute": 480,
+   "endMinute": 1080,
+   "dates": "Fri, Nov 6",
+   "time": "8 AM–6 PM",
+   "place": "Select City Parks",
+   "placeLines": "Select City Parks",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "url": "https://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free-8.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Select City Parks, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-06T15:00:00Z",
+    "end": "2026-11-07T01:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free-8.html"
+   },
+   "firstSeen": "2026-11-04T18:42:46Z"
   },
   {
    "id": "52bdda4b66",
@@ -1268,7 +1297,7 @@
    "region": "FARTHER",
    "category": "NIGHT_MARKET",
    "summary": "SAC Holiday Artist Market December 4 th – 6 th , 2026 Celebrate the season at Sedona Arts Center’s Holiday Artist Market!",
-   "description": "SAC Holiday Artist Market\n\nDecember 4th – 6th, 2026\n\nCelebrate the season at Sedona Arts Center’s Holiday Artist Market! This annual event features approximately 25 artists and makers from Sedona and around Arizona, offering unique, handmade gifts and fine art just in time for the holidays. From ceramics and jewelry to paintings, textiles, and more, the market showcases a curated collection of beautiful and functional creations perfect for gift giving.\n\nFeatured Artists: TBA\n\nOpening Reception:\nFriday, December 4, 2026 from 4–6pm\n\nMarket Hours:\nSaturday, December 5, 2026 | 10am – 4pm\nSunday, December 6, 2026 | 11am – 3pm",
+   "description": "SAC Holiday Artist Market\n\nDecember 4th – 6th, 2026\n\nCelebrate the season at Sedona Arts Center’s Holiday Artist Market! This annual event features approximately 25 artists and makers from Sedona and around Arizona, offering unique, handmade gifts and fine art just in time for the holidays. From ceramics and jewelry to paintings, textiles, and more, the market showcases a curated collection of beautiful and functional creations perfect for gift giving.\n\nFeatured Artists:\n\nHelen Bussey, Laurie Cameron, Margaret Connery, Patty Delp, Nita Duechle, Kim Fox, Chas Frisco, Sharon Gilham, CJ Henderson, Kelli Klymenko, Nancy Leight, Sonja London-Hall, Brenda Man-Fletcher, Denize Katzen, Mary Sobrina Kuder, Desi Sutera, Leanne Lee, Michael McCalla, Carol Meteyer, Kris Mills, Jennifer Myhre, Michele Naylor, Victoria Norton, Mika Okano, Melinda Rasch, Joan Roberts, Julia Robles, Sheena Sovich, Maria Testa, Philip Toroian, Debra Williamson, Iris Yang, and staff members of Sedona Arts Center.\n\nOpening Reception:\nFriday, December 4, 2026 from 4–6pm\n\nMarket Hours:\nSaturday, December 5, 2026 | 10am – 4pm\nSunday, December 6, 2026 | 11am – 3pm",
    "url": "https://sedonaartscenter.org/event/holiday-artist-market-2026/",
    "image": "https://sedonaartscenter.org/wp-content/uploads/2026/07/HolidayArtistMarket20x40-768x384.jpg",
    "imageCredit": "Sedona Arts Center",
@@ -1885,10 +1914,10 @@
    "series": "05eb5d23e0",
    "title": "Live Christmas Trees Accepted For Composting (FREE!)",
    "start": "2026-12-28",
-   "end": "2026-12-28",
+   "end": "2027-01-07",
    "startMinute": 480,
    "endMinute": 1080,
-   "dates": "Mon, Dec 28",
+   "dates": "Dec 28–Jan 7",
    "time": "8 AM–6 PM",
    "place": "Select city parks",
    "placeLines": "Select city parks",
@@ -1904,12 +1933,14 @@
    ],
    "map": "Select city parks, AZ",
    "calendar": {
-    "allDay": false,
-    "start": "2026-12-28T15:00:00Z",
-    "end": "2026-12-29T01:00:00Z",
-    "notes": "Drop off live Christmas trees, wreaths, and garlands to be composted.\n\nhttps://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free--.html"
+    "allDay": true,
+    "start": "2026-12-28",
+    "end": "2027-01-08",
+    "notes": "Hours: 8 AM–6 PM\n\nDrop off live Christmas trees, wreaths, and garlands to be composted.\n\nhttps://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free--.html"
    },
-   "firstSeen": "2026-10-31T16:12:14Z"
+   "firstSeen": "2026-10-31T16:12:14Z",
+   "revision": 1,
+   "changed": "2026-11-04T18:42:46Z"
   },
   {
    "id": "174c3a494a",

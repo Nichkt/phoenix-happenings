@@ -5,15 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:89657258fa-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261031T161214Z
-SEQUENCE:0
-DTSTART:20261228T150000Z
-DTEND:20261229T010000Z
+DTSTAMP:20261104T184246Z
+SEQUENCE:1
+LAST-MODIFIED:20261104T184246Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270108
+TRANSP:TRANSPARENT
 SUMMARY:Live Christmas Trees Accepted For Composting (FREE!)
 LOCATION:Select city parks\, AZ
-DESCRIPTION:Drop off live Christmas trees\, wreaths\, and garlands to be co
- mposted.\n\nhttps://www.phoenix.gov/calendar/public-works-events/live-chri
- stmas-trees-accepted-for-composting--free--.html
+DESCRIPTION:Hours: 8 AM–6 PM\n\nDrop off live Christmas trees\, wreaths\,
+  and garlands to be composted.\n\nhttps://www.phoenix.gov/calendar/public-
+ works-events/live-christmas-trees-accepted-for-composting--free--.html
 URL:https://www.phoenix.gov/calendar/public-works-events/live-christmas-tre
  es-accepted-for-composting--free--.html
 END:VEVENT
