@@ -3,7 +3,7 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-05T00:36:07Z",
+ "generatedAt": "2026-11-05T01:31:45Z",
  "since": "2026-10-16T07:58:53Z",
  "from": "2026-11-04",
  "until": "2027-01-27",
@@ -115,7 +115,7 @@
   },
   {
    "name": "Discover Gilbert",
-   "events": 9
+   "events": 8
   },
   {
    "name": "Musical Instrument Museum",
@@ -163,37 +163,6 @@
    "firstSeen": "2026-10-16T07:58:53Z",
    "revision": 19,
    "changed": "2026-11-04T18:42:46Z"
-  },
-  {
-   "id": "b3db9de565",
-   "series": "92bf9349ef",
-   "title": "Agritopia Farm Night",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Wed, Nov 4",
-   "time": "5–8 PM",
-   "place": "West side of Barnone at Agritopia",
-   "placeLines": "West side of Barnone at Agritopia",
-   "region": "EAST_VALLEY",
-   "category": "FARMERS",
-   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
-   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
-   "url": "https://www.discovergilbert.com/events/farm-night/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "West side of Barnone at Agritopia, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-05T00:00:00Z",
-    "end": "2026-11-05T03:00:00Z",
-    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "ce3de72799",
@@ -807,7 +776,8 @@
     "end": "2026-11-16T19:00:00Z",
     "notes": "What if everything that started with the letter P disappeared?\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-brittany-pomales/"
    },
-   "firstSeen": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-29T17:28:44Z",
+   "keptSince": "2026-11-05T01:31:45Z"
   },
   {
    "id": "b9c790c5d1",
@@ -897,7 +867,8 @@
     "end": "2026-11-20T22:00:00Z",
     "notes": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line . Kids will be able to engage in scarf…\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/"
    },
-   "firstSeen": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-29T17:28:44Z",
+   "keptSince": "2026-11-05T01:31:45Z"
   },
   {
    "id": "c0c81ee7ba",
@@ -1345,7 +1316,8 @@
     "end": "2026-12-05T04:00:00Z",
     "notes": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month.\n\nhttps://childrensmuseumofphoenix.org/event/open-for-free-first-friday-night/2026-12-04/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-11-05T01:31:45Z"
   },
   {
    "id": "b6981ecd03",
@@ -1456,7 +1428,8 @@
     "end": "2026-12-07",
     "notes": "Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
    },
-   "firstSeen": "2026-10-24T14:40:08Z"
+   "firstSeen": "2026-10-24T14:40:08Z",
+   "keptSince": "2026-11-05T01:31:45Z"
   },
   {
    "id": "42a2ee0a33",
