@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-05T01:31:45Z",
+ "generatedAt": "2026-11-05T18:51:27Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-04",
- "until": "2027-01-27",
+ "from": "2026-11-05",
+ "until": "2027-01-28",
  "regions": [
   {
    "id": "PHOENIX",
@@ -139,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-02",
+   "start": "2026-11-03",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 2–15",
+   "dates": "Nov 3–15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-02/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-03/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -156,13 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-02",
+    "start": "2026-11-03",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-02/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-03/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 19,
-   "changed": "2026-11-04T18:42:46Z"
+   "revision": 20,
+   "changed": "2026-11-05T18:51:27Z"
   },
   {
    "id": "ce3de72799",
@@ -314,7 +314,8 @@
     "end": "2026-11-09",
     "notes": "Hours: 9 AM–5 PM\n\nSpend a pleasant fall weekend in Litchfield Park enjoying fine art, live music, delicious food, and our Beer and Wine Garden!\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2955"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-11-05T18:51:27Z"
   },
   {
    "id": "21cf6a65aa",
@@ -717,7 +718,8 @@
     "end": "2026-11-15T06:59:00Z",
     "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2976\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2976"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-11-05T18:51:27Z"
   },
   {
    "id": "b7b9a352e5",
@@ -776,8 +778,7 @@
     "end": "2026-11-16T19:00:00Z",
     "notes": "What if everything that started with the letter P disappeared?\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-brittany-pomales/"
    },
-   "firstSeen": "2026-10-29T17:28:44Z",
-   "keptSince": "2026-11-05T01:31:45Z"
+   "firstSeen": "2026-10-29T17:28:44Z"
   },
   {
    "id": "b9c790c5d1",
@@ -867,8 +868,7 @@
     "end": "2026-11-20T22:00:00Z",
     "notes": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line . Kids will be able to engage in scarf…\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/"
    },
-   "firstSeen": "2026-10-29T17:28:44Z",
-   "keptSince": "2026-11-05T01:31:45Z"
+   "firstSeen": "2026-10-29T17:28:44Z"
   },
   {
    "id": "c0c81ee7ba",
@@ -960,7 +960,8 @@
     "end": "2026-11-21T19:00:00Z",
     "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2956\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2956"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-11-05T18:51:27Z"
   },
   {
    "id": "8bfb30e02c",
@@ -1316,8 +1317,7 @@
     "end": "2026-12-05T04:00:00Z",
     "notes": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month.\n\nhttps://childrensmuseumofphoenix.org/event/open-for-free-first-friday-night/2026-12-04/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-11-05T01:31:45Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "b6981ecd03",
@@ -1345,7 +1345,8 @@
     "end": "2026-12-05T03:00:00Z",
     "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2957\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2957"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-11-05T18:51:27Z"
   },
   {
    "id": "06032bfbfd",
@@ -1428,8 +1429,7 @@
     "end": "2026-12-07",
     "notes": "Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
    },
-   "firstSeen": "2026-10-24T14:40:08Z",
-   "keptSince": "2026-11-05T01:31:45Z"
+   "firstSeen": "2026-10-24T14:40:08Z"
   },
   {
    "id": "42a2ee0a33",
@@ -1643,7 +1643,8 @@
     "end": "2026-12-12T22:00:00Z",
     "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2958"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "keptSince": "2026-11-05T18:51:27Z"
   },
   {
    "id": "2707b84d5f",
