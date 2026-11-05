@@ -3,7 +3,7 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-04T18:42:46Z",
+ "generatedAt": "2026-11-05T00:00:26Z",
  "since": "2026-10-16T07:58:53Z",
  "from": "2026-11-04",
  "until": "2027-01-27",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 6
+   "events": 5
   },
   {
    "name": "Desert Botanical Garden",
@@ -225,35 +225,6 @@
     "notes": "Hours: 7 AM–10 PM\n\nFor four days, The Garden transforms into a vibrant celebration of memory and connection.\n\nhttps://dbg.org/events/dia-de-muertos-festival/"
    },
    "firstSeen": "2026-11-01T17:11:55Z"
-  },
-  {
-   "id": "e004a6c7ad",
-   "series": "05eb5d23e0",
-   "title": "Live Christmas Trees Accepted For Composting (FREE)",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 480,
-   "endMinute": 1080,
-   "dates": "Fri, Nov 6",
-   "time": "8 AM–6 PM",
-   "place": "Select City Parks",
-   "placeLines": "Select City Parks",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "url": "https://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free-8.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Select City Parks, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-06T15:00:00Z",
-    "end": "2026-11-07T01:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free-8.html"
-   },
-   "firstSeen": "2026-11-04T18:42:46Z"
   },
   {
    "id": "52bdda4b66",
@@ -1914,10 +1885,10 @@
    "series": "05eb5d23e0",
    "title": "Live Christmas Trees Accepted For Composting (FREE!)",
    "start": "2026-12-28",
-   "end": "2027-01-07",
+   "end": "2027-01-11",
    "startMinute": 480,
    "endMinute": 1080,
-   "dates": "Dec 28–Jan 7",
+   "dates": "Dec 28–Jan 11",
    "time": "8 AM–6 PM",
    "place": "Select city parks",
    "placeLines": "Select city parks",
@@ -1935,12 +1906,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-28",
-    "end": "2027-01-08",
+    "end": "2027-01-12",
     "notes": "Hours: 8 AM–6 PM\n\nDrop off live Christmas trees, wreaths, and garlands to be composted.\n\nhttps://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free--.html"
    },
    "firstSeen": "2026-10-31T16:12:14Z",
-   "revision": 1,
-   "changed": "2026-11-04T18:42:46Z"
+   "revision": 2,
+   "changed": "2026-11-05T00:00:26Z"
   },
   {
    "id": "174c3a494a",
