@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:380a54dbb6-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261107T165539Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261225
+TRANSP:TRANSPARENT
+SUMMARY:A Christmas Carol
+LOCATION:Hale Theatre\, AZ
+DESCRIPTION:A Hale Holiday Classic!\n\nhttps://www.discovergilbert.com/even
+ ts/a-christmas-carol-2/
+URL:https://www.discovergilbert.com/events/a-christmas-carol-2/
+END:VEVENT
+END:VCALENDAR

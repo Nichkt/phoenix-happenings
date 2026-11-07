@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-06T18:07:47Z",
+ "generatedAt": "2026-11-07T16:55:39Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-06",
- "until": "2027-01-29",
+ "from": "2026-11-07",
+ "until": "2027-01-30",
  "regions": [
   {
    "id": "PHOENIX",
@@ -111,7 +111,7 @@
   },
   {
    "name": "Desert Botanical Garden",
-   "events": 11
+   "events": 10
   },
   {
    "name": "Discover Gilbert",
@@ -119,7 +119,7 @@
   },
   {
    "name": "Musical Instrument Museum",
-   "events": 2
+   "events": 3
   },
   {
    "name": "Sedona Arts Center",
@@ -127,7 +127,7 @@
   },
   {
    "name": "Town of Carefree",
-   "events": 17
+   "events": 16
   },
   {
    "name": "Willo Historic District",
@@ -139,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-04",
+   "start": "2026-11-05",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 4–15",
+   "dates": "Nov 5–15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-04/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-05/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -156,13 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-04",
+    "start": "2026-11-05",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-04/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-05/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 21,
-   "changed": "2026-11-06T07:18:58Z"
+   "revision": 22,
+   "changed": "2026-11-07T16:55:39Z"
   },
   {
    "id": "ce3de72799",
@@ -194,98 +194,6 @@
     "notes": "Hours: 7 AM–10 PM\n\nFor four days, The Garden transforms into a vibrant celebration of memory and connection.\n\nhttps://dbg.org/events/dia-de-muertos-festival/"
    },
    "firstSeen": "2026-11-01T17:11:55Z"
-  },
-  {
-   "id": "52bdda4b66",
-   "series": "2b89e34a34",
-   "title": "Carefree Friday Farmers Market",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 540,
-   "endMinute": 780,
-   "dates": "Fri, Nov 6",
-   "time": "9 AM–1 PM",
-   "place": "Carefree",
-   "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
-   "region": "NORTH",
-   "category": "FARMERS",
-   "summary": "Join us every Friday from 9 a.m.",
-   "description": "Join us every Friday from 9 a.m. - 1 p.m. (October - May) in the Carefree Desert Gardens and Sanderson Lincoln Pavilion!\n\nMeet local vendors at our Carefree Town Center and explore a variety of fresh produce, delectable baked goods, handcrafted jewelry, unique home goods, and so much more.\n\nFrom your grocery essentials to several handmade accessories our Carefree Famers Market has it all!\n\nLearn More at https://www.instagram.com/carefreefarmersmarket?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
-   "url": "https://www.carefree.org/events",
-   "sources": [
-    "Town of Carefree"
-   ],
-   "map": "101 Easy St, Carefree, AZ 85377, USA",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-06T16:00:00Z",
-    "end": "2026-11-06T20:00:00Z",
-    "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "fa7eaeb788",
-   "series": "66c2d43a55",
-   "title": "Music in the Garden: Concert Series",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Fri, Nov 6",
-   "time": "6–9 PM",
-   "place": "Desert Botanical Garden, Phoenix",
-   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "region": "PHOENIX",
-   "category": "OUTDOOR",
-   "summary": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.",
-   "url": "https://dbg.org/events/music-in-the-garden-concert-series/2026-11-06/",
-   "image": "https://dbg.org/wp-content/uploads/2026/08/mig-trailside-tunes.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T04:00:00Z",
-    "notes": "Enjoy a stunning Garden backdrop as you experience local bands during this Friday’s night series.\n\nhttps://dbg.org/events/music-in-the-garden-concert-series/2026-11-06/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "177a410524",
-   "series": "6fa3c0b398",
-   "title": "Gilbert Art Walk – Heritage District",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 480,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 7",
-   "time": "8 AM–6 PM",
-   "place": "Gilbert Farmers Market",
-   "placeLines": "Gilbert Farmers Market",
-   "region": "EAST_VALLEY",
-   "category": "ARTS",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
-   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
-   "url": "https://www.discovergilbert.com/events/gilbert-art-walk/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Gilbert Farmers Market, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T15:00:00Z",
-    "end": "2026-11-08T01:00:00Z",
-    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
-   },
-   "firstSeen": "2026-10-24T14:40:08Z"
   },
   {
    "id": "99b6513a40",
@@ -1015,6 +923,34 @@
     "notes": "Join us at Gilbert Regional Park for live music, food and drinks, local shopping, and family fun this fall!\n\nhttps://www.discovergilbert.com/events/gilbert-days-festival-2/"
    },
    "firstSeen": "2026-10-31T16:12:14Z"
+  },
+  {
+   "id": "380a54dbb6",
+   "series": "e9b97951ee",
+   "title": "A Christmas Carol",
+   "start": "2026-11-27",
+   "end": "2026-12-24",
+   "dates": "Nov 27–Dec 24",
+   "place": "Hale Theatre",
+   "placeLines": "Hale Theatre",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "A Hale Holiday Classic!",
+   "description": "A Hale Holiday Classic! Our spectacular, heart-warming version of Dickens’ classic tale of redemption is magically brought to life on the Hale Stage.",
+   "url": "https://www.discovergilbert.com/events/a-christmas-carol-2/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/10/CC-SquareDates-Photo.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Hale Theatre, AZ",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-27",
+    "end": "2026-12-25",
+    "notes": "A Hale Holiday Classic!\n\nhttps://www.discovergilbert.com/events/a-christmas-carol-2/"
+   },
+   "firstSeen": "2026-11-07T16:55:39Z"
   },
   {
    "id": "21ee67f5d7",
@@ -2148,6 +2084,37 @@
     "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
    },
    "firstSeen": "2026-11-06T07:18:58Z"
+  },
+  {
+   "id": "71afa44805",
+   "series": "0ac5acea40",
+   "title": "Experience Korea",
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "startMinute": 540,
+   "endMinute": 1020,
+   "dates": "Sat, Jan 30",
+   "time": "9 AM–5 PM",
+   "place": "Musical Instrument Museum, Phoenix",
+   "placeLines": "Musical Instrument Museum, Phoenix\n4725 E. Mayo Blvd., Phoenix, AZ, 85050",
+   "region": "PHOENIX",
+   "category": "CULTURAL",
+   "summary": "Ring in Seollal, the Korean Lunar New Year, with the sounds of Korea!",
+   "description": "Ring in Seollal, the Korean Lunar New Year, with the sounds of Korea! Learn popular K-pop dances during live workshops, dance along at a high-energy K-pop DJ party, enjoy traditional drumming and dance performances, and more.",
+   "url": "https://mim.org/events/experience-korea/2027-01-30/",
+   "image": "https://mim.org/wp-content/uploads/2026/10/events_experience-korea-2027-768x576.jpg",
+   "imageCredit": "Musical Instrument Museum",
+   "sources": [
+    "Musical Instrument Museum"
+   ],
+   "map": "Musical Instrument Museum, 4725 E. Mayo Blvd., Phoenix, AZ, 85050",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-30T16:00:00Z",
+    "end": "2027-01-31T00:00:00Z",
+    "notes": "Ring in Seollal, the Korean Lunar New Year, with the sounds of Korea!\n\nhttps://mim.org/events/experience-korea/2027-01-30/"
+   },
+   "firstSeen": "2026-11-07T16:55:39Z"
   },
   {
    "id": "07eb8f9228",
