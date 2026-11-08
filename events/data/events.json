@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-07T16:55:39Z",
+ "generatedAt": "2026-11-08T17:08:13Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-07",
- "until": "2027-01-30",
+ "from": "2026-11-08",
+ "until": "2027-01-31",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 5
+   "events": 3
   },
   {
    "name": "azmatsuri.org",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 5
+   "events": 4
   },
   {
    "name": "Desert Botanical Garden",
@@ -128,42 +128,9 @@
   {
    "name": "Town of Carefree",
    "events": 16
-  },
-  {
-   "name": "Willo Historic District",
-   "events": 1
   }
  ],
  "events": [
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-11-05",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Nov 5–15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-05/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-05",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-05/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 22,
-   "changed": "2026-11-07T16:55:39Z"
-  },
   {
    "id": "ce3de72799",
    "series": "4711d638a7",
@@ -196,6 +163,35 @@
    "firstSeen": "2026-11-01T17:11:55Z"
   },
   {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-11-06",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Nov 6–15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-06/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-06",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-06/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 23,
+   "changed": "2026-11-08T17:08:13Z"
+  },
+  {
    "id": "99b6513a40",
    "series": "ef953948b4",
    "title": "Litchfield Park Festival of Arts",
@@ -223,158 +219,6 @@
     "notes": "Hours: 9 AM–5 PM\n\nSpend a pleasant fall weekend in Litchfield Park enjoying fine art, live music, delicious food, and our Beer and Wine Garden!\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2955"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "21cf6a65aa",
-   "series": "5e0c725576",
-   "title": "Certified Local Fall Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–4 PM",
-   "place": "Margaret T. Hance Park, Phoenix",
-   "placeLines": "Margaret T. Hance Park, Phoenix\n67 W Culver St, Phoenix, 85003",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join as thousands of Arizonans gather once again to explore more than 250 Certified Local businesses, enjoy incredible food and drinks, connect with local…",
-   "description": "Join as thousands of Arizonans gather once again to explore more than 250 Certified Local businesses, enjoy incredible food and drinks, connect with local businesses from across the state and kick off the holiday shopping season with gifts that have an Arizona story.",
-   "url": "https://azparenting.com/event/certified-local-fall-festival/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/09/localfallfestival.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Margaret T. Hance Park, 67 W Culver St, Phoenix, 85003",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T17:00:00Z",
-    "end": "2026-11-07T23:00:00Z",
-    "notes": "Join as thousands of Arizonans gather once again to explore more than 250 Certified Local businesses, enjoy incredible food and drinks, connect with local…\n\nhttps://azparenting.com/event/certified-local-fall-festival/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "f79ad25cf8",
-   "series": "654f2109b9",
-   "title": "S'edav Va'aki Museum at Local First Arizona's Fall Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–4 PM",
-   "place": "Phoenix",
-   "placeLines": "67 W Culver St, Phoenix, AZ 85003",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "url": "https://www.phoenix.gov/calendar/sedav-vaaki-events/s-edav-va-aki-museum-at-local-first-arizona-s-fall-festival.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "67 W Culver St, Phoenix, AZ 85003",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T17:00:00Z",
-    "end": "2026-11-07T23:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/sedav-vaaki-events/s-edav-va-aki-museum-at-local-first-arizona-s-fall-festival.html"
-   },
-   "firstSeen": "2026-10-26T17:28:17Z"
-  },
-  {
-   "id": "4deaffed3a",
-   "series": "d775f55436",
-   "title": "Willo Art Walk",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–4 PM",
-   "place": "Willo Neighborhood, Phoenix",
-   "placeLines": "Willo Neighborhood, Phoenix\n301 W. Holly Street, Phoenix, AZ, 85003",
-   "region": "PHOENIX",
-   "category": "ARTS",
-   "summary": "Please visit the Willo Art Walk website for more details.",
-   "description": "Please visit the Willo Art Walk website for more details.\n\nWillo Art Walk\n\nArt Walk map below.\n\nWAW Map 2026",
-   "url": "https://willophx.com/event/willo-art-walk/",
-   "sources": [
-    "Willo Historic District"
-   ],
-   "map": "Willo Neighborhood, 301 W. Holly Street, Phoenix, AZ, 85003",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T17:00:00Z",
-    "end": "2026-11-07T23:00:00Z",
-    "notes": "Please visit the Willo Art Walk website for more details.\n\nhttps://willophx.com/event/willo-art-walk/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "61c3c83adb",
-   "series": "8f3ba80772",
-   "title": "Bubble Fest",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "11 AM–2 PM",
-   "place": "Arizona Boardwalk",
-   "placeLines": "Arizona Boardwalk\n9500 E. Via de Ventura, AZ",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme.",
-   "description": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme. Millions of bubbles will fill the air while guests enjoy live bubble entertainment and a variety of hands-on stations, ride a bubble bike, create a take-home project, play in a HUGE Foam Zone, and more.",
-   "url": "https://azparenting.com/event/bubble-fest-4/2026-11-07/",
-   "image": "https://azparenting.com/wp-content/uploads/2024/10/bubblefest.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Arizona Boardwalk, 9500 E. Via de Ventura, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T18:00:00Z",
-    "end": "2026-11-07T21:00:00Z",
-    "notes": "This is a one-of-a-kind, multi-layered, highly interactive family event based around a bubble theme.\n\nhttps://azparenting.com/event/bubble-fest-4/2026-11-07/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "e5ced68295",
-   "series": "e4c40f1268",
-   "title": "Maltstock Beer Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 720,
-   "endMinute": 960,
-   "dates": "Sat, Nov 7",
-   "time": "12–4 PM",
-   "place": "Arizona Wilderness Gilbert Brewhub",
-   "placeLines": "Arizona Wilderness Gilbert Brewhub",
-   "region": "EAST_VALLEY",
-   "category": "COMMUNITY",
-   "summary": "Join us at the Arizona Wilderness Gilbert Brewpub on Saturday, November 7 from 12–4 PM for Maltstock!",
-   "description": "Join us at the Arizona Wilderness Gilbert Brewpub on Saturday, November 7 from 12–4 PM for Maltstock! A celebration of Arizona-grown grain, Arizona beer, and the people bringing flavor from the fields to your glass.",
-   "url": "https://www.discovergilbert.com/events/maltstock-beer-festival/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/10/Malstock.webp",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Arizona Wilderness Gilbert Brewhub, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T19:00:00Z",
-    "end": "2026-11-07T23:00:00Z",
-    "notes": "Join us at the Arizona Wilderness Gilbert Brewpub on Saturday, November 7 from 12–4 PM for Maltstock!\n\nhttps://www.discovergilbert.com/events/maltstock-beer-festival/"
-   },
-   "firstSeen": "2026-10-21T16:00:17Z"
   },
   {
    "id": "486256b57d",
@@ -1066,6 +910,38 @@
     "notes": "https://www.carefree.org/events"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "51203d96fd",
+   "series": "48f3d50d43",
+   "title": "Water Tower Holiday Lighting",
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "startMinute": 1080,
+   "endMinute": 1230,
+   "dates": "Mon, Nov 30",
+   "time": "6–8:30 PM",
+   "place": "Water Tower Plaza",
+   "placeLines": "Water Tower Plaza",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Enjoy an evening in Gilbert's Heritage District filled with twinkling lights, festive cheer, and fun activities for the kids and the adults.",
+   "url": "https://www.discovergilbert.com/events/water-tower-holiday-lighting/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/05/tower.jpeg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Water Tower Plaza, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-01T01:00:00Z",
+    "end": "2026-12-01T03:30:00Z",
+    "notes": "Enjoy an evening in Gilbert's Heritage District filled with twinkling lights, festive cheer, and fun activities for the kids and the adults.\n\nhttps://www.discovergilbert.com/events/water-tower-holiday-lighting/"
+   },
+   "firstSeen": "2026-11-08T17:08:13Z"
   },
   {
    "id": "c8c5dcb480",
@@ -2090,10 +1966,10 @@
    "series": "0ac5acea40",
    "title": "Experience Korea",
    "start": "2027-01-30",
-   "end": "2027-01-30",
+   "end": "2027-01-31",
    "startMinute": 540,
    "endMinute": 1020,
-   "dates": "Sat, Jan 30",
+   "dates": "Jan 30–31",
    "time": "9 AM–5 PM",
    "place": "Musical Instrument Museum, Phoenix",
    "placeLines": "Musical Instrument Museum, Phoenix\n4725 E. Mayo Blvd., Phoenix, AZ, 85050",
@@ -2109,12 +1985,14 @@
    ],
    "map": "Musical Instrument Museum, 4725 E. Mayo Blvd., Phoenix, AZ, 85050",
    "calendar": {
-    "allDay": false,
-    "start": "2027-01-30T16:00:00Z",
-    "end": "2027-01-31T00:00:00Z",
-    "notes": "Ring in Seollal, the Korean Lunar New Year, with the sounds of Korea!\n\nhttps://mim.org/events/experience-korea/2027-01-30/"
+    "allDay": true,
+    "start": "2027-01-30",
+    "end": "2027-02-01",
+    "notes": "Hours: 9 AM–5 PM\n\nRing in Seollal, the Korean Lunar New Year, with the sounds of Korea!\n\nhttps://mim.org/events/experience-korea/2027-01-30/"
    },
-   "firstSeen": "2026-11-07T16:55:39Z"
+   "firstSeen": "2026-11-07T16:55:39Z",
+   "revision": 1,
+   "changed": "2026-11-08T17:08:13Z"
   },
   {
    "id": "07eb8f9228",

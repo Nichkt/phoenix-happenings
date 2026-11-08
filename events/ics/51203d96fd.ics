@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:51203d96fd-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261108T170813Z
+SEQUENCE:0
+DTSTART:20261201T010000Z
+DTEND:20261201T033000Z
+SUMMARY:Water Tower Holiday Lighting
+LOCATION:Water Tower Plaza\, AZ
+DESCRIPTION:Enjoy an evening in Gilbert's Heritage District filled with twi
+ nkling lights\, festive cheer\, and fun activities for the kids and the ad
+ ults.\n\nhttps://www.discovergilbert.com/events/water-tower-holiday-lighti
+ ng/
+URL:https://www.discovergilbert.com/events/water-tower-holiday-lighting/
+END:VEVENT
+END:VCALENDAR

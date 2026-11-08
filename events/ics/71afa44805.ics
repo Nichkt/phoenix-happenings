@@ -5,15 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:71afa44805-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261107T165539Z
-SEQUENCE:0
-DTSTART:20270130T160000Z
-DTEND:20270131T000000Z
+DTSTAMP:20261108T170813Z
+SEQUENCE:1
+LAST-MODIFIED:20261108T170813Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
 SUMMARY:Experience Korea
 LOCATION:Musical Instrument Museum\, 4725 E. Mayo Blvd.\, Phoenix\, AZ\, 85
  050
-DESCRIPTION:Ring in Seollal\, the Korean Lunar New Year\, with the sounds o
- f Korea!\n\nhttps://mim.org/events/experience-korea/2027-01-30/
+DESCRIPTION:Hours: 9 AM–5 PM\n\nRing in Seollal\, the Korean Lunar New Ye
+ ar\, with the sounds of Korea!\n\nhttps://mim.org/events/experience-korea/
+ 2027-01-30/
 URL:https://mim.org/events/experience-korea/2027-01-30/
 END:VEVENT
 END:VCALENDAR
