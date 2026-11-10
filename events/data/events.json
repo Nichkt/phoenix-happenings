@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-09T21:29:53Z",
+ "generatedAt": "2026-11-10T18:43:45Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-09",
- "until": "2027-02-01",
+ "from": "2026-11-10",
+ "until": "2027-02-02",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 3
+   "events": 4
   },
   {
    "name": "azmatsuri.org",
@@ -111,11 +111,11 @@
   },
   {
    "name": "Desert Botanical Garden",
-   "events": 10
+   "events": 9
   },
   {
    "name": "Discover Gilbert",
-   "events": 8
+   "events": 9
   },
   {
    "name": "Musical Instrument Museum",
@@ -132,52 +132,19 @@
  ],
  "events": [
   {
-   "id": "ce3de72799",
-   "series": "4711d638a7",
-   "title": "Día de Muertos at the Garden",
-   "start": "2026-11-07",
-   "end": "2026-11-09",
-   "startMinute": 420,
-   "endMinute": 1320,
-   "dates": "Nov 7–9",
-   "time": "7 AM–10 PM",
-   "place": "Desert Botanical Garden, Phoenix",
-   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "region": "PHOENIX",
-   "category": "CULTURAL",
-   "summary": "For four days, The Garden transforms into a vibrant celebration of memory and connection.",
-   "description": "For four days, The Garden transforms into a vibrant celebration of memory and connection. Return to a world of bright marigolds, radiant altars and festive trails, where art and tradition come together under the desert sky.",
-   "url": "https://dbg.org/events/dia-de-muertos-festival/2026-11-07/",
-   "image": "https://dbg.org/wp-content/uploads/2026/07/dia-3-768x482.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-10",
-    "notes": "Hours: 7 AM–10 PM\n\nFor four days, The Garden transforms into a vibrant celebration of memory and connection.\n\nhttps://dbg.org/events/dia-de-muertos-festival/2026-11-07/"
-   },
-   "firstSeen": "2026-11-01T17:11:55Z",
-   "revision": 1,
-   "changed": "2026-11-09T21:29:53Z"
-  },
-  {
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-07",
+   "start": "2026-11-08",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 7–15",
+   "dates": "Nov 8–15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-07/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-08/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -185,13 +152,44 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-07",
+    "start": "2026-11-08",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-07/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-08/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 24,
-   "changed": "2026-11-09T21:29:53Z"
+   "revision": 25,
+   "changed": "2026-11-10T18:43:45Z"
+  },
+  {
+   "id": "fdca0b3224",
+   "series": "bb578e6d2d",
+   "title": "East Valley Veterans Parade",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "startMinute": 660,
+   "endMinute": 780,
+   "dates": "Wed, Nov 11",
+   "time": "11 AM–1 PM",
+   "place": "East Valley, Mesa",
+   "placeLines": "East Valley, Mesa\nP.O. Box 577, Mesa, 85211",
+   "region": "EAST_VALLEY",
+   "category": "COMMUNITY",
+   "summary": "This event provides an opportunity for the community to gather in honoring, thanking and celebrating local Veterans, active Military, and their families.",
+   "description": "This event provides an opportunity for the community to gather in honoring, thanking and celebrating local Veterans, active Military, and their families.\n\n🎖️The parade starts on Center Street and University and runs South on Center St. to 1st St.; it then turns west onto 1st St. and continues to Robson. The parade starts at 11am. It lasts approximately 1.5 hrs.",
+   "url": "https://azparenting.com/event/east-valley-veterans-parade/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/11/westvalleyveteran.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "East Valley, P.O. Box 577, Mesa, 85211",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-11T18:00:00Z",
+    "end": "2026-11-11T20:00:00Z",
+    "notes": "This event provides an opportunity for the community to gather in honoring, thanking and celebrating local Veterans, active Military, and their families.\n\nhttps://azparenting.com/event/east-valley-veterans-parade/"
+   },
+   "firstSeen": "2026-11-10T18:43:45Z"
   },
   {
    "id": "486256b57d",
@@ -269,8 +267,8 @@
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
    "region": "PHOENIX",
    "category": "FOOD",
-   "summary": "From sweet indulgences to fiery favorites, Chiles & Chocolate Festival is a celebration of flavor, discovery and the deliciously unexpected.",
-   "description": "From sweet indulgences to fiery favorites, Chiles & Chocolate Festival is a celebration of flavor, discovery and the deliciously unexpected. Bring your appetite and experience this one-of-a-kind weekend.",
+   "summary": "The wait is over!",
+   "description": "The wait is over! Chiles & Chocolate Festival is back for THREE delicious days only! Get ready for a weekend packed with bold flavors, sweet treats and a little spice.",
    "url": "https://dbg.org/events/chiles-chocolate-festival/2026-11-13/",
    "image": "https://dbg.org/wp-content/uploads/2026/07/chiles-gallery-3.jpg",
    "imageCredit": "Desert Botanical Garden",
@@ -282,9 +280,11 @@
     "allDay": true,
     "start": "2026-11-13",
     "end": "2026-11-16",
-    "notes": "Hours: 11 AM–5 PM\n\nFrom sweet indulgences to fiery favorites, Chiles & Chocolate Festival is a celebration of flavor, discovery and the deliciously unexpected.\n\nhttps://dbg.org/events/chiles-chocolate-festival/2026-11-13/"
+    "notes": "Hours: 11 AM–5 PM\n\nThe wait is over!\n\nhttps://dbg.org/events/chiles-chocolate-festival/2026-11-13/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-10T18:43:45Z"
   },
   {
    "id": "5a5495203b",
@@ -348,6 +348,39 @@
     "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk/"
    },
    "firstSeen": "2026-10-30T17:04:00Z"
+  },
+  {
+   "id": "4d49d3a10a",
+   "series": "a4915b66a8",
+   "title": "Gilbert Art Walk – Verde at Cooley Station",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 540,
+   "endMinute": 780,
+   "dates": "Sat, Nov 14",
+   "time": "9 AM–1 PM",
+   "place": "Verde at Cooley Station",
+   "placeLines": "Verde at Cooley Station",
+   "region": "EAST_VALLEY",
+   "category": "ARTS",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.",
+   "description": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public. We have a large array of art mediums such as jewelry, painting, ceramic, woodworking, photography and much more!",
+   "url": "https://www.discovergilbert.com/events/gilbert-art-walk-verde-at-cooley-station/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/08/Gilbert-Art-Walk.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Verde at Cooley Station, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T16:00:00Z",
+    "end": "2026-11-14T20:00:00Z",
+    "notes": "The Gilbert Art Walk is a family friendly, pet friendly, art show with live music that is free to the public.\n\nhttps://www.discovergilbert.com/events/gilbert-art-walk-verde-at-cooley-station/"
+   },
+   "firstSeen": "2026-11-10T18:43:45Z"
   },
   {
    "id": "794a009396",
@@ -501,8 +534,7 @@
     "end": "2026-11-16T19:00:00Z",
     "notes": "What if everything that started with the letter P disappeared?\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-brittany-pomales/"
    },
-   "firstSeen": "2026-10-29T17:28:44Z",
-   "keptSince": "2026-11-09T21:29:53Z"
+   "firstSeen": "2026-10-29T17:28:44Z"
   },
   {
    "id": "b9c790c5d1",
@@ -592,8 +624,7 @@
     "end": "2026-11-20T22:00:00Z",
     "notes": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line . Kids will be able to engage in scarf…\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/"
    },
-   "firstSeen": "2026-10-29T17:28:44Z",
-   "keptSince": "2026-11-09T21:29:53Z"
+   "firstSeen": "2026-10-29T17:28:44Z"
   },
   {
    "id": "c0c81ee7ba",
@@ -1101,8 +1132,7 @@
     "end": "2026-12-05T04:00:00Z",
     "notes": "The Museum is open from 5pm-9pm free of charge, on the first Friday of each month.\n\nhttps://childrensmuseumofphoenix.org/event/open-for-free-first-friday-night/2026-12-04/"
    },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "keptSince": "2026-11-09T21:29:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "b6981ecd03",
@@ -1213,8 +1243,7 @@
     "end": "2026-12-07",
     "notes": "Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
    },
-   "firstSeen": "2026-10-24T14:40:08Z",
-   "keptSince": "2026-11-09T21:29:53Z"
+   "firstSeen": "2026-10-24T14:40:08Z"
   },
   {
    "id": "42a2ee0a33",

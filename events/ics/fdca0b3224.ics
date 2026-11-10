@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fdca0b3224-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261110T184345Z
+SEQUENCE:0
+DTSTART:20261111T180000Z
+DTEND:20261111T200000Z
+SUMMARY:East Valley Veterans Parade
+LOCATION:East Valley\, P.O. Box 577\, Mesa\, 85211
+DESCRIPTION:This event provides an opportunity for the community to gather 
+ in honoring\, thanking and celebrating local Veterans\, active Military\, 
+ and their families.\n\nhttps://azparenting.com/event/east-valley-veterans-
+ parade/
+URL:https://azparenting.com/event/east-valley-veterans-parade/
+END:VEVENT
+END:VCALENDAR
