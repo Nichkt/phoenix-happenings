@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-10T18:43:45Z",
+ "generatedAt": "2026-11-11T17:49:03Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-10",
- "until": "2027-02-02",
+ "from": "2026-11-11",
+ "until": "2027-02-03",
  "regions": [
   {
    "id": "PHOENIX",
@@ -135,16 +135,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-08",
+   "start": "2026-11-09",
    "end": "2026-11-15",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 8–15",
+   "dates": "Nov 9–15",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-08/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-09/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -152,13 +152,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-08",
+    "start": "2026-11-09",
     "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-08/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-09/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 25,
-   "changed": "2026-11-10T18:43:45Z"
+   "revision": 26,
+   "changed": "2026-11-11T17:49:03Z"
   },
   {
    "id": "fdca0b3224",
@@ -611,8 +611,8 @@
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "kids": true,
-   "summary": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line . Kids will be able to engage in scarf…",
-   "description": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line. Kids will be able to engage in scarf activities and songs in celebration of Native American Heritage Month. Learn more about Daniel at southofsunrisecreative.com.\n\nGenerously supported by",
+   "summary": "Come join award-winning author Daniel Vandever as he reads his books We Weave , Herizon , and Fall in Line, Holden!",
+   "description": "Come join award-winning author Daniel Vandever as he reads his books We Weave, Herizon, and Fall in Line, Holden!. Kids will be able to engage in scarf activities and songs in celebration of Native American Heritage Month. Learn more about Daniel at southofsunrisecreative.com.\n\nGenerously supported by",
    "url": "https://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/",
    "sources": [
     "Children's Museum of Phoenix"
@@ -622,9 +622,11 @@
     "allDay": false,
     "start": "2026-11-20T20:00:00Z",
     "end": "2026-11-20T22:00:00Z",
-    "notes": "Come join award-winning Author Daniel Vandever as he reads his books We Weave, Holden!, Herizon, and Fall in Line . Kids will be able to engage in scarf…\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/"
+    "notes": "Come join award-winning author Daniel Vandever as he reads his books We Weave , Herizon , and Fall in Line, Holden!\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-daniel-vandever/"
    },
-   "firstSeen": "2026-10-29T17:28:44Z"
+   "firstSeen": "2026-10-29T17:28:44Z",
+   "revision": 1,
+   "changed": "2026-11-11T17:49:03Z"
   },
   {
    "id": "c0c81ee7ba",
