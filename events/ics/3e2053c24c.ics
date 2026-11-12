@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:3e2053c24c-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261111T174903Z
-SEQUENCE:26
-LAST-MODIFIED:20261111T174903Z
-DTSTART;VALUE=DATE:20261109
+DTSTAMP:20261112T185957Z
+SEQUENCE:27
+LAST-MODIFIED:20261112T185957Z
+DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
 SUMMARY:Fall Garden After Dark
 DESCRIPTION:Hours: 6–10 PM\n\nThis fall\, the Garden transforms after sun
  set into a breathtaking celebration of color and light.\n\nhttps://dbg.org
- /events/fall-garden-after-dark/2026-11-09/
-URL:https://dbg.org/events/fall-garden-after-dark/2026-11-09/
+ /events/fall-garden-after-dark/2026-11-10/
+URL:https://dbg.org/events/fall-garden-after-dark/2026-11-10/
 END:VEVENT
 END:VCALENDAR
