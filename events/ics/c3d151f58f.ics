@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3d151f58f-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261114T171313Z
+SEQUENCE:0
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Stories in the Spotlight: Featuring Felicia Penza
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Spend the morning celebrating chosen families with author Felic
+ ia and her book\, I Will Always Choose You . Gather for a special storytim
+ e in the Atrium\, enjoy…\n\nhttps://childrensmuseumofphoenix.org/event/s
+ tories-in-the-spotlight-featuring-felicia-penza-2/
+URL:https://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-fea
+ turing-felicia-penza-2/
+END:VEVENT
+END:VCALENDAR

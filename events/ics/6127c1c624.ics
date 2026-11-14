@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6127c1c624-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261114T171313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Arizona Bao & Dumpling Festival
+LOCATION:Centennial Plaza Park\, 9875 N. 85th Ave\, Peoria\, AZ
+DESCRIPTION:Hours: 11 AM–5 PM\n\nThe Arizona Bao and Dumpling Festival is
+  returning for its 10th year.\n\nhttps://azparenting.com/event/arizona-bao
+ -dumpling-festival-2026/2026-11-14/
+URL:https://azparenting.com/event/arizona-bao-dumpling-festival-2026/2026-1
+ 1-14/
+END:VEVENT
+END:VCALENDAR

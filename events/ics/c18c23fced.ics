@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c18c23fced-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261114T171313Z
+SEQUENCE:0
+DTSTART:20270206T193000Z
+DTEND:20270206T210000Z
+SUMMARY:Concert in the Park - Guns Out
+LOCATION:Prospector Park\, Prospector Park - 3015 N Idaho Rd Apache Junctio
+ n AZ 85119
+DESCRIPTION:Bring your blanket or lawn chair and enjoy a nice evening outsi
+ de listening to some great music from a local band!\n\nhttps://www.apachej
+ unctionaz.gov/calendar.aspx?EID=2595
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2595
+END:VEVENT
+END:VCALENDAR

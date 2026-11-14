@@ -4,11 +4,11 @@ PRODID:-//Nicholas Ton//Phoenix Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:1fcea52ddc-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261030T170400Z
+UID:d845407e4a-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261114T171313Z
 SEQUENCE:0
-DTSTART:20261114T150000Z
-DTEND:20261115T010000Z
+DTSTART:20261128T150000Z
+DTEND:20261129T010000Z
 SUMMARY:Gilbert Art Walk – Heritage District
 LOCATION:Gilbert Farmers Market\, AZ
 DESCRIPTION:The Gilbert Art Walk is a family friendly\, pet friendly\, art
