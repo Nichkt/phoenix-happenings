@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-14T17:13:13Z",
+ "generatedAt": "2026-11-15T17:51:29Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-14",
- "until": "2027-02-06",
+ "from": "2026-11-15",
+ "until": "2027-02-07",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 11
+   "events": 6
   },
   {
    "name": "azmatsuri.org",
@@ -99,19 +99,19 @@
   },
   {
    "name": "City of Apache Junction",
-   "events": 7
+   "events": 6
   },
   {
    "name": "City of Litchfield Park",
-   "events": 4
+   "events": 3
   },
   {
    "name": "City of Phoenix",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Desert Botanical Garden",
-   "events": 8
+   "events": 10
   },
   {
    "name": "Discover Gilbert",
@@ -131,35 +131,6 @@
   }
  ],
  "events": [
-  {
-   "id": "3e2053c24c",
-   "series": "85b5055635",
-   "title": "Fall Garden After Dark",
-   "start": "2026-11-12",
-   "end": "2026-11-15",
-   "startMinute": 1080,
-   "endMinute": 1320,
-   "dates": "Nov 12–15",
-   "time": "6–10 PM",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-12/",
-   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
-   "imageCredit": "Desert Botanical Garden",
-   "sources": [
-    "Desert Botanical Garden"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-12",
-    "end": "2026-11-16",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-12/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 29,
-   "changed": "2026-11-14T17:13:13Z"
-  },
   {
    "id": "583c74add2",
    "series": "c4764bb923",
@@ -225,6 +196,35 @@
    "changed": "2026-11-10T18:43:45Z"
   },
   {
+   "id": "3e2053c24c",
+   "series": "85b5055635",
+   "title": "Fall Garden After Dark",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "startMinute": 1080,
+   "endMinute": 1320,
+   "dates": "Nov 13–15",
+   "time": "6–10 PM",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-13/",
+   "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-13",
+    "end": "2026-11-16",
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-13/"
+   },
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 30,
+   "changed": "2026-11-15T17:51:29Z"
+  },
+  {
    "id": "c42d1f8af5",
    "series": "ea0990217c",
    "title": "Phoenix Pizza Festival",
@@ -249,107 +249,6 @@
     "start": "2026-11-14",
     "end": "2026-11-16",
     "notes": "Pizza in the park, all weekend long.\n\nhttps://azparenting.com/event/phoenix-pizza-festival/2026-11-14/"
-   },
-   "firstSeen": "2026-11-14T17:13:13Z"
-  },
-  {
-   "id": "794a009396",
-   "series": "97d3105672",
-   "title": "Nature Fest PHX",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 540,
-   "endMinute": 780,
-   "dates": "Sat, Nov 14",
-   "time": "9 AM–1 PM",
-   "place": "Northeast 7th Avenue Trailhead, Phoenix",
-   "placeLines": "Northeast 7th Avenue Trailhead, Phoenix",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us for FREE family fun at Nature Fest 2026 on Saturday, November 14 at the Rio Salado Habitat Restoration Area.",
-   "url": "https://www.phoenix.gov/calendar/environmental-programs-events/nature-fest-phx.html",
-   "image": "https://www.phoenix.gov/content/dam/phoenix/oepsite/mediaassets/wildlife/naturefest/IMG_6806.JPG",
-   "imageCredit": "City of Phoenix",
-   "sources": [
-    "City of Phoenix",
-    "Arizona Parenting"
-   ],
-   "map": "Northeast 7th Avenue Trailhead, Northeast 7th Avenue Trailhead 2801 S. 7th Avenue Phoenix, AZ, 85003",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T16:00:00Z",
-    "end": "2026-11-14T20:00:00Z",
-    "notes": "Join us for FREE family fun at Nature Fest 2026 on Saturday, November 14 at the Rio Salado Habitat Restoration Area.\n\nhttps://www.phoenix.gov/calendar/environmental-programs-events/nature-fest-phx.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-11-02T20:49:48Z"
-  },
-  {
-   "id": "3514b3dc57",
-   "series": "720c3cb9e3",
-   "title": "Sweet to the Soul Fall Market",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 540,
-   "endMinute": 840,
-   "dates": "Sat, Nov 14",
-   "time": "9 AM–2 PM",
-   "place": "Peoria Sports Complex",
-   "placeLines": "Peoria Sports Complex\n16101 N. 83rd Ave, Peoria, AZ",
-   "region": "WEST_VALLEY",
-   "category": "NIGHT_MARKET",
-   "cost": "$5.00",
-   "free": false,
-   "summary": "THIS SATURDAY, SKIP THE BIG BOX STORES. LOCAL VENDORS NEED YOU MORE THAN EVER! When you shop small, you’re doing more than buying a gift.",
-   "description": "THIS SATURDAY, SKIP THE BIG BOX STORES. LOCAL VENDORS NEED YOU MORE THAN EVER!\n\nWhen you shop small, you’re doing more than buying a gift. You’re helping a local family put presents under their tree, pay their bills, and make the holidays a little brighter.\n\nYour support means EVERYTHING to these hardworking families!\n\nCome shop amazing handmade gifts, unique finds, and one-of-a-kind treasures at SWEET TO THE SOUL MARKET!\n\n$5 admission | 17 & under FREE",
-   "url": "https://azparenting.com/event/sweet-to-the-soul-fall-market/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/11/Sweet-to-the-Soul-Market-e1794613715864.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Peoria Sports Complex, 16101 N. 83rd Ave, Peoria, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T16:00:00Z",
-    "end": "2026-11-14T21:00:00Z",
-    "notes": "THIS SATURDAY, SKIP THE BIG BOX STORES. LOCAL VENDORS NEED YOU MORE THAN EVER! When you shop small, you’re doing more than buying a gift.\n\nhttps://azparenting.com/event/sweet-to-the-soul-fall-market/"
-   },
-   "firstSeen": "2026-11-14T17:13:13Z"
-  },
-  {
-   "id": "1fa9f3ebf0",
-   "series": "cbdff74cef",
-   "title": "Downtown Glendale Holiday Open House",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Nov 14",
-   "time": "10 AM–4 PM",
-   "place": "Downtown Glendale",
-   "placeLines": "Downtown Glendale\nAZ",
-   "region": "WEST_VALLEY",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Old Towne and Catlin Court Retail Districts will be all ready to kick off the holiday shopping and dining season at the 30th Annual Holiday Open House …",
-   "description": "The Old Towne and Catlin Court Retail Districts will be all ready to kick off the holiday shopping and dining season at the 30th Annual Holiday Open House beginning at 10 a.m.\n\nYou will enjoy a day full of unique experiences and the return of treasured activities and displays. Begin checking off your holiday shopping list with unique, artisanal, and handcrafted gift items featured at the locally owned boutiques. You can also enjoy delicious treats at the wide variety of eateries and special gift-wrapping stations for you to be holiday ready.\n\nWooden nutcrackers will be returning to the downtown. These local-artisan handcrafted, eight-foot-tall displays are a treasured throwback to nearly thirty years ago when shop owners throughout the Catlin Court District began the tradition with festive wooden toy nutcrackers on display by the front doors and on the patios of the historic bungalow-style shops. The wooden soldiers were on display for several holiday seasons for shoppers to enjoy.\n\nIn addition, you will not want to miss the dazzling holiday shop window displays throughout the area, and a new holiday charm will debut for the popular Historic Downtown Glendale charm bracelet. Several make-and-take stations will be set up throughout the area.\n\nStart your Holiday Open House adventure at the Arizona Information Center located at 5836 W. Palmaire Ave. to pick up the activity list, commemorative event sticker, and the walking map. Free to attend",
-   "url": "https://azparenting.com/event/downtown-glendale-holiday-open-house/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/11/Glendale-Holiday-Open-House.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Downtown Glendale, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T17:00:00Z",
-    "end": "2026-11-14T23:00:00Z",
-    "notes": "The Old Towne and Catlin Court Retail Districts will be all ready to kick off the holiday shopping and dining season at the 30th Annual Holiday Open House …\n\nhttps://azparenting.com/event/downtown-glendale-holiday-open-house/"
    },
    "firstSeen": "2026-11-14T17:13:13Z"
   },
@@ -385,129 +284,6 @@
     "notes": "Hours: 11 AM–5 PM\n\nThe Arizona Bao and Dumpling Festival is returning for its 10th year.\n\nhttps://azparenting.com/event/arizona-bao-dumpling-festival-2026/2026-11-14/"
    },
    "firstSeen": "2026-11-14T17:13:13Z"
-  },
-  {
-   "id": "6b6e84ecda",
-   "series": "04025c4451",
-   "title": "Impact Gymnastics – Arrowhead Grand Opening Celebration",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 780,
-   "endMinute": 900,
-   "dates": "Sat, Nov 14",
-   "time": "1–3 PM",
-   "place": "Impact Gymnastics – Arrowhead, Glendale",
-   "placeLines": "Impact Gymnastics – Arrowhead, Glendale\n8154 W. Bell Road, Glendale, 85308",
-   "region": "WEST_VALLEY",
-   "category": "FOOD",
-   "cost": "Free",
-   "free": true,
-   "summary": "Arrowhead invites families to celebrate its grand opening in Glendale.",
-   "description": "Arrowhead invites families to celebrate its grand opening in Glendale. The free, family-friendly celebration will feature open gym, a bounce house, a food truck, raffles and opportunities to meet the coaches, plus more.",
-   "url": "https://azparenting.com/event/impact-gymnastics-arrowhead-grand-opening-celebration/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/10/impact-arrowhead-sign-up.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Impact Gymnastics – Arrowhead, 8154 W. Bell Road, Glendale, 85308",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-14T20:00:00Z",
-    "end": "2026-11-14T22:00:00Z",
-    "notes": "Arrowhead invites families to celebrate its grand opening in Glendale.\n\nhttps://azparenting.com/event/impact-gymnastics-arrowhead-grand-opening-celebration/"
-   },
-   "firstSeen": "2026-10-29T17:28:44Z"
-  },
-  {
-   "id": "537f9c847b",
-   "series": "171d1925b3",
-   "title": "Tanger Outlets Tree Lighting",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 1080,
-   "endMinute": 1200,
-   "dates": "Sat, Nov 14",
-   "time": "6–8 PM",
-   "place": "Tanger Outlets, Glendale",
-   "placeLines": "Tanger Outlets, Glendale\n6800 N 95th Ave., Glendale",
-   "region": "WEST_VALLEY",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Kick off the holiday season at the Tanger Outlets Annual Tree Lighting Ceremony located between Coach and Michael Kors.",
-   "description": "Kick off the holiday season at the Tanger Outlets Annual Tree Lighting Ceremony located between Coach and Michael Kors.\n\nEnjoy a festive evening hosted by Manic Hispanic and Jackie Morales from Mega 104.3 and 101.1 The Bounce, featuring Santa’s grand arrival and photo opportunities, a holiday craft station, live musical entertainment, glitter tattoos, and of course, the lighting of our dazzling Christmas tree.\n\nFree to attend",
-   "url": "https://azparenting.com/event/tanger-outlets-tree-lighting/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/11/Tanger-Tree-Lighting-e1794613263797.png",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Tanger Outlets, 6800 N 95th Ave., Glendale",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-15T01:00:00Z",
-    "end": "2026-11-15T03:00:00Z",
-    "notes": "Kick off the holiday season at the Tanger Outlets Annual Tree Lighting Ceremony located between Coach and Michael Kors.\n\nhttps://azparenting.com/event/tanger-outlets-tree-lighting/"
-   },
-   "firstSeen": "2026-11-14T17:13:13Z"
-  },
-  {
-   "id": "4a3d44273f",
-   "series": "ceb76aae43",
-   "title": "Movie in the Park",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 1110,
-   "endMinute": 1439,
-   "dates": "Sat, Nov 14",
-   "time": "6:30–11:59 PM",
-   "place": "Jackie Robinson Ballfield, Litchfield Park",
-   "placeLines": "Jackie Robinson Ballfield, Litchfield Park",
-   "region": "WEST_VALLEY",
-   "category": "OUTDOOR",
-   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2976",
-   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2976",
-   "sources": [
-    "City of Litchfield Park"
-   ],
-   "map": "Jackie Robinson Ballfield, Jackie Robinson Ballfield 14451 W Camelback Rd Litchfield Park AZ 85340",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-15T01:30:00Z",
-    "end": "2026-11-15T06:59:00Z",
-    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2976\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2976"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "b7b9a352e5",
-   "series": "456203bc94",
-   "title": "Movie in the Park - Back to the Future",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "startMinute": 1140,
-   "endMinute": 1260,
-   "dates": "Sat, Nov 14",
-   "time": "7–9 PM",
-   "place": "Flatiron Community Park, Apache Junction",
-   "placeLines": "Flatiron Community Park, Apache Junction",
-   "region": "EAST_VALLEY",
-   "category": "OUTDOOR",
-   "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future!",
-   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future! The featured film will start at 7:00pm, and is brought to you by SRP! City of Apache Junction Parks will host this event at Flatiron Community Park at 100 N. Apache Trail Apache Junction, AZ 85119.\n\nIn the event of bad weather prior to movie time, this program could possibly be moved to the Multi-Generational Center. For more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-983-2181 or visit our website at www.apachejunctionaz.gov/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2553",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2553",
-   "sources": [
-    "City of Apache Junction"
-   ],
-   "map": "Flatiron Community Park, Flatiron Community Park - 100 N Apache Trail Apache Junction AZ 85119",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-15T02:00:00Z",
-    "end": "2026-11-15T04:00:00Z",
-    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - Back to the Future!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2553"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
    "id": "6829442b28",
@@ -1916,6 +1692,36 @@
    "firstSeen": "2026-10-23T15:47:42Z"
   },
   {
+   "id": "5e2fc6cc42",
+   "series": "ff0a7a820c",
+   "title": "Desert Sol Festival",
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "startMinute": 600,
+   "endMinute": 1320,
+   "dates": "Fri, Jan 15",
+   "time": "10 AM–10 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "We’re introducing six weekends of vibrant live music from day into night, festive food and drinks, hands-on adventures and breathtaking desert beauty.",
+   "url": "https://dbg.org/events/desert-sol-festival/2027-01-15/",
+   "image": "https://dbg.org/wp-content/uploads/2026/11/desert-sol-festival-8.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-15T17:00:00Z",
+    "end": "2027-01-16T05:00:00Z",
+    "notes": "We’re introducing six weekends of vibrant live music from day into night, festive food and drinks, hands-on adventures and breathtaking desert beauty.\n\nhttps://dbg.org/events/desert-sol-festival/2027-01-15/"
+   },
+   "firstSeen": "2026-11-15T17:51:29Z"
+  },
+  {
    "id": "dc7820b0c5",
    "series": "a698eea40c",
    "title": "Celebrate Sedona! January 15, 2027 / 4-6pm",
@@ -1976,6 +1782,36 @@
     "notes": "Hours: 9 AM–5 PM\n\nFeel the beat of Mexico through the melodies of mariachi!\n\nhttps://mim.org/events/celebrate-mariachi/2027-01-16/"
    },
    "firstSeen": "2026-10-31T16:12:14Z"
+  },
+  {
+   "id": "67a0c6755d",
+   "series": "ff0a7a820c",
+   "title": "Desert Sol Festival",
+   "start": "2027-01-18",
+   "end": "2027-01-18",
+   "startMinute": 600,
+   "endMinute": 1320,
+   "dates": "Mon, Jan 18",
+   "time": "10 AM–10 PM",
+   "place": "Desert Botanical Garden, Phoenix",
+   "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "summary": "We’re introducing six weekends of vibrant live music from day into night, festive food and drinks, hands-on adventures and breathtaking desert beauty.",
+   "url": "https://dbg.org/events/desert-sol-festival/2027-01-18/",
+   "image": "https://dbg.org/wp-content/uploads/2026/11/desert-sol-festival-8.jpg",
+   "imageCredit": "Desert Botanical Garden",
+   "sources": [
+    "Desert Botanical Garden"
+   ],
+   "map": "Desert Botanical Garden, 1201 N. Galvin Parkway, Phoenix, AZ, 85008",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-18T17:00:00Z",
+    "end": "2027-01-19T05:00:00Z",
+    "notes": "We’re introducing six weekends of vibrant live music from day into night, festive food and drinks, hands-on adventures and breathtaking desert beauty.\n\nhttps://dbg.org/events/desert-sol-festival/2027-01-18/"
+   },
+   "firstSeen": "2026-11-15T17:51:29Z"
   },
   {
    "id": "d3dece21c1",
