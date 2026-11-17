@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69894cdab5-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261117T195556Z
+SEQUENCE:0
+DTSTART:20261212T160000Z
+DTEND:20261212T220000Z
+SUMMARY:Santa Day At The Farm
+LOCATION:Mother Nature’s Farm\, 1663 E. Baseline Rd.\, Gilbert\, AZ
+DESCRIPTION:Grab your friends and neighbors to come join the fun at Mother 
+ Nature’s Farm where Santa will be . Admission includes the farm animals\
+ , hayride\, spiderweb…\n\nhttps://azparenting.com/event/santa-day-at-the
+ -farm/
+URL:https://azparenting.com/event/santa-day-at-the-farm/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f7002a7c4a-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261117T195556Z
+SEQUENCE:0
+DTSTART:20261128T000000Z
+DTEND:20261128T050000Z
+SUMMARY:Merry Main Street Kick-off
+LOCATION:Downtown Mesa\, AZ
+DESCRIPTION:Join for the lighting of the 40-foot Christmas Tree and officia
+ l kick-off of Merry Main Street holiday celebration!\n\nhttps://azparentin
+ g.com/event/merry-main-street-kick-off/
+URL:https://azparenting.com/event/merry-main-street-kick-off/
+END:VEVENT
+END:VCALENDAR

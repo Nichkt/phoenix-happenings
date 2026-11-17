@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:55b161fc68-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261117T195556Z
+SEQUENCE:0
+DTSTART:20261213T010000Z
+DTEND:20261213T030000Z
+SUMMARY:Christmas Caroling & Cookie Exchange
+LOCATION:Walton Park\, 301 W. Holly St.\, Phoenix\, AZ\, 85003
+DESCRIPTION:https://willophx.com/event/christmas-caroling-cookie-exchange/
+URL:https://willophx.com/event/christmas-caroling-cookie-exchange/
+END:VEVENT
+END:VCALENDAR

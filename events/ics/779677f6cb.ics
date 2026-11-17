@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:779677f6cb-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261117T195556Z
+SEQUENCE:0
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+SUMMARY:Annual Holiday Tree Lighting “Cheerville”
+LOCATION:Desert Ridge Marketplace\, 21001 N. Tatum Blvd.\, Phoenix\, AZ
+DESCRIPTION:Experience the magic at The District as the Holiday Tree lights
+  up for the first time this year.\n\nhttps://azparenting.com/event/annual-
+ holiday-tree-lighting-cheerville/
+URL:https://azparenting.com/event/annual-holiday-tree-lighting-cheerville/
+END:VEVENT
+END:VCALENDAR

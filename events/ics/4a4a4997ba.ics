@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a4a4997ba-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261117T195556Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T033000Z
+SUMMARY:Prescott’s 29th Holiday Light Parade
+LOCATION:Downtown Historic Area\, 117 W Goodwin St\, Prescott\, 86303
+DESCRIPTION:Kick off the holiday season in Arizonas Christmas City when ove
+ r 40 festively illuminated floats light up the evening led by Santa himsel
+ f starting at 6pm on…\n\nhttps://azparenting.com/event/prescotts-29th-ho
+ liday-light-parade/
+URL:https://azparenting.com/event/prescotts-29th-holiday-light-parade/
+END:VEVENT
+END:VCALENDAR

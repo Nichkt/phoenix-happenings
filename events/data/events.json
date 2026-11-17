@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-16T21:06:59Z",
+ "generatedAt": "2026-11-17T19:55:56Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-16",
- "until": "2027-02-08",
+ "from": "2026-11-17",
+ "until": "2027-02-09",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 2
+   "events": 6
   },
   {
    "name": "azmatsuri.org",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 5
+   "events": 4
   },
   {
    "name": "City of Apache Junction",
@@ -128,6 +128,10 @@
   {
    "name": "Town of Carefree",
    "events": 15
+  },
+  {
+   "name": "Willo Historic District",
+   "events": 1
   }
  ],
  "events": [
@@ -135,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-14",
+   "start": "2026-11-15",
    "end": "2026-11-20",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 14–20",
+   "dates": "Nov 15–20",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-14/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-15/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -152,43 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-14",
+    "start": "2026-11-15",
     "end": "2026-11-21",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-14/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-15/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 31,
-   "changed": "2026-11-16T21:06:59Z"
-  },
-  {
-   "id": "6829442b28",
-   "series": "6511d3aa24",
-   "title": "Stories in the Spotlight: Featuring Brittany Pomales",
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Mon, Nov 16",
-   "time": "10 AM–12 PM",
-   "place": "Children’s Museum of Phoenix",
-   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "kids": true,
-   "summary": "What if everything that started with the letter P disappeared?",
-   "description": "What if everything that started with the letter P disappeared? Join author Brittany Pomales for a reading of her book It Started with a P, and discover creative ways to think outside the box. Inspired by the story, kids will design their own party piñata to take home in celebration of the King’s birthday.\n\nGenerously supported by",
-   "url": "https://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-brittany-pomales/",
-   "sources": [
-    "Children's Museum of Phoenix"
-   ],
-   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-16T17:00:00Z",
-    "end": "2026-11-16T19:00:00Z",
-    "notes": "What if everything that started with the letter P disappeared?\n\nhttps://childrensmuseumofphoenix.org/event/stories-in-the-spotlight-featuring-brittany-pomales/"
-   },
-   "firstSeen": "2026-10-29T17:28:44Z"
+   "revision": 32,
+   "changed": "2026-11-17T19:55:56Z"
   },
   {
    "id": "b9c790c5d1",
@@ -458,6 +432,39 @@
    "firstSeen": "2026-11-16T21:06:59Z"
   },
   {
+   "id": "779677f6cb",
+   "series": "a489c4b634",
+   "title": "Annual Holiday Tree Lighting “Cheerville”",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "startMinute": 1080,
+   "endMinute": 1260,
+   "dates": "Mon, Nov 23",
+   "time": "6–9 PM",
+   "place": "Desert Ridge Marketplace, Phoenix",
+   "placeLines": "Desert Ridge Marketplace, Phoenix\n21001 N. Tatum Blvd., Phoenix, AZ",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Experience the magic at The District as the Holiday Tree lights up for the first time this year.",
+   "description": "Experience the magic at The District as the Holiday Tree lights up for the first time this year. Join for an unforgettable evening filled with festive fun, live entertainment, free holiday activities, strolling characters, photos with Santa and plenty of cheerful surprises along the way. Step into the sparkling world of Cheerville and celebrate the most wonderful time of the year with the whole family.",
+   "url": "https://azparenting.com/event/annual-holiday-tree-lighting-cheerville/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/11/cheerville.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Desert Ridge Marketplace, 21001 N. Tatum Blvd., Phoenix, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-24T01:00:00Z",
+    "end": "2026-11-24T04:00:00Z",
+    "notes": "Experience the magic at The District as the Holiday Tree lights up for the first time this year.\n\nhttps://azparenting.com/event/annual-holiday-tree-lighting-cheerville/"
+   },
+   "firstSeen": "2026-11-17T19:55:56Z"
+  },
+  {
    "id": "380a54dbb6",
    "series": "e9b97951ee",
    "title": "A Christmas Carol",
@@ -544,6 +551,39 @@
     "notes": "Hours: 5–9:30 PM\n\nExperience more nights, more music and more twinkle as the Garden transforms into a dazzling holiday escape filled with thousands of glowing luminarias,…\n\nhttps://dbg.org/events/las-noches-de-las-luminarias/2026-11-27/"
    },
    "firstSeen": "2026-10-23T15:47:42Z"
+  },
+  {
+   "id": "f7002a7c4a",
+   "series": "c398febcfa",
+   "title": "Merry Main Street Kick-off",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "startMinute": 1020,
+   "endMinute": 1320,
+   "dates": "Fri, Nov 27",
+   "time": "5–10 PM",
+   "place": "Downtown Mesa",
+   "placeLines": "Downtown Mesa\nAZ",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join for the lighting of the 40-foot Christmas Tree and official kick-off of Merry Main Street holiday celebration!",
+   "description": "Join for the lighting of the 40-foot Christmas Tree and official kick-off of Merry Main Street holiday celebration! Highlights:\n\n• Holiday Kick-Off & Tree Lighting: At 5:45pm, The Mayor, City Council, and special guests lead an exciting tree lighting countdown.\n• Christmas Tree Lighting: Watch Downtown Mesa sparkle as the City’s Christmas tree lights up for the season!\n• Holiday Market: Browse festive gifts and seasonal treasures at the holiday market surrounding the Christmas tree.\n• Ice-Skating Fun: Lace up your skates and enjoy the 6,000-square-foot real ice-skating rink.\n• Holiday Activities: Enjoy seasonal entertainment, special activities, and holiday fun throughout the month.\n• Shop & Dine Local: Explore Downtown Mesa’s unique shops and restaurants while enjoying the holiday atmosphere.",
+   "url": "https://azparenting.com/event/merry-main-street-kick-off/",
+   "image": "https://azparenting.com/wp-content/uploads/2021/11/Merry-Main-Street-Downtown-Mesa-Nov-29-to-Jan-4-e1699413422846.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Downtown Mesa, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-28T00:00:00Z",
+    "end": "2026-11-28T05:00:00Z",
+    "notes": "Join for the lighting of the 40-foot Christmas Tree and official kick-off of Merry Main Street holiday celebration!\n\nhttps://azparenting.com/event/merry-main-street-kick-off/"
+   },
+   "firstSeen": "2026-11-17T19:55:56Z"
   },
   {
    "id": "d845407e4a",
@@ -662,6 +702,39 @@
     "notes": "https://www.carefree.org/events"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "4a4a4997ba",
+   "series": "41f6007b37",
+   "title": "Prescott’s 29th Holiday Light Parade",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 1080,
+   "endMinute": 1230,
+   "dates": "Sat, Nov 28",
+   "time": "6–8:30 PM",
+   "place": "Downtown Historic Area, Prescott",
+   "placeLines": "Downtown Historic Area, Prescott\n117 W Goodwin St, Prescott, 86303",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Kick off the holiday season in Arizonas Christmas City when over 40 festively illuminated floats light up the evening led by Santa himself starting at 6pm on…",
+   "description": "Kick off the holiday season in Arizonas Christmas City when over 40 festively illuminated floats light up the evening led by Santa himself starting at 6pm on Cortez Street. The parade ends on the field at Mile High Middle School, where there will be music, visits with Santa, and reindeer games for the kids. Attendees can also get a closer look at the illuminated floats – all parked on the field for viewing. Entrance to the field is through the gate on Goodwin Street, across from Old Firehouse Plaza.",
+   "url": "https://azparenting.com/event/prescotts-29th-holiday-light-parade/",
+   "image": "https://azparenting.com/wp-content/uploads/2022/06/Prescott-Annual-Christmas-Parade-e1731092195310.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Downtown Historic Area, 117 W Goodwin St, Prescott, 86303",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T01:00:00Z",
+    "end": "2026-11-29T03:30:00Z",
+    "notes": "Kick off the holiday season in Arizonas Christmas City when over 40 festively illuminated floats light up the evening led by Santa himself starting at 6pm on…\n\nhttps://azparenting.com/event/prescotts-29th-holiday-light-parade/"
+   },
+   "firstSeen": "2026-11-17T19:55:56Z"
   },
   {
    "id": "51203d96fd",
@@ -1204,6 +1277,66 @@
     "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2958"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "69894cdab5",
+   "series": "e570a3300b",
+   "title": "Santa Day At The Farm",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 540,
+   "endMinute": 900,
+   "dates": "Sat, Dec 12",
+   "time": "9 AM–3 PM",
+   "place": "Mother Nature’s Farm, Gilbert, AZ",
+   "placeLines": "Mother Nature’s Farm, Gilbert, AZ\n1663 E. Baseline Rd., Gilbert, AZ",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "$17.00",
+   "free": false,
+   "summary": "Grab your friends and neighbors to come join the fun at Mother Nature’s Farm where Santa will be . Admission includes the farm animals, hayride, spiderweb…",
+   "description": "Grab your friends and neighbors to come join the fun at Mother Nature’s Farm where Santa will be. Admission includes the farm animals, hayride, spiderweb crawl, pedal carts, straw bale maze, mega slide, outdoor games, and human hamster wheels.",
+   "url": "https://azparenting.com/event/santa-day-at-the-farm/",
+   "image": "https://azparenting.com/wp-content/uploads/2020/11/Mother-Natures-Farm-e1701800357572.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Mother Nature’s Farm, 1663 E. Baseline Rd., Gilbert, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T16:00:00Z",
+    "end": "2026-12-12T22:00:00Z",
+    "notes": "Grab your friends and neighbors to come join the fun at Mother Nature’s Farm where Santa will be . Admission includes the farm animals, hayride, spiderweb…\n\nhttps://azparenting.com/event/santa-day-at-the-farm/"
+   },
+   "firstSeen": "2026-11-17T19:55:56Z"
+  },
+  {
+   "id": "55b161fc68",
+   "series": "ac5805ccd2",
+   "title": "Christmas Caroling & Cookie Exchange",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 1080,
+   "endMinute": 1200,
+   "dates": "Sat, Dec 12",
+   "time": "6–8 PM",
+   "place": "Walton Park, Phoenix",
+   "placeLines": "Walton Park, Phoenix\n301 W. Holly St., Phoenix, AZ, 85003",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://willophx.com/event/christmas-caroling-cookie-exchange/",
+   "sources": [
+    "Willo Historic District"
+   ],
+   "map": "Walton Park, 301 W. Holly St., Phoenix, AZ, 85003",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-13T01:00:00Z",
+    "end": "2026-12-13T03:00:00Z",
+    "notes": "https://willophx.com/event/christmas-caroling-cookie-exchange/"
+   },
+   "firstSeen": "2026-11-17T19:55:56Z"
   },
   {
    "id": "2707b84d5f",
