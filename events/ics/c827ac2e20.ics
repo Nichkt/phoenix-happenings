@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c827ac2e20-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261118T192705Z
+SEQUENCE:0
+DTSTART:20261129T020000Z
+DTEND:20261129T040000Z
+SUMMARY:Tree Lighting Spectacular
+LOCATION:Old Town Scottsdale
+DESCRIPTION:Kick off the season as the Scottsdale Waterfront is set aglow w
+ ith its beautifully lit 36-foot tree along with special festivities honori
+ ng Scottsdale’s 75th…\n\nhttps://azparenting.com/event/tree-lighting-s
+ pectacular/
+URL:https://azparenting.com/event/tree-lighting-spectacular/
+END:VEVENT
+END:VCALENDAR

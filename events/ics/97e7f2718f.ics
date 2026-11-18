@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97e7f2718f-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261118T192705Z
+SEQUENCE:0
+DTSTART:20261128T230000Z
+DTEND:20261129T040000Z
+SUMMARY:Fantasy of Lights Street Parade and Tree Lighting
+LOCATION:Tempe Beach Park\, 80 W. Rio Salado Pkwy\, Tempe\, AZ
+DESCRIPTION:A holiday tradition enjoyed by generations.\n\nhttps://azparent
+ ing.com/event/fantasy-of-lights-street-parade-and-tree-lighting/
+URL:https://azparenting.com/event/fantasy-of-lights-street-parade-and-tree-
+ lighting/
+END:VEVENT
+END:VCALENDAR

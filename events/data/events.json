@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-17T19:55:56Z",
+ "generatedAt": "2026-11-18T19:27:05Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-17",
- "until": "2027-02-09",
+ "from": "2026-11-18",
+ "until": "2027-02-10",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 6
+   "events": 8
   },
   {
    "name": "azmatsuri.org",
@@ -139,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-15",
+   "start": "2026-11-16",
    "end": "2026-11-20",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 15–20",
+   "dates": "Nov 16–20",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-15/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-16/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -156,13 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-15",
+    "start": "2026-11-16",
     "end": "2026-11-21",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-15/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-16/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 32,
-   "changed": "2026-11-17T19:55:56Z"
+   "revision": 33,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "b9c790c5d1",
@@ -334,8 +334,8 @@
    "region": "WEST_VALLEY",
    "category": "COMMUNITY",
    "kids": true,
-   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2956",
-   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2956",
+   "summary": "https://www.litchfieldpark.gov/m/calendar/event/detail/2956",
+   "url": "https://www.litchfieldpark.gov/m/calendar/event/detail/2956",
    "sources": [
     "City of Litchfield Park"
    ],
@@ -344,9 +344,11 @@
     "allDay": false,
     "start": "2026-11-21T16:00:00Z",
     "end": "2026-11-21T19:00:00Z",
-    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2956\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2956"
+    "notes": "https://www.litchfieldpark.gov/m/calendar/event/detail/2956\n\nhttps://www.litchfieldpark.gov/m/calendar/event/detail/2956"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "8bfb30e02c",
@@ -677,6 +679,39 @@
    "firstSeen": "2026-11-14T17:13:13Z"
   },
   {
+   "id": "97e7f2718f",
+   "series": "fe2c08105b",
+   "title": "Fantasy of Lights Street Parade and Tree Lighting",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 960,
+   "endMinute": 1260,
+   "dates": "Sat, Nov 28",
+   "time": "4–9 PM",
+   "place": "Tempe Beach Park",
+   "placeLines": "Tempe Beach Park\n80 W. Rio Salado Pkwy, Tempe, AZ",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "A holiday tradition enjoyed by generations.",
+   "description": "A holiday tradition enjoyed by generations. Bring your family and friends to an event that kicks off the magic of the season with a street parade, tree lighting ceremony, live entertainment, Santa photos, and so much more! The lighting of Downtown Tempe’s 36-foot-tall tree officially kicks off the holiday season between 4-8pm; the parade steps off at 6pm.",
+   "url": "https://azparenting.com/event/fantasy-of-lights-street-parade-and-tree-lighting/",
+   "image": "https://azparenting.com/wp-content/uploads/2023/11/fantasy-of-lights-parade.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Tempe Beach Park, 80 W. Rio Salado Pkwy, Tempe, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-28T23:00:00Z",
+    "end": "2026-11-29T04:00:00Z",
+    "notes": "A holiday tradition enjoyed by generations.\n\nhttps://azparenting.com/event/fantasy-of-lights-street-parade-and-tree-lighting/"
+   },
+   "firstSeen": "2026-11-18T19:27:05Z"
+  },
+  {
    "id": "79dc03a78c",
    "series": "05b2493e31",
    "title": "Carefree Lights Up! - Annual Tree Lighting & Christmas Concert",
@@ -735,6 +770,39 @@
     "notes": "Kick off the holiday season in Arizonas Christmas City when over 40 festively illuminated floats light up the evening led by Santa himself starting at 6pm on…\n\nhttps://azparenting.com/event/prescotts-29th-holiday-light-parade/"
    },
    "firstSeen": "2026-11-17T19:55:56Z"
+  },
+  {
+   "id": "c827ac2e20",
+   "series": "27e2bce524",
+   "title": "Tree Lighting Spectacular",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "startMinute": 1140,
+   "endMinute": 1260,
+   "dates": "Sat, Nov 28",
+   "time": "7–9 PM",
+   "place": "Old Town Scottsdale",
+   "placeLines": "Old Town Scottsdale\nScottsdale",
+   "region": "NORTH",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Kick off the season as the Scottsdale Waterfront is set aglow with its beautifully lit 36-foot tree along with special festivities honoring Scottsdale’s 75th…",
+   "description": "Kick off the season as the Scottsdale Waterfront is set aglow with its beautifully lit 36-foot tree along with special festivities honoring Scottsdale’s 75th anniversary. Enjoy holiday décor, live music performances, Toyland, themed treats, and guest appearances from Santa and Mrs. Clause.",
+   "url": "https://azparenting.com/event/tree-lighting-spectacular/",
+   "image": "https://azparenting.com/wp-content/uploads/2020/10/scottsdazzle-19-scaled-e1731097972550.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Old Town Scottsdale",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T02:00:00Z",
+    "end": "2026-11-29T04:00:00Z",
+    "notes": "Kick off the season as the Scottsdale Waterfront is set aglow with its beautifully lit 36-foot tree along with special festivities honoring Scottsdale’s 75th…\n\nhttps://azparenting.com/event/tree-lighting-spectacular/"
+   },
+   "firstSeen": "2026-11-18T19:27:05Z"
   },
   {
    "id": "51203d96fd",
@@ -874,7 +942,7 @@
    "region": "FARTHER",
    "category": "NIGHT_MARKET",
    "summary": "SAC Holiday Artist Market December 4 th – 6 th , 2026 Celebrate the season at Sedona Arts Center’s Holiday Artist Market!",
-   "description": "SAC Holiday Artist Market\n\nDecember 4th – 6th, 2026\n\nCelebrate the season at Sedona Arts Center’s Holiday Artist Market! This annual event features approximately 25 artists and makers from Sedona and around Arizona, offering unique, handmade gifts and fine art just in time for the holidays. From ceramics and jewelry to paintings, textiles, and more, the market showcases a curated collection of beautiful and functional creations perfect for gift giving.\n\nFeatured Artists:\n\nHelen Bussey, Laurie Cameron, Margaret Connery, Patty Delp, Nita Duechle, Kim Fox, Chas Frisco, Sharon Gilham, CJ Henderson, Kelli Klymenko, Nancy Leicht, Brenda Man-Fletcher, Denize Katzen, Mary Sobrina Kuder, Desi Sutera, Leanne Lee, Michael McCalla, Carol Meteyer, Kris Mills, Jennifer Myhre, Michele Naylor, Victoria Norton, Mika Okano, Melinda Rasch, Joan Roberts, Julia Robles, Sheena Sovich, Maria Testa, Philip Toroian, Debra Williamson, Iris Yang, and staff members of Sedona Arts Center.\n\nOpening Reception:\nFriday, December 4, 2026 from 4–6pm\n\nMarket Hours:\nSaturday, December 5, 2026 | 10am – 4pm\nSunday, December 6, 2026 | 11am – 3pm",
+   "description": "SAC Holiday Artist Market\n\nDecember 4th – 6th, 2026\n\nCelebrate the season at Sedona Arts Center’s Holiday Artist Market! This annual event features approximately 40 artists and makers from Sedona and around Arizona, offering unique, handmade gifts and fine art just in time for the holidays. From ceramics and jewelry to paintings, textiles, and more, the market showcases a curated collection of beautiful and functional creations perfect for gift giving.\n\nFeatured Artists:\n\nHelen Bussey, Laurie Cameron, Margaret Connery, Patty Delp, Nita Duechle, Kim Fox, Chas Frisco, Sharon Gilham, CJ Henderson, Kelli Klymenko, Nancy Leicht, Brenda Man-Fletcher, Denize Katzen, Mary Sobrina Kuder, Desi Sutera, Leanne Lee, Michael McCalla, Carol Meteyer, Kris Mills, Jennifer Myhre, Michele Naylor, Victoria Norton, Mika Okano, Melinda Rasch, Joan Roberts, Julia Robles, Sheena Sovich, Maria Testa, Philip Toroian, Debra Williamson, Iris Yang, and staff members of Sedona Arts Center.\n\nOpening Reception:\nFriday, December 4, 2026 from 4–6pm\n\nMarket Hours:\nSaturday, December 5, 2026 | 10am – 4pm\nSunday, December 6, 2026 | 11am – 3pm",
    "url": "https://sedonaartscenter.org/event/holiday-artist-market-2026/",
    "image": "https://sedonaartscenter.org/wp-content/uploads/2026/07/HolidayArtistMarket20x40-768x384.jpg",
    "imageCredit": "Sedona Arts Center",
@@ -967,8 +1035,8 @@
    "placeLines": "Litchfield Square Park, Litchfield Park",
    "region": "WEST_VALLEY",
    "category": "SEASONAL",
-   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2957",
-   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2957",
+   "summary": "https://www.litchfieldpark.gov/m/calendar/event/detail/2957",
+   "url": "https://www.litchfieldpark.gov/m/calendar/event/detail/2957",
    "sources": [
     "City of Litchfield Park"
    ],
@@ -977,9 +1045,11 @@
     "allDay": false,
     "start": "2026-12-05T00:00:00Z",
     "end": "2026-12-05T03:00:00Z",
-    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2957\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2957"
+    "notes": "https://www.litchfieldpark.gov/m/calendar/event/detail/2957\n\nhttps://www.litchfieldpark.gov/m/calendar/event/detail/2957"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "06032bfbfd",
@@ -1018,8 +1088,8 @@
    "placeLines": "Apache Junction",
    "region": "EAST_VALLEY",
    "category": "SEASONAL",
-   "summary": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586",
+   "summary": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2586",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2586",
    "sources": [
     "City of Apache Junction"
    ],
@@ -1028,9 +1098,11 @@
     "allDay": true,
     "start": "2026-12-05",
     "end": "2026-12-06",
-    "notes": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2586\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2586"
+    "notes": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2586\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2586"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "a9badf538f",
@@ -1047,10 +1119,10 @@
    "region": "PHOENIX",
    "category": "SEASONAL",
    "kids": true,
-   "summary": "Get ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.",
-   "description": "Get ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th. Your little ones can share their wishes with Santa and dance under enchanting snow flurries in our Atrium!\n\nOur winter wonderland schedule of events includes:\n\nSanta Visits from 10:00am-12:00pm and 12:30pm-2:00pm each day\n\nSnow flurries will occur every 15 minutes throughout both days\n\nPlus hands-on holiday projects all day!\n\nThese activities and programs are free with paid Museum admission of $19.00 per person. Members and children under the age of 1 are free.\n\nGenerously supported by ACE",
+   "summary": "December 5th & 6th  Get ready for a magical winter weekend at the Children’s Museum of Phoenix.",
+   "description": "December 5th & 6th\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix. Your little ones can share their wishes with Santa and dance under enchanting snow flurries in our Atrium!\n\nOur winter wonderland schedule of events includes:\n\nSanta Visits from 10:00am-12:00pm and 12:30pm-2:00pm each day\n\nSnow flurries will occur every 15 minutes throughout both days\n\nPlus hands-on holiday projects all day!\n\nMuseum Hours: 9:00am-4:00pm\n\nHoliday activities and programs are free with paid Museum admission of $19.00 per person. Members and children under the age of 1 are free.\n\nGenerously supported by ACE",
    "url": "https://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/",
-   "image": "https://childrensmuseumofphoenix.org/wp-content/uploads/2024/10/SantaSnow-logoSnow.png",
+   "image": "https://childrensmuseumofphoenix.org/wp-content/uploads/2026/10/1080x1080-SS.jpg",
    "imageCredit": "Children's Museum of Phoenix",
    "sources": [
     "Children's Museum of Phoenix"
@@ -1060,9 +1132,11 @@
     "allDay": true,
     "start": "2026-12-05",
     "end": "2026-12-07",
-    "notes": "Hours: 9 AM–4 PM\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix on December 5th & 6th.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
+    "notes": "Hours: 9 AM–4 PM\n\nDecember 5th & 6th  Get ready for a magical winter weekend at the Children’s Museum of Phoenix.\n\nhttps://childrensmuseumofphoenix.org/event/santa-visits-snow-flurries/2026-12-05/"
    },
-   "firstSeen": "2026-10-24T14:40:08Z"
+   "firstSeen": "2026-10-24T14:40:08Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "42a2ee0a33",
@@ -1081,8 +1155,8 @@
    "cost": "Free",
    "free": true,
    "summary": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026!",
-   "description": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026! The event will take place at Flatiron Community Park. There will be lots of activities throughout the day for the whole family. Join us for this one of a kind FREE event for the whole family! We have something for everyone: Santa, Candy Cane Lane, inflatables and more!\n\nThe 28th Annual Holiday Light Parade: Individuals, businesses, non-profit agencies and groups are welcome to enter their floats. Pre-registration is required and the registration deadline is November 27th. The parade starts at 7pm and the route will be on Apache Trail between Phelps Dr. and Thunderbird Drive.\n\nLocal Apache Junction businesses and agencies are encouraged to come out and showcase your excellent products and services. This is only open to City of Apache Junction businesses and Non-Profits. Pre-registration is required and the registration deadline is December 3rd. https://www.apachejunctionaz.gov/calendar.aspx?EID=2556",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2556",
+   "description": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026! The event will take place at Flatiron Community Park. There will be lots of activities throughout the day for the whole family. Join us for this one of a kind FREE event for the whole family! We have something for everyone: Santa, Candy Cane Lane, inflatables and more!\n\nThe 28th Annual Holiday Light Parade: Individuals, businesses, non-profit agencies and groups are welcome to enter their floats. Pre-registration is required and the registration deadline is November 27th. The parade starts at 7pm and the route will be on Apache Trail between Phelps Dr. and Thunderbird Drive.\n\nLocal Apache Junction businesses and agencies are encouraged to come out and showcase your excellent products and services. This is only open to City of Apache Junction businesses and Non-Profits. Pre-registration is required and the registration deadline is December 3rd. https://www.apachejunctionaz.gov/m/calendar/event/detail/2556",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2556",
    "sources": [
     "City of Apache Junction"
    ],
@@ -1091,9 +1165,11 @@
     "allDay": false,
     "start": "2026-12-05T22:00:00Z",
     "end": "2026-12-06T03:00:00Z",
-    "notes": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2556"
+    "notes": "The City of Apache Junction Parks and Recreation will be hosting our annual Holiday Program & Light Parade on Saturday, December 5th, 2026!\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2556"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "332e9d27bb",
@@ -1264,8 +1340,8 @@
    "placeLines": "Litchfield Square Park, Litchfield Park",
    "region": "WEST_VALLEY",
    "category": "SEASONAL",
-   "summary": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958",
-   "url": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958",
+   "summary": "https://www.litchfieldpark.gov/m/calendar/event/detail/2958",
+   "url": "https://www.litchfieldpark.gov/m/calendar/event/detail/2958",
    "sources": [
     "City of Litchfield Park"
    ],
@@ -1274,9 +1350,11 @@
     "allDay": false,
     "start": "2026-12-12T16:00:00Z",
     "end": "2026-12-12T22:00:00Z",
-    "notes": "https://www.litchfieldpark.gov/calendar.aspx?EID=2958\n\nhttps://www.litchfieldpark.gov/calendar.aspx?EID=2958"
+    "notes": "https://www.litchfieldpark.gov/m/calendar/event/detail/2958\n\nhttps://www.litchfieldpark.gov/m/calendar/event/detail/2958"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "69894cdab5",
@@ -1353,8 +1431,8 @@
    "region": "EAST_VALLEY",
    "category": "SEASONAL",
    "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2!",
-   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2! The featured film will start at 7:00pm, and is brought to you by SRP! City of Apache Junction Parks will host this event at Flatiron Community Park at 100 N. Apache Trail Apache Junction, AZ 85119.\n\nIn the event of bad weather prior to movie time, this program could possibly be moved to the Multi-Generational Center. For more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-983-2181 or visit our website at www.apachejunctionaz.gov/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2554",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2554",
+   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2! The featured film will start at 7:00pm, and is brought to you by SRP! City of Apache Junction Parks will host this event at Flatiron Community Park at 100 N. Apache Trail Apache Junction, AZ 85119.\n\nIn the event of bad weather prior to movie time, this program could possibly be moved to the Multi-Generational Center. For more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-983-2181 or visit our website at www.apachejunctionaz.gov/parks. https://www.apachejunctionaz.gov/m/calendar/event/detail/2554",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2554",
    "sources": [
     "City of Apache Junction"
    ],
@@ -1363,9 +1441,11 @@
     "allDay": false,
     "start": "2026-12-13T02:00:00Z",
     "end": "2026-12-13T04:00:00Z",
-    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2554"
+    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a classic - The Santa Clause 2!\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2554"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "bb55259232",
@@ -1625,8 +1705,8 @@
    "cost": "Free",
    "free": true,
    "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!",
-   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band! The Spring Series of Concerts in The Park is providing you with live entertainment. Exit 40 will be taking the stage at 5:30pm and playing until 7:00pm! Concerts in The Park are free to attend and will be held at Flatiron Park located at 100 N Apache Trail, Apache Junction, AZ 85119, unless noted otherwise.\n\nFor more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-474-5240 or visit our website at www.apachejunctionaz/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2594",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2594",
+   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band! The Spring Series of Concerts in The Park is providing you with live entertainment. Exit 40 will be taking the stage at 5:30pm and playing until 7:00pm! Concerts in The Park are free to attend and will be held at Flatiron Park located at 100 N Apache Trail, Apache Junction, AZ 85119, unless noted otherwise.\n\nFor more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-474-5240 or visit our website at www.apachejunctionaz/parks. https://www.apachejunctionaz.gov/m/calendar/event/detail/2594",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2594",
    "sources": [
     "City of Apache Junction"
    ],
@@ -1635,9 +1715,11 @@
     "allDay": false,
     "start": "2027-01-03T00:30:00Z",
     "end": "2027-01-03T02:00:00Z",
-    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2594"
+    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2594"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "9f07d37a4d",
@@ -1683,8 +1765,8 @@
    "region": "EAST_VALLEY",
    "category": "OUTDOOR",
    "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie!",
-   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie! The featured film will start at 6:30pm, and is brought to you by SRP! City of Apache Junction Parks will host this event at Flatiron Park, 100 N Apache Trail, Apache Junction, AZ 85119. In the event of bad weather prior to movie time, this program could possibly be moved to the Multi-Generational Center.\n\nFor more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-983-2181 or visit our website at www.apachejunctionaz.gov/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2610",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2610",
+   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie! The featured film will start at 6:30pm, and is brought to you by SRP! City of Apache Junction Parks will host this event at Flatiron Park, 100 N Apache Trail, Apache Junction, AZ 85119. In the event of bad weather prior to movie time, this program could possibly be moved to the Multi-Generational Center.\n\nFor more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-983-2181 or visit our website at www.apachejunctionaz.gov/parks. https://www.apachejunctionaz.gov/m/calendar/event/detail/2610",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2610",
    "sources": [
     "City of Apache Junction"
    ],
@@ -1693,9 +1775,11 @@
     "allDay": false,
     "start": "2027-01-10T01:30:00Z",
     "end": "2027-01-10T03:30:00Z",
-    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2610"
+    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside watching a fun family movie!\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2610"
    },
-   "firstSeen": "2026-10-17T14:17:13Z"
+   "firstSeen": "2026-10-17T14:17:13Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "35108686b8",
@@ -2045,8 +2129,8 @@
    "region": "EAST_VALLEY",
    "category": "OUTDOOR",
    "summary": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!",
-   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band! The Spring Series of Concerts in The Park is providing you with live entertainment. In conjunction with our annual Burro Derby and Prospector Play Day, Guns Out will be taking the stage at 12:30pm and playing until 2:00pm!\n\nFor more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-474-5240 or visit our website at www.apachejunctionaz/parks. https://www.apachejunctionaz.gov/calendar.aspx?EID=2595",
-   "url": "https://www.apachejunctionaz.gov/calendar.aspx?EID=2595",
+   "description": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band! The Spring Series of Concerts in The Park is providing you with live entertainment. In conjunction with our annual Burro Derby and Prospector Play Day, Guns Out will be taking the stage at 12:30pm and playing until 2:00pm!\n\nFor more information on this program or other programs and services, please contact the Parks and Recreation Department at 480-474-5240 or visit our website at www.apachejunctionaz/parks. https://www.apachejunctionaz.gov/m/calendar/event/detail/2595",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2595",
    "sources": [
     "City of Apache Junction"
    ],
@@ -2055,9 +2139,11 @@
     "allDay": false,
     "start": "2027-02-06T19:30:00Z",
     "end": "2027-02-06T21:00:00Z",
-    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!\n\nhttps://www.apachejunctionaz.gov/calendar.aspx?EID=2595"
+    "notes": "Bring your blanket or lawn chair and enjoy a nice evening outside listening to some great music from a local band!\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2595"
    },
-   "firstSeen": "2026-11-14T17:13:13Z"
+   "firstSeen": "2026-11-14T17:13:13Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:05Z"
   },
   {
    "id": "07eb8f9228",
