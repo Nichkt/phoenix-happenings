@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-18T19:27:05Z",
+ "generatedAt": "2026-11-19T19:31:30Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-18",
- "until": "2027-02-10",
+ "from": "2026-11-19",
+ "until": "2027-02-11",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 8
+   "events": 9
   },
   {
    "name": "azmatsuri.org",
@@ -139,16 +139,16 @@
    "id": "3e2053c24c",
    "series": "85b5055635",
    "title": "Fall Garden After Dark",
-   "start": "2026-11-16",
+   "start": "2026-11-17",
    "end": "2026-11-20",
    "startMinute": 1080,
    "endMinute": 1320,
-   "dates": "Nov 16–20",
+   "dates": "Nov 17–20",
    "time": "6–10 PM",
    "region": "PHOENIX",
    "category": "COMMUNITY",
    "summary": "This fall, the Garden transforms after sunset into a breathtaking celebration of color and light.",
-   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-16/",
+   "url": "https://dbg.org/events/fall-garden-after-dark/2026-11-17/",
    "image": "https://dbg.org/wp-content/uploads/2026/10/super-bloom-oeg.jpg",
    "imageCredit": "Desert Botanical Garden",
    "sources": [
@@ -156,44 +156,13 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-16",
+    "start": "2026-11-17",
     "end": "2026-11-21",
-    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-16/"
+    "notes": "Hours: 6–10 PM\n\nThis fall, the Garden transforms after sunset into a breathtaking celebration of color and light.\n\nhttps://dbg.org/events/fall-garden-after-dark/2026-11-17/"
    },
    "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 33,
-   "changed": "2026-11-18T19:27:05Z"
-  },
-  {
-   "id": "b9c790c5d1",
-   "series": "92bf9349ef",
-   "title": "Agritopia Farm Night",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "startMinute": 1020,
-   "endMinute": 1200,
-   "dates": "Wed, Nov 18",
-   "time": "5–8 PM",
-   "place": "West side of Barnone at Agritopia",
-   "placeLines": "West side of Barnone at Agritopia",
-   "region": "EAST_VALLEY",
-   "category": "FARMERS",
-   "summary": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…",
-   "description": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community through good food and local vendors. Similar to a traditional farmers market with a unique nighttime feel. Our Farm Nights take place on the 1st and 3rd Wednesdays of each month, September through May*, from 5:00 pm to 8:00 pm (*excludes the month of January).",
-   "url": "https://www.discovergilbert.com/events/farm-night/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2024/01/2026-5-Discover-Gilbert-Heritage-District-9159-scaled.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "West side of Barnone at Agritopia, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-19T00:00:00Z",
-    "end": "2026-11-19T03:00:00Z",
-    "notes": "Agritopia Farm Night connects urban dwellers with our Certified Organic produce, offering a beautiful space where people can learn, share, and build community…\n\nhttps://www.discovergilbert.com/events/farm-night/"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "revision": 34,
+   "changed": "2026-11-19T19:31:30Z"
   },
   {
    "id": "c4e4302214",
@@ -465,6 +434,36 @@
     "notes": "Experience the magic at The District as the Holiday Tree lights up for the first time this year.\n\nhttps://azparenting.com/event/annual-holiday-tree-lighting-cheerville/"
    },
    "firstSeen": "2026-11-17T19:55:56Z"
+  },
+  {
+   "id": "ffe9aec557",
+   "series": "d1e1b035b2",
+   "title": "Harriet – Trying to Get the Feeling Again: At Christmas",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "startMinute": 1140,
+   "dates": "Mon, Nov 23",
+   "time": "7 PM",
+   "place": "Higley Center Concert Hall",
+   "placeLines": "Higley Center Concert Hall",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "summary": "Trying To Get The Feeling Again: At Christmas sees Harriet perform a festive edition of her acclaimed celebration of the sounds of the ’70s with her live band.",
+   "description": "Trying To Get The Feeling Again: At Christmas sees Harriet perform a festive edition of her acclaimed celebration of the sounds of the ’70s with her live band. Inspired by the warmth and togetherness of the holiday season, the show blends cherished hits of the decade with seasonal favourites, all delivered in Harriet’s distinctive style.…",
+   "url": "https://www.discovergilbert.com/events/an-evening-with-fleetwood-mask-500/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/11/Harriet-26-Christmas-Image-scaled-1.jpg",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "Higley Center Concert Hall, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-24T02:00:00Z",
+    "end": "2026-11-24T03:00:00Z",
+    "notes": "Trying To Get The Feeling Again: At Christmas sees Harriet perform a festive edition of her acclaimed celebration of the sounds of the ’70s with her live band.\n\nhttps://www.discovergilbert.com/events/an-evening-with-fleetwood-mask-500/"
+   },
+   "firstSeen": "2026-11-19T19:31:30Z"
   },
   {
    "id": "380a54dbb6",
@@ -1565,6 +1564,38 @@
     "notes": "https://mim.org/events/holiday-pies-and-cookies/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "edc9ee622b",
+   "series": "82da7ea83b",
+   "title": "Holiday Traditions and Transformations",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 1140,
+   "dates": "Sat, Dec 19",
+   "time": "7 PM",
+   "place": "North Canyon High School, Phoenix",
+   "placeLines": "North Canyon High School, Phoenix\n1700 E Union Hills, Phoenix, 85024",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "cost": "$10.00",
+   "free": false,
+   "summary": "Ellington reimagines Tchaikovsky’s The Nutcracker in a new way, McAlister combines two of Franck’s French carols in a classical mashup, and you’ve never heard…",
+   "description": "Ellington reimagines Tchaikovsky’s The Nutcracker in a new way, McAlister combines two of Franck’s French carols in a classical mashup, and you’ve never heard Jingle Bells performed quite like Wasson’s imaginative arrangement. Enjoy the holidays with all your family and friends! Guest Conductor Dylan Suehiro will be leading this imaginative holiday concert.",
+   "url": "https://azparenting.com/event/holiday-traditions-and-transformations/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/11/Nutcrakcer.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "North Canyon High School, 1700 E Union Hills, Phoenix, 85024",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-20T02:00:00Z",
+    "end": "2026-12-20T03:00:00Z",
+    "notes": "Ellington reimagines Tchaikovsky’s The Nutcracker in a new way, McAlister combines two of Franck’s French carols in a classical mashup, and you’ve never heard…\n\nhttps://azparenting.com/event/holiday-traditions-and-transformations/"
+   },
+   "firstSeen": "2026-11-19T19:31:30Z"
   },
   {
    "id": "e7c3664e55",

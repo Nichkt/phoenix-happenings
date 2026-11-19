@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:edc9ee622b-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261119T193130Z
+SEQUENCE:0
+DTSTART:20261220T020000Z
+DTEND:20261220T030000Z
+SUMMARY:Holiday Traditions and Transformations
+LOCATION:North Canyon High School\, 1700 E Union Hills\, Phoenix\, 85024
+DESCRIPTION:Ellington reimagines Tchaikovsky’s The Nutcracker in a new wa
+ y\, McAlister combines two of Franck’s French carols in a classical mash
+ up\, and you’ve never heard…\n\nhttps://azparenting.com/event/holiday-
+ traditions-and-transformations/
+URL:https://azparenting.com/event/holiday-traditions-and-transformations/
+END:VEVENT
+END:VCALENDAR
