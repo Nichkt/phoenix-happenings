@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:884021bfa9-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261120T191020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Made with Love Markets: Holiday Kickoff
+LOCATION:Gilbert Regional Park\, AZ
+DESCRIPTION:Get into the holiday spirit at this festive market featuring 10
+ 0+ local vendors\, delicious food trucks\, exclusive door buster deals\, a
+ nd fun freebies…\n\nhttps://www.discovergilbert.com/events/made-with-lov
+ e-markets/
+URL:https://www.discovergilbert.com/events/made-with-love-markets/
+END:VEVENT
+END:VCALENDAR

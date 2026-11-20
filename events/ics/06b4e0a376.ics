@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06b4e0a376-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261120T191020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Made with Love Market: Merry & Bright
+LOCATION:Gilbert Civic Center Plaza\, AZ
+DESCRIPTION:Get into the holiday spirit at this festive market featuring 10
+ 0+ local vendors\, delicious food trucks\, exclusive door buster deals\, a
+ nd fun freebies…\n\nhttps://www.discovergilbert.com/events/made-with-lov
+ e-merry-and-bright/
+URL:https://www.discovergilbert.com/events/made-with-love-merry-and-bright/
+END:VEVENT
+END:VCALENDAR
