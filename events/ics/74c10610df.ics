@@ -5,17 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:74c10610df-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261120T191020Z
-SEQUENCE:0
-DTSTART:20270212T170000Z
-DTEND:20270213T050000Z
+DTSTAMP:20261121T180529Z
+SEQUENCE:1
+LAST-MODIFIED:20261121T180529Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270214
+TRANSP:TRANSPARENT
 SUMMARY:Desert Sol Festival
 LOCATION:Desert Botanical Garden\, 1201 N. Galvin Parkway\, Phoenix\, AZ\, 
  85008
-DESCRIPTION:We’re introducing six weekends of vibrant live music from day
-  into night\, festive food and drinks\, hands-on adventures and breathtaki
- ng desert beauty.\n\nhttps://dbg.org/events/desert-sol-festival/2027-02-12
- /
+DESCRIPTION:Hours: 10 AM–10 PM\n\nWe’re introducing six weekends of vib
+ rant live music from day into night\, festive food and drinks\, hands-on a
+ dventures and breathtaking desert beauty.\n\nhttps://dbg.org/events/desert
+ -sol-festival/2027-02-12/
 URL:https://dbg.org/events/desert-sol-festival/2027-02-12/
 END:VEVENT
 END:VCALENDAR
