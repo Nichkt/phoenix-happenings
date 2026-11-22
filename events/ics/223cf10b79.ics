@@ -5,15 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:223cf10b79-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261121T180529Z
-SEQUENCE:0
-DTSTART:20270213T160000Z
-DTEND:20270214T000000Z
+DTSTAMP:20261122T183505Z
+SEQUENCE:1
+LAST-MODIFIED:20261122T183505Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
 SUMMARY:Celebrate Salsa
 LOCATION:Musical Instrument Museum\, 4725 E. Mayo Blvd.\, Phoenix\, AZ\, 85
  050
-DESCRIPTION:Fall in love with the irresistible rhythms of salsa this Valent
- ine’s Day weekend!\n\nhttps://mim.org/events/celebrate-salsa/2027-02-13/
+DESCRIPTION:Hours: 9 AM–5 PM\n\nFall in love with the irresistible rhythm
+ s of salsa this Valentine’s Day weekend!\n\nhttps://mim.org/events/celeb
+ rate-salsa/2027-02-13/
 URL:https://mim.org/events/celebrate-salsa/2027-02-13/
 END:VEVENT
 END:VCALENDAR

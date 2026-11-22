@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-21T18:05:29Z",
+ "generatedAt": "2026-11-22T18:35:05Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-21",
- "until": "2027-02-13",
+ "from": "2026-11-22",
+ "until": "2027-02-14",
  "regions": [
   {
    "id": "PHOENIX",
@@ -103,11 +103,11 @@
   },
   {
    "name": "City of Litchfield Park",
-   "events": 3
+   "events": 2
   },
   {
    "name": "City of Phoenix",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Desert Botanical Garden",
@@ -136,16 +136,16 @@
  ],
  "events": [
   {
-   "id": "4799bee8bb",
+   "id": "b4041c87af",
    "series": "0cdcd4f74b",
    "title": "2026 Guide to AZ Holiday Happenings",
-   "start": "2026-11-19",
+   "start": "2026-11-20",
    "end": "2027-01-03",
-   "dates": "Nov 19–Jan 3",
+   "dates": "Nov 20–Jan 3",
    "category": "SEASONAL",
    "summary": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.",
    "description": "Your 2026 Guide to Holiday Events\n\nArizona is full of holiday cheer this time of year. Join these local events for a fun-filled holiday season!\n\nView the entire guide here: azparenting.com/2026-holiday-events/\n\nEvents are subject to change, and some sell out, so we encourage you to check event websites before planning your visit.",
-   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-19/",
+   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-20/",
    "image": "https://azparenting.com/wp-content/uploads/2025/11/AZP_Slider_5-2-1.jpg",
    "imageCredit": "Arizona Parenting",
    "sources": [
@@ -153,98 +153,11 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-19",
+    "start": "2026-11-20",
     "end": "2027-01-04",
-    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-19/"
+    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-20/"
    },
-   "firstSeen": "2026-11-20T19:10:20Z"
-  },
-  {
-   "id": "edb3773b96",
-   "series": "4eef5b8844",
-   "title": "Touch-A-Truck",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 540,
-   "endMinute": 720,
-   "dates": "Sat, Nov 21",
-   "time": "9 AM–12 PM",
-   "place": "Litchfield Elementary School (parking lot on south, Litchfield Park",
-   "placeLines": "Litchfield Elementary School (parking lot on south, Litchfield Park",
-   "region": "WEST_VALLEY",
-   "category": "COMMUNITY",
-   "kids": true,
-   "summary": "https://www.litchfieldpark.gov/m/calendar/event/detail/2956",
-   "url": "https://www.litchfieldpark.gov/m/calendar/event/detail/2956",
-   "sources": [
-    "City of Litchfield Park"
-   ],
-   "map": "Litchfield Elementary School (parking lot on south, Litchfield Elementary School (parking lot on south 255 W Wigwam Blvd Litchfield Park AZ 85340",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T16:00:00Z",
-    "end": "2026-11-21T19:00:00Z",
-    "notes": "https://www.litchfieldpark.gov/m/calendar/event/detail/2956\n\nhttps://www.litchfieldpark.gov/m/calendar/event/detail/2956"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z",
-   "revision": 1,
-   "changed": "2026-11-18T19:27:05Z"
-  },
-  {
-   "id": "8bfb30e02c",
-   "series": "579dae44de",
-   "title": "8th Annual Portal Fest",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–2 PM",
-   "place": "Phoenix",
-   "placeLines": "4619 E Washington St. Phoenix, AZ 85034",
-   "region": "PHOENIX",
-   "category": "COMMUNITY",
-   "url": "https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-portal-fest.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "4619 E Washington St. Phoenix, AZ 85034",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T17:00:00Z",
-    "end": "2026-11-21T21:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-portal-fest.html"
-   },
-   "firstSeen": "2026-10-16T07:58:53Z"
-  },
-  {
-   "id": "df0ff02db0",
-   "series": "ae731d1c41",
-   "title": "Gilbert Days Festival",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 960,
-   "endMinute": 1260,
-   "dates": "Sat, Nov 21",
-   "time": "4–9 PM",
-   "region": "EAST_VALLEY",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Join us at Gilbert Regional Park for live music, food and drinks, local shopping, and family fun this fall!",
-   "url": "https://www.discovergilbert.com/events/gilbert-days-festival-2/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2025/10/639210123467630000.jpeg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T23:00:00Z",
-    "end": "2026-11-22T04:00:00Z",
-    "notes": "Join us at Gilbert Regional Park for live music, food and drinks, local shopping, and family fun this fall!\n\nhttps://www.discovergilbert.com/events/gilbert-days-festival-2/"
-   },
-   "firstSeen": "2026-10-31T16:12:14Z"
+   "firstSeen": "2026-11-22T18:35:05Z"
   },
   {
    "id": "3e243c5589",
@@ -1001,6 +914,38 @@
    "firstSeen": "2026-10-16T07:58:53Z",
    "revision": 1,
    "changed": "2026-11-18T19:27:05Z"
+  },
+  {
+   "id": "38b04720ae",
+   "series": "704c3df79f",
+   "title": "Breakfast with Santa",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 510,
+   "endMinute": 660,
+   "dates": "Sat, Dec 5",
+   "time": "8:30–11 AM",
+   "place": "HD South",
+   "placeLines": "HD South",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Start the season with a morning the whole family can share.",
+   "description": "Start the season with a morning the whole family can share. Enjoy breakfast, meet Santa, and make holiday memories with cookie decorating, ornament making, music, face painting, and more!",
+   "url": "https://www.discovergilbert.com/events/breakfast-with-santa/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/11/Breakfast-with-Santa-2025.png",
+   "imageCredit": "Discover Gilbert",
+   "sources": [
+    "Discover Gilbert"
+   ],
+   "map": "HD South, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T15:30:00Z",
+    "end": "2026-12-05T18:00:00Z",
+    "notes": "Start the season with a morning the whole family can share.\n\nhttps://www.discovergilbert.com/events/breakfast-with-santa/"
+   },
+   "firstSeen": "2026-11-22T18:35:05Z"
   },
   {
    "id": "a9badf538f",
@@ -2139,10 +2084,10 @@
    "series": "ff0a7a820c",
    "title": "Desert Sol Festival",
    "start": "2027-02-12",
-   "end": "2027-02-13",
+   "end": "2027-02-14",
    "startMinute": 600,
    "endMinute": 1320,
-   "dates": "Feb 12–13",
+   "dates": "Feb 12–14",
    "time": "10 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
@@ -2159,22 +2104,22 @@
    "calendar": {
     "allDay": true,
     "start": "2027-02-12",
-    "end": "2027-02-14",
+    "end": "2027-02-15",
     "notes": "Hours: 10 AM–10 PM\n\nWe’re introducing six weekends of vibrant live music from day into night, festive food and drinks, hands-on adventures and breathtaking desert beauty.\n\nhttps://dbg.org/events/desert-sol-festival/2027-02-12/"
    },
    "firstSeen": "2026-11-20T19:10:20Z",
-   "revision": 1,
-   "changed": "2026-11-21T18:05:29Z"
+   "revision": 2,
+   "changed": "2026-11-22T18:35:05Z"
   },
   {
    "id": "223cf10b79",
    "series": "8a05cbf649",
    "title": "Celebrate Salsa",
    "start": "2027-02-13",
-   "end": "2027-02-13",
+   "end": "2027-02-14",
    "startMinute": 540,
    "endMinute": 1020,
-   "dates": "Sat, Feb 13",
+   "dates": "Feb 13–14",
    "time": "9 AM–5 PM",
    "place": "Musical Instrument Museum, Phoenix",
    "placeLines": "Musical Instrument Museum, Phoenix\n4725 E. Mayo Blvd., Phoenix, AZ, 85050",
@@ -2190,12 +2135,14 @@
    ],
    "map": "Musical Instrument Museum, 4725 E. Mayo Blvd., Phoenix, AZ, 85050",
    "calendar": {
-    "allDay": false,
-    "start": "2027-02-13T16:00:00Z",
-    "end": "2027-02-14T00:00:00Z",
-    "notes": "Fall in love with the irresistible rhythms of salsa this Valentine’s Day weekend!\n\nhttps://mim.org/events/celebrate-salsa/2027-02-13/"
+    "allDay": true,
+    "start": "2027-02-13",
+    "end": "2027-02-15",
+    "notes": "Hours: 9 AM–5 PM\n\nFall in love with the irresistible rhythms of salsa this Valentine’s Day weekend!\n\nhttps://mim.org/events/celebrate-salsa/2027-02-13/"
    },
-   "firstSeen": "2026-11-21T18:05:29Z"
+   "firstSeen": "2026-11-21T18:05:29Z",
+   "revision": 1,
+   "changed": "2026-11-22T18:35:05Z"
   },
   {
    "id": "07eb8f9228",

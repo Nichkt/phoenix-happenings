@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38b04720ae-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261122T183505Z
+SEQUENCE:0
+DTSTART:20261205T153000Z
+DTEND:20261205T180000Z
+SUMMARY:Breakfast with Santa
+LOCATION:HD South\, AZ
+DESCRIPTION:Start the season with a morning the whole family can share.\n\n
+ https://www.discovergilbert.com/events/breakfast-with-santa/
+URL:https://www.discovergilbert.com/events/breakfast-with-santa/
+END:VEVENT
+END:VCALENDAR
