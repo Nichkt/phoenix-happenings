@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b805625b7-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261123T224526Z
+SEQUENCE:0
+DTSTART:20261212T160000Z
+DTEND:20261212T190000Z
+SUMMARY:PFD Holiday Food Drive
+LOCATION:Fire Station 74\, AZ
+DESCRIPTION:https://www.phoenix.gov/calendar/fire-events/pfd-holiday-food-d
+ rive.html
+URL:https://www.phoenix.gov/calendar/fire-events/pfd-holiday-food-drive.htm
+ l
+END:VEVENT
+END:VCALENDAR

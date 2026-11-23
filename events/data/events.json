@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-22T18:35:05Z",
+ "generatedAt": "2026-11-23T22:45:26Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-22",
- "until": "2027-02-14",
+ "from": "2026-11-23",
+ "until": "2027-02-15",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 10
+   "events": 15
   },
   {
    "name": "azmatsuri.org",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 3
+   "events": 4
   },
   {
    "name": "Desert Botanical Garden",
@@ -115,7 +115,7 @@
   },
   {
    "name": "Discover Gilbert",
-   "events": 9
+   "events": 8
   },
   {
    "name": "Musical Instrument Museum",
@@ -136,16 +136,16 @@
  ],
  "events": [
   {
-   "id": "b4041c87af",
+   "id": "09a00dc8fa",
    "series": "0cdcd4f74b",
    "title": "2026 Guide to AZ Holiday Happenings",
-   "start": "2026-11-20",
+   "start": "2026-11-21",
    "end": "2027-01-03",
-   "dates": "Nov 20–Jan 3",
+   "dates": "Nov 21–Jan 3",
    "category": "SEASONAL",
    "summary": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.",
    "description": "Your 2026 Guide to Holiday Events\n\nArizona is full of holiday cheer this time of year. Join these local events for a fun-filled holiday season!\n\nView the entire guide here: azparenting.com/2026-holiday-events/\n\nEvents are subject to change, and some sell out, so we encourage you to check event websites before planning your visit.",
-   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-20/",
+   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-21/",
    "image": "https://azparenting.com/wp-content/uploads/2025/11/AZP_Slider_5-2-1.jpg",
    "imageCredit": "Arizona Parenting",
    "sources": [
@@ -153,11 +153,11 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-20",
+    "start": "2026-11-21",
     "end": "2027-01-04",
-    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-20/"
+    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-21/"
    },
-   "firstSeen": "2026-11-22T18:35:05Z"
+   "firstSeen": "2026-11-23T22:45:26Z"
   },
   {
    "id": "3e243c5589",
@@ -446,6 +446,7 @@
    "region": "NORTH",
    "category": "SEASONAL",
    "kids": true,
+   "summary": "Learn More",
    "url": "https://www.carefree.org/events",
    "sources": [
     "Town of Carefree"
@@ -455,9 +456,11 @@
     "allDay": false,
     "start": "2026-11-28T17:00:00Z",
     "end": "2026-11-28T23:00:00Z",
-    "notes": "https://www.carefree.org/events"
+    "notes": "Learn More\n\nhttps://www.carefree.org/events"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-23T22:45:26Z"
   },
   {
    "id": "c3d151f58f",
@@ -536,6 +539,7 @@
    "placeLines": "101 Easy St, Carefree, AZ 85377, USA",
    "region": "NORTH",
    "category": "SEASONAL",
+   "summary": "Learn More",
    "url": "https://www.carefree.org/events",
    "sources": [
     "Town of Carefree"
@@ -545,9 +549,11 @@
     "allDay": false,
     "start": "2026-11-29T00:00:00Z",
     "end": "2026-11-29T02:00:00Z",
-    "notes": "https://www.carefree.org/events"
+    "notes": "Learn More\n\nhttps://www.carefree.org/events"
    },
-   "firstSeen": "2026-10-16T07:58:53Z"
+   "firstSeen": "2026-10-16T07:58:53Z",
+   "revision": 1,
+   "changed": "2026-11-23T22:45:26Z"
   },
   {
    "id": "4a4a4997ba",
@@ -770,6 +776,37 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "7a7709c3b3",
+   "series": "4140151d90",
+   "title": "Annual Holiday Tree Lighting",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 1020,
+   "endMinute": 1110,
+   "dates": "Fri, Dec 4",
+   "time": "5–6:30 PM",
+   "place": "Tlaquepaque, Sedona",
+   "placeLines": "Tlaquepaque, Sedona\n336 SR 179, Sedona, 86336",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "summary": "View one of Arizona’s most enchanting destinations with a festive tree-lighting celebration!",
+   "description": "View one of Arizona’s most enchanting destinations with a festive tree-lighting celebration! Enjoy the arrival of Santa, children’s activities, complimentary hot chocolate, and local holiday entertainment. The highlight of the evening will be a magnificent 26-foot Christmas tree illuminated with thousands of twinkling lights, bringing holiday magic to life for the whole family.",
+   "url": "https://azparenting.com/event/annual-holiday-tree-lighting-2/",
+   "image": "https://azparenting.com/wp-content/uploads/2026/11/tree-lighting.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Tlaquepaque, 336 SR 179, Sedona, 86336",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T00:00:00Z",
+    "end": "2026-12-05T01:30:00Z",
+    "notes": "View one of Arizona’s most enchanting destinations with a festive tree-lighting celebration!\n\nhttps://azparenting.com/event/annual-holiday-tree-lighting-2/"
+   },
+   "firstSeen": "2026-11-23T22:45:26Z"
+  },
+  {
    "id": "42fe2588ff",
    "series": "99534e90cf",
    "title": "Las Noches de las Luminarias",
@@ -925,27 +962,31 @@
    "endMinute": 660,
    "dates": "Sat, Dec 5",
    "time": "8:30–11 AM",
-   "place": "HD South",
-   "placeLines": "HD South",
+   "place": "HD SOUTH — Home of The Gilbert Historical Museum",
+   "placeLines": "HD SOUTH — Home of The Gilbert Historical Museum\n10 S Gilbert Rd, Gilbert, AZ, 85296",
    "region": "EAST_VALLEY",
    "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
    "kids": true,
-   "summary": "Start the season with a morning the whole family can share.",
-   "description": "Start the season with a morning the whole family can share. Enjoy breakfast, meet Santa, and make holiday memories with cookie decorating, ornament making, music, face painting, and more!",
-   "url": "https://www.discovergilbert.com/events/breakfast-with-santa/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/11/Breakfast-with-Santa-2025.png",
-   "imageCredit": "Discover Gilbert",
+   "summary": "Santa Claus returns for his 9th annual visit to HD SOUTH for a festive morning of fun!",
+   "description": "Santa Claus returns for his 9th annual visit to HD SOUTH for a festive morning of fun! Enjoy a tasty breakfast, meet Santa, and snap a photo to remember the day. The event also includes holiday activities like cookie decorating, ornament making, face painting, story telling, and free admission to HD SOUTH.",
+   "url": "https://azparenting.com/event/breakfast-with-santa-3/",
+   "image": "https://azparenting.com/wp-content/uploads/2022/11/Breakfast-With-Santa-HD-South1-e1763054445835.jpg",
+   "imageCredit": "Arizona Parenting",
    "sources": [
-    "Discover Gilbert"
+    "Arizona Parenting"
    ],
-   "map": "HD South, AZ",
+   "map": "HD SOUTH — Home of The Gilbert Historical Museum, 10 S Gilbert Rd, Gilbert, AZ, 85296",
    "calendar": {
     "allDay": false,
     "start": "2026-12-05T15:30:00Z",
     "end": "2026-12-05T18:00:00Z",
-    "notes": "Start the season with a morning the whole family can share.\n\nhttps://www.discovergilbert.com/events/breakfast-with-santa/"
+    "notes": "Santa Claus returns for his 9th annual visit to HD SOUTH for a festive morning of fun!\n\nhttps://azparenting.com/event/breakfast-with-santa-3/"
    },
-   "firstSeen": "2026-11-22T18:35:05Z"
+   "firstSeen": "2026-11-22T18:35:05Z",
+   "revision": 1,
+   "changed": "2026-11-23T22:45:26Z"
   },
   {
    "id": "a9badf538f",
@@ -961,6 +1002,8 @@
    "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
    "region": "PHOENIX",
    "category": "SEASONAL",
+   "cost": "$19.00",
+   "free": false,
    "kids": true,
    "summary": "December 5th & 6th  Get ready for a magical winter weekend at the Children’s Museum of Phoenix.",
    "description": "December 5th & 6th\n\nGet ready for a magical winter weekend at the Children’s Museum of Phoenix. Your little ones can share their wishes with Santa and dance under enchanting snow flurries in our Atrium!\n\nOur winter wonderland schedule of events includes:\n\nSanta Visits from 10:00am-12:00pm and 12:30pm-2:00pm each day\n\nSnow flurries will occur every 15 minutes throughout both days\n\nPlus hands-on holiday projects all day!\n\nMuseum Hours: 9:00am-4:00pm\n\nHoliday activities and programs are free with paid Museum admission of $19.00 per person. Members and children under the age of 1 are free.\n\nGenerously supported by ACE",
@@ -968,7 +1011,8 @@
    "image": "https://childrensmuseumofphoenix.org/wp-content/uploads/2026/10/1080x1080-SS.jpg",
    "imageCredit": "Children's Museum of Phoenix",
    "sources": [
-    "Children's Museum of Phoenix"
+    "Children's Museum of Phoenix",
+    "Arizona Parenting"
    ],
    "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
    "calendar": {
@@ -980,6 +1024,70 @@
    "firstSeen": "2026-10-24T14:40:08Z",
    "revision": 1,
    "changed": "2026-11-18T19:27:05Z"
+  },
+  {
+   "id": "dd0500c346",
+   "series": "c9faff5e37",
+   "title": "Prescott’s Annual Christmas Parade & Courthouse Lighting",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 780,
+   "endMinute": 1170,
+   "dates": "Sat, Dec 5",
+   "time": "1–7:30 PM",
+   "place": "Downtown Historic Area, Prescott",
+   "placeLines": "Downtown Historic Area, Prescott\n117 W Goodwin St, Prescott, 86303",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "summary": "Celebrate this season with a festive parade around downtown Prescott, featuring floats, marching bands, music, festivities, and Santa!",
+   "description": "Celebrate this season with a festive parade around downtown Prescott, featuring floats, marching bands, music, festivities, and Santa! A few hours later everyone gathers in the Courthouse Square with eager anticipation as they wait for the Christmas lights to come to life! The parade begins at 1pm in Downtown Prescott. The Annual 72nd Courthouse Lighting Event will be held after the parade at 5pm and fireworks will conclude the night. Visit the website for maps and more information.",
+   "url": "https://azparenting.com/event/prescotts-annual-christmas-parade-courthouse-lighting-3/",
+   "image": "https://azparenting.com/wp-content/uploads/2022/06/Prescott-Annual-Christmas-Parade-e1731092195310.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Downtown Historic Area, 117 W Goodwin St, Prescott, 86303",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T20:00:00Z",
+    "end": "2026-12-06T02:30:00Z",
+    "notes": "Celebrate this season with a festive parade around downtown Prescott, featuring floats, marching bands, music, festivities, and Santa!\n\nhttps://azparenting.com/event/prescotts-annual-christmas-parade-courthouse-lighting-3/"
+   },
+   "firstSeen": "2026-11-23T22:45:26Z"
+  },
+  {
+   "id": "9b74cccbca",
+   "series": "ab28228282",
+   "title": "Winter Wonderland & Tree Lighting",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 870,
+   "endMinute": 1140,
+   "dates": "Sat, Dec 5",
+   "time": "2:30–7 PM",
+   "place": "Heritage Square Flagstaff",
+   "placeLines": "Heritage Square Flagstaff\n22 E. Aspen Ave, Flagstaff, 86001",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "❄️Kick off your holiday season in Downtown Flagstaff – home of Arizona’s Winter Wonderland!",
+   "description": "❄️Kick off your holiday season in Downtown Flagstaff – home of Arizona’s Winter Wonderland! There will be festive activities for all ages, including live music, games, activities, crafts, hot cocoa, and more! As evening arrives, Santa and local elected officials will gather everyone around the tree for the annual lighting.",
+   "url": "https://azparenting.com/event/winter-wonderland-tree-lighting-2/",
+   "image": "https://azparenting.com/wp-content/uploads/2021/11/Flagstaff-Tree-Lighting-e1763751402644.jpg",
+   "imageCredit": "Arizona Parenting",
+   "sources": [
+    "Arizona Parenting"
+   ],
+   "map": "Heritage Square Flagstaff, 22 E. Aspen Ave, Flagstaff, 86001",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T21:30:00Z",
+    "end": "2026-12-06T02:00:00Z",
+    "notes": "❄️Kick off your holiday season in Downtown Flagstaff – home of Arizona’s Winter Wonderland!\n\nhttps://azparenting.com/event/winter-wonderland-tree-lighting-2/"
+   },
+   "firstSeen": "2026-11-23T22:45:26Z"
   },
   {
    "id": "42a2ee0a33",
@@ -1228,6 +1336,33 @@
    "firstSeen": "2026-10-16T07:58:53Z",
    "revision": 1,
    "changed": "2026-11-18T19:27:05Z"
+  },
+  {
+   "id": "2b805625b7",
+   "series": "7ce1ca0306",
+   "title": "PFD Holiday Food Drive",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 540,
+   "endMinute": 720,
+   "dates": "Sat, Dec 12",
+   "time": "9 AM–12 PM",
+   "place": "Fire Station 74",
+   "placeLines": "Fire Station 74",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/fire-events/pfd-holiday-food-drive.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Fire Station 74, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T16:00:00Z",
+    "end": "2026-12-12T19:00:00Z",
+    "notes": "https://www.phoenix.gov/calendar/fire-events/pfd-holiday-food-drive.html"
+   },
+   "firstSeen": "2026-11-23T22:45:26Z"
   },
   {
    "id": "69894cdab5",
@@ -2084,10 +2219,10 @@
    "series": "ff0a7a820c",
    "title": "Desert Sol Festival",
    "start": "2027-02-12",
-   "end": "2027-02-14",
+   "end": "2027-02-15",
    "startMinute": 600,
    "endMinute": 1320,
-   "dates": "Feb 12–14",
+   "dates": "Feb 12–15",
    "time": "10 AM–10 PM",
    "place": "Desert Botanical Garden, Phoenix",
    "placeLines": "Desert Botanical Garden, Phoenix\n1201 N. Galvin Parkway, Phoenix, AZ, 85008",
@@ -2104,22 +2239,22 @@
    "calendar": {
     "allDay": true,
     "start": "2027-02-12",
-    "end": "2027-02-15",
+    "end": "2027-02-16",
     "notes": "Hours: 10 AM–10 PM\n\nWe’re introducing six weekends of vibrant live music from day into night, festive food and drinks, hands-on adventures and breathtaking desert beauty.\n\nhttps://dbg.org/events/desert-sol-festival/2027-02-12/"
    },
    "firstSeen": "2026-11-20T19:10:20Z",
-   "revision": 2,
-   "changed": "2026-11-22T18:35:05Z"
+   "revision": 3,
+   "changed": "2026-11-23T22:45:26Z"
   },
   {
    "id": "223cf10b79",
    "series": "8a05cbf649",
    "title": "Celebrate Salsa",
    "start": "2027-02-13",
-   "end": "2027-02-14",
+   "end": "2027-02-15",
    "startMinute": 540,
    "endMinute": 1020,
-   "dates": "Feb 13–14",
+   "dates": "Feb 13–15",
    "time": "9 AM–5 PM",
    "place": "Musical Instrument Museum, Phoenix",
    "placeLines": "Musical Instrument Museum, Phoenix\n4725 E. Mayo Blvd., Phoenix, AZ, 85050",
@@ -2137,12 +2272,12 @@
    "calendar": {
     "allDay": true,
     "start": "2027-02-13",
-    "end": "2027-02-15",
+    "end": "2027-02-16",
     "notes": "Hours: 9 AM–5 PM\n\nFall in love with the irresistible rhythms of salsa this Valentine’s Day weekend!\n\nhttps://mim.org/events/celebrate-salsa/2027-02-13/"
    },
    "firstSeen": "2026-11-21T18:05:29Z",
-   "revision": 1,
-   "changed": "2026-11-22T18:35:05Z"
+   "revision": 2,
+   "changed": "2026-11-23T22:45:26Z"
   },
   {
    "id": "07eb8f9228",

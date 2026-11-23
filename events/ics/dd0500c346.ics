@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd0500c346-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261123T224526Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T023000Z
+SUMMARY:Prescott’s Annual Christmas Parade & Courthouse Lighting
+LOCATION:Downtown Historic Area\, 117 W Goodwin St\, Prescott\, 86303
+DESCRIPTION:Celebrate this season with a festive parade around downtown Pre
+ scott\, featuring floats\, marching bands\, music\, festivities\, and Sant
+ a!\n\nhttps://azparenting.com/event/prescotts-annual-christmas-parade-cour
+ thouse-lighting-3/
+URL:https://azparenting.com/event/prescotts-annual-christmas-parade-courtho
+ use-lighting-3/
+END:VEVENT
+END:VCALENDAR

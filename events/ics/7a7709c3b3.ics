@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a7709c3b3-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261123T224526Z
+SEQUENCE:0
+DTSTART:20261205T000000Z
+DTEND:20261205T013000Z
+SUMMARY:Annual Holiday Tree Lighting
+LOCATION:Tlaquepaque\, 336 SR 179\, Sedona\, 86336
+DESCRIPTION:View one of Arizona’s most enchanting destinations with a fes
+ tive tree-lighting celebration!\n\nhttps://azparenting.com/event/annual-ho
+ liday-tree-lighting-2/
+URL:https://azparenting.com/event/annual-holiday-tree-lighting-2/
+END:VEVENT
+END:VCALENDAR

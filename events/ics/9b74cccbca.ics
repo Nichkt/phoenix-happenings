@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b74cccbca-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261123T224526Z
+SEQUENCE:0
+DTSTART:20261205T213000Z
+DTEND:20261206T020000Z
+SUMMARY:Winter Wonderland & Tree Lighting
+LOCATION:Heritage Square Flagstaff\, 22 E. Aspen Ave\, Flagstaff\, 86001
+DESCRIPTION:❄️Kick off your holiday season in Downtown Flagstaff – ho
+ me of Arizona’s Winter Wonderland!\n\nhttps://azparenting.com/event/wint
+ er-wonderland-tree-lighting-2/
+URL:https://azparenting.com/event/winter-wonderland-tree-lighting-2/
+END:VEVENT
+END:VCALENDAR

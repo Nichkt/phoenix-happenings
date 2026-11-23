@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:38b04720ae-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261122T183505Z
-SEQUENCE:0
+DTSTAMP:20261123T224526Z
+SEQUENCE:1
+LAST-MODIFIED:20261123T224526Z
 DTSTART:20261205T153000Z
 DTEND:20261205T180000Z
 SUMMARY:Breakfast with Santa
-LOCATION:HD South\, AZ
-DESCRIPTION:Start the season with a morning the whole family can share.\n\n
- https://www.discovergilbert.com/events/breakfast-with-santa/
-URL:https://www.discovergilbert.com/events/breakfast-with-santa/
+LOCATION:HD SOUTH — Home of The Gilbert Historical Museum\, 10 S Gilbert 
+ Rd\, Gilbert\, AZ\, 85296
+DESCRIPTION:Santa Claus returns for his 9th annual visit to HD SOUTH for a 
+ festive morning of fun!\n\nhttps://azparenting.com/event/breakfast-with-sa
+ nta-3/
+URL:https://azparenting.com/event/breakfast-with-santa-3/
 END:VEVENT
 END:VCALENDAR
