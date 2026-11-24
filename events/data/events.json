@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-23T22:45:26Z",
+ "generatedAt": "2026-11-24T21:23:01Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-23",
- "until": "2027-02-15",
+ "from": "2026-11-24",
+ "until": "2027-02-16",
  "regions": [
   {
    "id": "PHOENIX",
@@ -87,7 +87,7 @@
  "sources": [
   {
    "name": "Arizona Parenting",
-   "events": 15
+   "events": 14
   },
   {
    "name": "azmatsuri.org",
@@ -99,7 +99,7 @@
   },
   {
    "name": "City of Apache Junction",
-   "events": 6
+   "events": 8
   },
   {
    "name": "City of Litchfield Park",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Desert Botanical Garden",
@@ -136,16 +136,16 @@
  ],
  "events": [
   {
-   "id": "09a00dc8fa",
+   "id": "b9629271a6",
    "series": "0cdcd4f74b",
    "title": "2026 Guide to AZ Holiday Happenings",
-   "start": "2026-11-21",
+   "start": "2026-11-22",
    "end": "2027-01-03",
-   "dates": "Nov 21–Jan 3",
+   "dates": "Nov 22–Jan 3",
    "category": "SEASONAL",
    "summary": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.",
    "description": "Your 2026 Guide to Holiday Events\n\nArizona is full of holiday cheer this time of year. Join these local events for a fun-filled holiday season!\n\nView the entire guide here: azparenting.com/2026-holiday-events/\n\nEvents are subject to change, and some sell out, so we encourage you to check event websites before planning your visit.",
-   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-21/",
+   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-22/",
    "image": "https://azparenting.com/wp-content/uploads/2025/11/AZP_Slider_5-2-1.jpg",
    "imageCredit": "Arizona Parenting",
    "sources": [
@@ -153,101 +153,11 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-21",
+    "start": "2026-11-22",
     "end": "2027-01-04",
-    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-21/"
+    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-22/"
    },
-   "firstSeen": "2026-11-23T22:45:26Z"
-  },
-  {
-   "id": "3e243c5589",
-   "series": "703c95cabe",
-   "title": "Farm Express Mobile Market",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 570,
-   "endMinute": 720,
-   "dates": "Mon, Nov 23",
-   "time": "9:30 AM–12 PM",
-   "place": "Travis L. Williams Family Services Center, Phoenix",
-   "placeLines": "Travis L. Williams Family Services Center, Phoenix",
-   "region": "PHOENIX",
-   "category": "NIGHT_MARKET",
-   "url": "https://www.phoenix.gov/calendar/human-services-events/farm-express-mobile-market.html",
-   "sources": [
-    "City of Phoenix"
-   ],
-   "map": "Travis L. Williams Family Services Center, Travis L. Williams Family Services Center - 4732 S. Central Ave. Phoenix, AZ 85040",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T16:30:00Z",
-    "end": "2026-11-23T19:00:00Z",
-    "notes": "https://www.phoenix.gov/calendar/human-services-events/farm-express-mobile-market.html"
-   },
-   "firstSeen": "2026-11-16T21:06:59Z"
-  },
-  {
-   "id": "779677f6cb",
-   "series": "a489c4b634",
-   "title": "Annual Holiday Tree Lighting “Cheerville”",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Mon, Nov 23",
-   "time": "6–9 PM",
-   "place": "Desert Ridge Marketplace, Phoenix",
-   "placeLines": "Desert Ridge Marketplace, Phoenix\n21001 N. Tatum Blvd., Phoenix, AZ",
-   "region": "PHOENIX",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Experience the magic at The District as the Holiday Tree lights up for the first time this year.",
-   "description": "Experience the magic at The District as the Holiday Tree lights up for the first time this year. Join for an unforgettable evening filled with festive fun, live entertainment, free holiday activities, strolling characters, photos with Santa and plenty of cheerful surprises along the way. Step into the sparkling world of Cheerville and celebrate the most wonderful time of the year with the whole family.",
-   "url": "https://azparenting.com/event/annual-holiday-tree-lighting-cheerville/",
-   "image": "https://azparenting.com/wp-content/uploads/2026/11/cheerville.jpg",
-   "imageCredit": "Arizona Parenting",
-   "sources": [
-    "Arizona Parenting"
-   ],
-   "map": "Desert Ridge Marketplace, 21001 N. Tatum Blvd., Phoenix, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-24T01:00:00Z",
-    "end": "2026-11-24T04:00:00Z",
-    "notes": "Experience the magic at The District as the Holiday Tree lights up for the first time this year.\n\nhttps://azparenting.com/event/annual-holiday-tree-lighting-cheerville/"
-   },
-   "firstSeen": "2026-11-17T19:55:56Z"
-  },
-  {
-   "id": "ffe9aec557",
-   "series": "d1e1b035b2",
-   "title": "Harriet – Trying to Get the Feeling Again: At Christmas",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 1140,
-   "dates": "Mon, Nov 23",
-   "time": "7 PM",
-   "place": "Higley Center Concert Hall",
-   "placeLines": "Higley Center Concert Hall",
-   "region": "EAST_VALLEY",
-   "category": "SEASONAL",
-   "summary": "Trying To Get The Feeling Again: At Christmas sees Harriet perform a festive edition of her acclaimed celebration of the sounds of the ’70s with her live band.",
-   "description": "Trying To Get The Feeling Again: At Christmas sees Harriet perform a festive edition of her acclaimed celebration of the sounds of the ’70s with her live band. Inspired by the warmth and togetherness of the holiday season, the show blends cherished hits of the decade with seasonal favourites, all delivered in Harriet’s distinctive style.…",
-   "url": "https://www.discovergilbert.com/events/an-evening-with-fleetwood-mask-500/",
-   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/11/Harriet-26-Christmas-Image-scaled-1.jpg",
-   "imageCredit": "Discover Gilbert",
-   "sources": [
-    "Discover Gilbert"
-   ],
-   "map": "Higley Center Concert Hall, AZ",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-24T02:00:00Z",
-    "end": "2026-11-24T03:00:00Z",
-    "notes": "Trying To Get The Feeling Again: At Christmas sees Harriet perform a festive edition of her acclaimed celebration of the sounds of the ’70s with her live band.\n\nhttps://www.discovergilbert.com/events/an-evening-with-fleetwood-mask-500/"
-   },
-   "firstSeen": "2026-11-19T19:31:30Z"
+   "firstSeen": "2026-11-24T21:23:01Z"
   },
   {
    "id": "380a54dbb6",
@@ -962,31 +872,32 @@
    "endMinute": 660,
    "dates": "Sat, Dec 5",
    "time": "8:30–11 AM",
-   "place": "HD SOUTH — Home of The Gilbert Historical Museum",
-   "placeLines": "HD SOUTH — Home of The Gilbert Historical Museum\n10 S Gilbert Rd, Gilbert, AZ, 85296",
+   "place": "HD South, Gilbert",
+   "placeLines": "HD South, Gilbert\n10 S Gilbert Rd, Gilbert, AZ, 85296",
    "region": "EAST_VALLEY",
    "category": "SEASONAL",
    "cost": "Free",
    "free": true,
    "kids": true,
-   "summary": "Santa Claus returns for his 9th annual visit to HD SOUTH for a festive morning of fun!",
-   "description": "Santa Claus returns for his 9th annual visit to HD SOUTH for a festive morning of fun! Enjoy a tasty breakfast, meet Santa, and snap a photo to remember the day. The event also includes holiday activities like cookie decorating, ornament making, face painting, story telling, and free admission to HD SOUTH.",
-   "url": "https://azparenting.com/event/breakfast-with-santa-3/",
-   "image": "https://azparenting.com/wp-content/uploads/2022/11/Breakfast-With-Santa-HD-South1-e1763054445835.jpg",
-   "imageCredit": "Arizona Parenting",
+   "summary": "Start the season with a morning the whole family can share.",
+   "description": "Start the season with a morning the whole family can share. Enjoy breakfast, meet Santa, and make holiday memories with cookie decorating, ornament making, music, face painting, and more!",
+   "url": "https://www.discovergilbert.com/events/breakfast-with-santa/",
+   "image": "https://www.discovergilbert.com/wp-content/uploads/2026/11/Breakfast-with-Santa-2025.png",
+   "imageCredit": "Discover Gilbert",
    "sources": [
+    "Discover Gilbert",
     "Arizona Parenting"
    ],
-   "map": "HD SOUTH — Home of The Gilbert Historical Museum, 10 S Gilbert Rd, Gilbert, AZ, 85296",
+   "map": "HD South, 10 S Gilbert Rd, Gilbert, AZ, 85296",
    "calendar": {
     "allDay": false,
     "start": "2026-12-05T15:30:00Z",
     "end": "2026-12-05T18:00:00Z",
-    "notes": "Santa Claus returns for his 9th annual visit to HD SOUTH for a festive morning of fun!\n\nhttps://azparenting.com/event/breakfast-with-santa-3/"
+    "notes": "Start the season with a morning the whole family can share.\n\nhttps://www.discovergilbert.com/events/breakfast-with-santa/"
    },
    "firstSeen": "2026-11-22T18:35:05Z",
-   "revision": 1,
-   "changed": "2026-11-23T22:45:26Z"
+   "revision": 2,
+   "changed": "2026-11-24T21:23:01Z"
   },
   {
    "id": "a9badf538f",
@@ -1547,6 +1458,36 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "9fe9801e4e",
+   "series": "01862c8ac8",
+   "title": "Photos with Santa",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "startMinute": 900,
+   "endMinute": 1080,
+   "dates": "Fri, Dec 18",
+   "time": "3–6 PM",
+   "place": "MGC, Apache Junction",
+   "placeLines": "MGC, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "We are excited to offer the opportunity for Photos with Santa at the Apache Junction Multi-Generational Center.",
+   "description": "We are excited to offer the opportunity for Photos with Santa at the Apache Junction Multi-Generational Center. If you weren't able to visit Santa at the Holiday Event, you'll have an opportunity to get pictures with him on Friday, December 18th.\nThis is a FREE activity that does require pre-registration.\nSimply sign up for one of the hour time-frames (3pm-4pm, 4pm-5pm, & 5pm-6pm). Then come in at any point during that time slot!\nPlease bring your own camera. A staff member will be available to take pictures for you. Photos are taken indoors. https://www.apachejunctionaz.gov/m/calendar/event/detail/2645",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2645",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "MGC, MGC - 1035 N Idaho Rd Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-18T22:00:00Z",
+    "end": "2026-12-19T01:00:00Z",
+    "notes": "We are excited to offer the opportunity for Photos with Santa at the Apache Junction Multi-Generational Center.\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2645"
+   },
+   "firstSeen": "2026-11-24T21:23:01Z"
+  },
+  {
    "id": "de56269497",
    "series": "e58c349228",
    "title": "Holiday Pies and Cookies",
@@ -1573,6 +1514,36 @@
     "notes": "https://mim.org/events/holiday-pies-and-cookies/"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "af5d122a7d",
+   "series": "874b9e0617",
+   "title": "Photos with Santa Paws",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 600,
+   "endMinute": 1439,
+   "dates": "Sat, Dec 19",
+   "time": "10 AM–11:59 PM",
+   "place": "Dutchman Dog Park and Pained Sky Dog Park, Apache Junction",
+   "placeLines": "Dutchman Dog Park and Pained Sky Dog Park, Apache Junction",
+   "region": "EAST_VALLEY",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Bring your furry, four-legged friend and take a free photo with Santa on December 19th!",
+   "description": "Bring your furry, four-legged friend and take a free photo with Santa on December 19th!\n\nWe're thrilled to offer two locations and time frames again this year!\n-Painted Sky Dog Park (10200 S. Picacho Trail) from 10am-12pm\n-Dutchman Dog Park (247 E. Superstition Blvd) from 2pm-4pm\n\nNo registration is required, just stop by anytime! https://www.apachejunctionaz.gov/m/calendar/event/detail/2646",
+   "url": "https://www.apachejunctionaz.gov/m/calendar/event/detail/2646",
+   "sources": [
+    "City of Apache Junction"
+   ],
+   "map": "Dutchman Dog Park and Pained Sky Dog Park, Dutchman Dog Park and Pained Sky Dog Park - 10200 S. Picacho Trail Apache Junction AZ 85119",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T17:00:00Z",
+    "end": "2026-12-20T06:59:00Z",
+    "notes": "Bring your furry, four-legged friend and take a free photo with Santa on December 19th!\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2646"
+   },
+   "firstSeen": "2026-11-24T21:23:01Z"
   },
   {
    "id": "edc9ee622b",
