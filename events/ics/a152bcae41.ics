@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a152bcae41-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261125T203203Z
+SEQUENCE:0
+DTSTART:20261204T003000Z
+DTEND:20261204T013000Z
+SUMMARY:Holiday Express at South Mountain Community Library
+LOCATION:South Mountain Community Library\, AZ
+DESCRIPTION:https://www.phoenix.gov/calendar/phoenix-public-library/holiday
+ -express-at-south-mountain-community-library.html
+URL:https://www.phoenix.gov/calendar/phoenix-public-library/holiday-express
+ -at-south-mountain-community-library.html
+END:VEVENT
+END:VCALENDAR

@@ -3,10 +3,10 @@
  "app": "Phoenix Happenings",
  "area": "Phoenix",
  "zone": "America/Phoenix",
- "generatedAt": "2026-11-24T21:23:01Z",
+ "generatedAt": "2026-11-25T20:32:03Z",
  "since": "2026-10-16T07:58:53Z",
- "from": "2026-11-24",
- "until": "2027-02-16",
+ "from": "2026-11-25",
+ "until": "2027-02-17",
  "regions": [
   {
    "id": "PHOENIX",
@@ -95,7 +95,7 @@
   },
   {
    "name": "Children's Museum of Phoenix",
-   "events": 3
+   "events": 8
   },
   {
    "name": "City of Apache Junction",
@@ -107,7 +107,7 @@
   },
   {
    "name": "City of Phoenix",
-   "events": 3
+   "events": 5
   },
   {
    "name": "Desert Botanical Garden",
@@ -136,16 +136,16 @@
  ],
  "events": [
   {
-   "id": "b9629271a6",
+   "id": "14156f8819",
    "series": "0cdcd4f74b",
    "title": "2026 Guide to AZ Holiday Happenings",
-   "start": "2026-11-22",
+   "start": "2026-11-23",
    "end": "2027-01-03",
-   "dates": "Nov 22–Jan 3",
+   "dates": "Nov 23–Jan 3",
    "category": "SEASONAL",
    "summary": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.",
    "description": "Your 2026 Guide to Holiday Events\n\nArizona is full of holiday cheer this time of year. Join these local events for a fun-filled holiday season!\n\nView the entire guide here: azparenting.com/2026-holiday-events/\n\nEvents are subject to change, and some sell out, so we encourage you to check event websites before planning your visit.",
-   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-22/",
+   "url": "https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-23/",
    "image": "https://azparenting.com/wp-content/uploads/2025/11/AZP_Slider_5-2-1.jpg",
    "imageCredit": "Arizona Parenting",
    "sources": [
@@ -153,11 +153,11 @@
    ],
    "calendar": {
     "allDay": true,
-    "start": "2026-11-22",
+    "start": "2026-11-23",
     "end": "2027-01-04",
-    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-22/"
+    "notes": "Your 2026 Guide to Holiday Events Arizona is full of holiday cheer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-11-23/"
    },
-   "firstSeen": "2026-11-24T21:23:01Z"
+   "firstSeen": "2026-11-25T20:32:03Z"
   },
   {
    "id": "380a54dbb6",
@@ -564,6 +564,36 @@
    "firstSeen": "2026-11-08T17:08:13Z"
   },
   {
+   "id": "79661e29c8",
+   "series": "8413d9e197",
+   "title": "Letters to Santa",
+   "start": "2026-12-01",
+   "end": "2026-12-06",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Dec 1–6",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Santa will be at the Children’s Museum this coming weekend!",
+   "description": "Santa will be at the Children’s Museum this coming weekend! Write a letter or two to this jolly ‘ole elf and we’ll make sure it gets to the North Pole!\n\nPrograms generously supported by",
+   "url": "https://childrensmuseumofphoenix.org/event/letters-to-santa/2026-12-01/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-01",
+    "end": "2026-12-07",
+    "notes": "Hours: 9 AM–4 PM\n\nSanta will be at the Children’s Museum this coming weekend!\n\nhttps://childrensmuseumofphoenix.org/event/letters-to-santa/2026-12-01/"
+   },
+   "firstSeen": "2026-11-25T20:32:03Z"
+  },
+  {
    "id": "c8c5dcb480",
    "series": "92bf9349ef",
    "title": "Agritopia Farm Night",
@@ -595,6 +625,33 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "a152bcae41",
+   "series": "d40df71467",
+   "title": "Holiday Express at South Mountain Community Library",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "startMinute": 1050,
+   "endMinute": 1110,
+   "dates": "Thu, Dec 3",
+   "time": "5:30–6:30 PM",
+   "place": "South Mountain Community Library",
+   "placeLines": "South Mountain Community Library",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/phoenix-public-library/holiday-express-at-south-mountain-community-library.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "South Mountain Community Library, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-04T00:30:00Z",
+    "end": "2026-12-04T01:30:00Z",
+    "notes": "https://www.phoenix.gov/calendar/phoenix-public-library/holiday-express-at-south-mountain-community-library.html"
+   },
+   "firstSeen": "2026-11-25T20:32:03Z"
+  },
+  {
    "id": "b5367f5f9c",
    "series": "2b89e34a34",
    "title": "Carefree Friday Farmers Market",
@@ -622,6 +679,36 @@
     "notes": "Join us every Friday from 9 a.m.\n\nhttps://www.carefree.org/events"
    },
    "firstSeen": "2026-10-16T07:58:53Z"
+  },
+  {
+   "id": "2eafcc5bae",
+   "series": "27533d7eb2",
+   "title": "Hannukah Candles",
+   "start": "2026-12-04",
+   "end": "2026-12-04",
+   "startMinute": 600,
+   "endMinute": 720,
+   "dates": "Fri, Dec 4",
+   "time": "10 AM–12 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "kids": true,
+   "summary": "Hanukkah is known as the Festival of Lights.",
+   "description": "Hanukkah is known as the Festival of Lights. Stop by to learn about this eight-day celebration, discover why candles are such an important part of the holiday, and create your own paper candle to take home.\n\nPrograms generously supported by",
+   "url": "https://childrensmuseumofphoenix.org/event/hannukah-candles/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-04T17:00:00Z",
+    "end": "2026-12-04T19:00:00Z",
+    "notes": "Hanukkah is known as the Festival of Lights.\n\nhttps://childrensmuseumofphoenix.org/event/hannukah-candles/"
+   },
+   "firstSeen": "2026-11-25T20:32:03Z"
   },
   {
    "id": "bddbd62841",
@@ -1129,6 +1216,35 @@
    "firstSeen": "2026-10-16T07:58:53Z"
   },
   {
+   "id": "73c8142489",
+   "series": "3b53a40f95",
+   "title": "3D Christmas Trees",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Dec 7–13",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Create and decorate your very own 3D Christmas Tree!",
+   "url": "https://childrensmuseumofphoenix.org/event/3d-christmas-trees/2026-12-07/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-07",
+    "end": "2026-12-14",
+    "notes": "Hours: 9 AM–4 PM\n\nCreate and decorate your very own 3D Christmas Tree!\n\nhttps://childrensmuseumofphoenix.org/event/3d-christmas-trees/2026-12-07/"
+   },
+   "firstSeen": "2026-11-25T20:32:03Z"
+  },
+  {
    "id": "f1e843cd7a",
    "series": "2b89e34a34",
    "title": "Carefree Friday Farmers Market",
@@ -1309,6 +1425,36 @@
    "firstSeen": "2026-11-17T19:55:56Z"
   },
   {
+   "id": "c0decb77a3",
+   "series": "27533d7eb2",
+   "title": "Hannukah Candles",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "startMinute": 600,
+   "endMinute": 720,
+   "dates": "Sat, Dec 12",
+   "time": "10 AM–12 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "COMMUNITY",
+   "kids": true,
+   "summary": "Hanukkah ends tonight!",
+   "description": "Hanukkah ends tonight! Celebrate the final day of the Festival of Lights by learning about the history and traditions of this eight-day holiday. Discover why candles are central to the celebration, then make your own paper candle to take home.\n\nPrograms generously supported by",
+   "url": "https://childrensmuseumofphoenix.org/event/hannukah-candles-2/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-12T17:00:00Z",
+    "end": "2026-12-12T19:00:00Z",
+    "notes": "Hanukkah ends tonight!\n\nhttps://childrensmuseumofphoenix.org/event/hannukah-candles-2/"
+   },
+   "firstSeen": "2026-11-25T20:32:03Z"
+  },
+  {
    "id": "55b161fc68",
    "series": "ac5805ccd2",
    "title": "Christmas Caroling & Cookie Exchange",
@@ -1365,6 +1511,36 @@
    "firstSeen": "2026-10-16T07:58:53Z",
    "revision": 1,
    "changed": "2026-11-18T19:27:05Z"
+  },
+  {
+   "id": "3b00a08905",
+   "series": "84087ebf24",
+   "title": "“Paper Plate Hanukkah Menorah”",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "startMinute": 540,
+   "endMinute": 960,
+   "dates": "Dec 14–20",
+   "time": "9 AM–4 PM",
+   "place": "Children’s Museum of Phoenix",
+   "placeLines": "Children’s Museum of Phoenix\n215 N. 7th Street, Phoenix, AZ, 85034",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "kids": true,
+   "summary": "Let’s celebrate and learn about Hanukkah by making your very own menorah.",
+   "description": "Let’s celebrate and learn about Hanukkah by making your very own menorah.\n\nPrograms generously supported by",
+   "url": "https://childrensmuseumofphoenix.org/event/paper-plate-hanukkah-menorah/2026-12-14/",
+   "sources": [
+    "Children's Museum of Phoenix"
+   ],
+   "map": "Children’s Museum of Phoenix, 215 N. 7th Street, Phoenix, AZ, 85034",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-14",
+    "end": "2026-12-21",
+    "notes": "Hours: 9 AM–4 PM\n\nLet’s celebrate and learn about Hanukkah by making your very own menorah.\n\nhttps://childrensmuseumofphoenix.org/event/paper-plate-hanukkah-menorah/2026-12-14/"
+   },
+   "firstSeen": "2026-11-25T20:32:03Z"
   },
   {
    "id": "bb55259232",
@@ -1501,7 +1677,7 @@
    "region": "PHOENIX",
    "category": "SEASONAL",
    "url": "https://mim.org/events/holiday-pies-and-cookies/",
-   "image": "https://mim.org/wp-content/uploads/2026/09/events_christmas-pies-and-cookies_1600x1200-768x576.jpg",
+   "image": "https://mim.org/wp-content/uploads/2026/09/vents_christmas-pies-and-cookies_1600x1200-2-768x576.jpg",
    "imageCredit": "Musical Instrument Museum",
    "sources": [
     "Musical Instrument Museum"
@@ -1544,6 +1720,33 @@
     "notes": "Bring your furry, four-legged friend and take a free photo with Santa on December 19th!\n\nhttps://www.apachejunctionaz.gov/m/calendar/event/detail/2646"
    },
    "firstSeen": "2026-11-24T21:23:01Z"
+  },
+  {
+   "id": "45bc11c267",
+   "series": "7dcca45bf7",
+   "title": "Pressed & Printed: Holiday Card Creations at Burton Barr Central Library",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "startMinute": 840,
+   "endMinute": 930,
+   "dates": "Sat, Dec 19",
+   "time": "2–3:30 PM",
+   "place": "Burton Barr Central Library",
+   "placeLines": "Burton Barr Central Library",
+   "region": "PHOENIX",
+   "category": "SEASONAL",
+   "url": "https://www.phoenix.gov/calendar/phoenix-public-library/pressed---printed--holiday-card-creations-at-burton-barr-central.html",
+   "sources": [
+    "City of Phoenix"
+   ],
+   "map": "Burton Barr Central Library, AZ",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-19T21:00:00Z",
+    "end": "2026-12-19T22:30:00Z",
+    "notes": "https://www.phoenix.gov/calendar/phoenix-public-library/pressed---printed--holiday-card-creations-at-burton-barr-central.html"
+   },
+   "firstSeen": "2026-11-25T20:32:03Z"
   },
   {
    "id": "edc9ee622b",

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45bc11c267-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261125T203203Z
+SEQUENCE:0
+DTSTART:20261219T210000Z
+DTEND:20261219T223000Z
+SUMMARY:Pressed & Printed: Holiday Card Creations at Burton Barr Central Li
+ brary
+LOCATION:Burton Barr Central Library\, AZ
+DESCRIPTION:https://www.phoenix.gov/calendar/phoenix-public-library/pressed
+ ---printed--holiday-card-creations-at-burton-barr-central.html
+URL:https://www.phoenix.gov/calendar/phoenix-public-library/pressed---print
+ ed--holiday-card-creations-at-burton-barr-central.html
+END:VEVENT
+END:VCALENDAR

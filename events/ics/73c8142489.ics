@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73c8142489-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261125T203203Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:3D Christmas Trees
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Hours: 9 AM–4 PM\n\nCreate and decorate your very own 3D Chri
+ stmas Tree!\n\nhttps://childrensmuseumofphoenix.org/event/3d-christmas-tre
+ es/2026-12-07/
+URL:https://childrensmuseumofphoenix.org/event/3d-christmas-trees/2026-12-0
+ 7/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3b00a08905-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261125T203203Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:“Paper Plate Hanukkah Menorah”
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Hours: 9 AM–4 PM\n\nLet’s celebrate and learn about Hanukka
+ h by making your very own menorah.\n\nhttps://childrensmuseumofphoenix.org
+ /event/paper-plate-hanukkah-menorah/2026-12-14/
+URL:https://childrensmuseumofphoenix.org/event/paper-plate-hanukkah-menorah
+ /2026-12-14/
+END:VEVENT
+END:VCALENDAR

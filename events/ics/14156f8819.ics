@@ -4,17 +4,17 @@ PRODID:-//Nicholas Ton//Phoenix Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:b9629271a6-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261124T212301Z
+UID:14156f8819-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261125T203203Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261122
+DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20270104
 TRANSP:TRANSPARENT
 SUMMARY:2026 Guide to AZ Holiday Happenings
 DESCRIPTION:Your 2026 Guide to Holiday Events Arizona is full of holiday ch
  eer this time of year.\n\nhttps://azparenting.com/event/2026-guide-to-az-h
- oliday-happenings/2026-11-22/
+ oliday-happenings/2026-11-23/
 URL:https://azparenting.com/event/2026-guide-to-az-holiday-happenings/2026-
- 11-22/
+ 11-23/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2eafcc5bae-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261125T203203Z
+SEQUENCE:0
+DTSTART:20261204T170000Z
+DTEND:20261204T190000Z
+SUMMARY:Hannukah Candles
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Hanukkah is known as the Festival of Lights.\n\nhttps://childre
+ nsmuseumofphoenix.org/event/hannukah-candles/
+URL:https://childrensmuseumofphoenix.org/event/hannukah-candles/
+END:VEVENT
+END:VCALENDAR
