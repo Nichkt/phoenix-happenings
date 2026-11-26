@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:af5d122a7d-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261124T212301Z
-SEQUENCE:0
+DTSTAMP:20261126T201742Z
+SEQUENCE:1
+LAST-MODIFIED:20261126T201742Z
 DTSTART:20261219T170000Z
 DTEND:20261220T065900Z
 SUMMARY:Photos with Santa Paws
 LOCATION:Dutchman Dog Park and Pained Sky Dog Park\, Dutchman Dog Park and 
  Pained Sky Dog Park - 10200 S. Picacho Trail Apache Junction AZ 85119
 DESCRIPTION:Bring your furry\, four-legged friend and take a free photo wit
- h Santa on December 19th!\n\nhttps://www.apachejunctionaz.gov/m/calendar/e
- vent/detail/2646
-URL:https://www.apachejunctionaz.gov/m/calendar/event/detail/2646
+ h Santa on December 19th!\n\nhttps://www.apachejunctionaz.gov/calendar.asp
+ x?EID=2646
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2646
 END:VEVENT
 END:VCALENDAR

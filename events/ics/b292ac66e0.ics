@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b292ac66e0-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261126T201742Z
+SEQUENCE:0
+DTSTART:20261128T233000Z
+DTEND:20261129T013000Z
+SUMMARY:Illuminate the Season at SanTan Village
+LOCATION:SanTan Village\, AZ
+DESCRIPTION:Kick off the holiday season at SanTan Village’s Illuminate th
+ e Season\, a free community celebration filled with festive fun for the wh
+ ole family.\n\nhttps://www.discovergilbert.com/events/illuminate-the-seaso
+ n-at-santan-village/
+URL:https://www.discovergilbert.com/events/illuminate-the-season-at-santan-
+ village/
+END:VEVENT
+END:VCALENDAR

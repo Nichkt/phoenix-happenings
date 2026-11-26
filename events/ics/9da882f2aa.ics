@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9da882f2aa-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261126T201742Z
+SEQUENCE:0
+DTSTART:20261226T170000Z
+DTEND:20261226T190000Z
+SUMMARY:Kwanzaa Colors
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Celebrate the first day of Kwanzaa with us!\n\nhttps://children
+ smuseumofphoenix.org/event/kwanzaa-colors/
+URL:https://childrensmuseumofphoenix.org/event/kwanzaa-colors/
+END:VEVENT
+END:VCALENDAR

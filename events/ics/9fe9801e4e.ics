@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:9fe9801e4e-phoenix-happenings@nichkt.github.io
-DTSTAMP:20261124T212301Z
-SEQUENCE:0
+DTSTAMP:20261126T201742Z
+SEQUENCE:1
+LAST-MODIFIED:20261126T201742Z
 DTSTART:20261218T220000Z
 DTEND:20261219T010000Z
 SUMMARY:Photos with Santa
 LOCATION:MGC\, MGC - 1035 N Idaho Rd Apache Junction AZ 85119
 DESCRIPTION:We are excited to offer the opportunity for Photos with Santa a
  t the Apache Junction Multi-Generational Center.\n\nhttps://www.apachejunc
- tionaz.gov/m/calendar/event/detail/2645
-URL:https://www.apachejunctionaz.gov/m/calendar/event/detail/2645
+ tionaz.gov/calendar.aspx?EID=2645
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2645
 END:VEVENT
 END:VCALENDAR

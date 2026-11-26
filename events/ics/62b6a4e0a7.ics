@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62b6a4e0a7-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261126T201742Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261231
+TRANSP:TRANSPARENT
+SUMMARY:Kwanzaa Placemat
+LOCATION:Children’s Museum of Phoenix\, 215 N. 7th Street\, Phoenix\, AZ\
+ , 85034
+DESCRIPTION:Hours: 9 AM–4 PM\n\nMake a place mat to decorate your Kwanzaa
+  celebration table.\n\nhttps://childrensmuseumofphoenix.org/event/kwanzaa-
+ placemat/2026-12-21/
+URL:https://childrensmuseumofphoenix.org/event/kwanzaa-placemat/2026-12-21/
+END:VEVENT
+END:VCALENDAR
