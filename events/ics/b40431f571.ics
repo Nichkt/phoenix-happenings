@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Phoenix Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b40431f571-phoenix-happenings@nichkt.github.io
+DTSTAMP:20261128T190014Z
+SEQUENCE:0
+DTSTART:20270221T013000Z
+DTEND:20270221T033000Z
+SUMMARY:Movie in the Park - Jurassic World Dominion
+LOCATION:Flatiron Park\, Flatiron Park - 100 N Apache Trail Apache Junction
+  AZ 85119
+DESCRIPTION:Bring your blanket or lawn chair and enjoy a nice evening outsi
+ de watching a fun family movie!\n\nhttps://www.apachejunctionaz.gov/calend
+ ar.aspx?EID=2611
+URL:https://www.apachejunctionaz.gov/calendar.aspx?EID=2611
+END:VEVENT
+END:VCALENDAR
